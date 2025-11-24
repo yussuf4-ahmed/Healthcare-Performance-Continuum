@@ -1,0 +1,7 @@
+Department,Bed_Capacity,Beds_Occupied,Staff_Count,Avg_Wait_Time_Minutes,Avg_Treatment_Time_Minutes,Discharge_Delays
+Cardiology,42,22,60,49,77,5
+Emergency,64,51,69,18,70,4
+Surgery,51,26,72,12,74,5
+General Medicine,42,28,21,45,142,6
+Pulmonology,41,31,82,49,85,5
+Orthopedics,65,49,37,49,110,4

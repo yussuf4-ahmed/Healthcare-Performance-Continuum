@@ -1,0 +1,2001 @@
+Patient_ID,Age,Gender,Insurance_Type,Chronic_Condition,Diagnosis_Code,Admission_Department,Admission_Date,Discharge_Date,Length_of_Stay,First_Time_Visit
+P00001,62.0,Female,Private,Heart Disease,I38.2,General Medicine,2024-11-23,2024-11-28,5,No
+P00002,51.0,Male,Private,Heart Disease,I87.0,Surgery,2024-10-27,2024-11-02,6,No
+P00003,43.0,Male,Self-pay,None,I30.6,Emergency,2023-06-09,2023-06-12,3,Yes
+P00004,44.0,Male,Private,Kidney Disease,I43.0,General Medicine,2024-07-03,2024-07-08,5,Yes
+P00005,41.0,Male,Government,None,I56.9,Emergency,2023-03-13,2023-03-17,4,Yes
+P00006,15.0,Male,Private,Diabetes,I45.7,General Medicine,2024-01-09,2024-01-13,4,Yes
+P00007,43.0,Female,Government,Diabetes,I91.2,Surgery,2023-09-08,2023-09-13,5,Yes
+P00008,71.0,Female,Government,Hypertension,I17.3,Pulmonology,2023-11-20,2023-11-24,4,No
+P00009,49.0,Female,Government,Heart Disease,I73.6,Pulmonology,2024-10-20,2024-10-26,6,No
+P00010,61.0,Female,Private,Hypertension,I84.6,Emergency,2023-05-22,2023-05-31,9,No
+P00011,51.0,Male,Government,None,I64.9,Cardiology,2024-01-26,2024-01-30,4,No
+P00012,48.0,Female,Self-pay,Hypertension,I24.8,General Medicine,2024-10-18,2024-10-23,5,No
+P00013,64.0,Male,Government,Hypertension,I74.2,Surgery,2023-04-19,2023-04-24,5,No
+P00014,69.0,Female,Private,None,I79.8,Orthopedics,2024-09-05,2024-09-10,5,No
+P00015,34.0,Female,Government,Heart Disease,I17.3,Pulmonology,2023-03-22,2023-03-29,7,Yes
+P00016,32.0,Female,Government,Diabetes,I70.8,Cardiology,2024-06-24,2024-07-02,8,No
+P00017,28.0,Female,Government,Heart Disease,I49.6,Orthopedics,2024-10-27,2024-11-03,7,No
+P00018,72.0,Male,Private,Diabetes,I80.3,General Medicine,2023-01-08,2023-01-13,5,Yes
+P00019,70.0,Female,Self-pay,Diabetes,I40.4,General Medicine,2023-08-08,2023-08-17,9,No
+P00020,59.0,Female,Private,COPD,I62.3,Cardiology,2024-11-05,2024-11-09,4,No
+P00021,59.0,Female,Government,None,I22.0,Emergency,2023-12-14,2023-12-15,1,No
+P00022,58.0,Female,Private,Heart Disease,I69.3,Pulmonology,2023-03-19,2023-03-24,5,No
+P00023,62.0,Male,Self-pay,None,I21.3,Cardiology,2024-05-12,2024-05-18,6,No
+P00024,51.0,Male,Private,Kidney Disease,I68.4,Emergency,2024-07-23,2024-07-28,5,No
+P00025,55.0,Male,Private,Hypertension,I17.5,Cardiology,2024-08-21,2024-08-24,3,No
+P00026,98.0,Male,Government,None,I18.9,Cardiology,2023-08-29,2023-09-02,4,No
+P00027,74.0,Female,Private,Diabetes,I94.9,Surgery,2023-11-20,2023-11-28,8,No
+P00028,67.0,Male,Private,Hypertension,I48.7,Emergency,2023-03-16,2023-03-22,6,Yes
+P00029,55.0,Male,Government,COPD,I26.5,Pulmonology,2023-09-08,2023-09-11,3,No
+P00030,44.0,Female,Government,None,I93.8,Cardiology,2024-07-21,2024-07-24,3,Yes
+P00031,37.0,Male,Private,Diabetes,I80.2,Emergency,2024-09-11,2024-09-16,5,Yes
+P00032,81.0,Female,Government,Heart Disease,I16.1,General Medicine,2023-10-11,2023-10-21,10,Yes
+P00033,58.0,Female,Private,Kidney Disease,I64.8,Cardiology,2023-03-19,2023-03-28,9,No
+P00034,68.0,Male,Private,Hypertension,I65.2,Cardiology,2024-01-09,2024-01-15,6,No
+P00035,59.0,Female,Private,Heart Disease,I23.5,Pulmonology,2024-02-21,2024-02-23,2,No
+P00036,41.0,Male,Private,None,I32.6,Cardiology,2023-12-07,2023-12-11,4,No
+P00037,36.0,Female,Private,Heart Disease,I99.1,Emergency,2023-02-09,2023-02-17,8,No
+P00038,68.0,Male,Private,None,I39.3,Cardiology,2023-07-17,2023-07-22,5,No
+P00039,58.0,Female,Private,COPD,I96.8,Emergency,2023-01-29,2023-02-05,7,Yes
+P00040,68.0,Female,Private,Diabetes,I65.5,General Medicine,2023-11-18,2023-11-22,4,No
+P00041,34.0,Female,Private,Diabetes,I65.0,Surgery,2024-07-05,2024-07-11,6,No
+P00042,62.0,Male,Private,None,I52.9,Emergency,2023-05-08,2023-05-16,8,No
+P00043,57.0,Male,Private,Heart Disease,I26.3,Emergency,2024-01-24,2024-02-01,8,No
+P00044,31.0,Male,Government,Diabetes,I46.3,Emergency,2024-08-16,2024-08-24,8,No
+P00045,63.0,Female,Government,None,I31.1,Emergency,2024-11-10,2024-11-19,9,No
+P00046,63.0,Female,Government,Heart Disease,I35.2,Cardiology,2023-09-08,2023-09-13,5,No
+P00047,95.0,Male,Self-pay,Hypertension,I99.6,Surgery,2023-09-07,2023-09-12,5,Yes
+P00048,20.0,Female,Self-pay,None,I38.2,Pulmonology,2024-12-13,2024-12-15,2,No
+P00049,55.0,Female,Government,None,I95.8,Orthopedics,2024-09-01,2024-09-04,3,No
+P00050,34.0,Female,Self-pay,Kidney Disease,I80.7,Pulmonology,2024-05-01,2024-05-05,4,No
+P00051,78.0,Male,Government,COPD,I40.4,Surgery,2024-12-31,2025-01-08,8,Yes
+P00052,68.0,Female,Private,Heart Disease,I98.2,General Medicine,2023-03-07,2023-03-11,4,No
+P00053,,Male,Government,Kidney Disease,I84.0,Pulmonology,2024-08-12,2024-08-16,4,No
+P00054,83.0,Female,Self-pay,None,I63.8,General Medicine,2024-07-13,2024-07-21,8,No
+P00055,26.0,Male,Government,Kidney Disease,I95.6,General Medicine,2024-04-23,2024-04-27,4,No
+P00056,45.0,Female,Government,Hypertension,I20.6,Cardiology,2024-04-17,2024-04-20,3,Yes
+P00057,49.0,Male,Private,None,I45.6,Emergency,2023-03-25,2023-03-28,3,No
+P00058,87.0,Female,Private,Diabetes,I93.0,General Medicine,2023-09-11,2023-09-18,7,Yes
+P00059,79.0,Male,Government,Hypertension,I37.7,General Medicine,2024-01-13,2024-01-20,7,Yes
+P00060,28.0,Male,Government,None,I23.9,Cardiology,2023-11-16,2023-11-17,1,No
+P00061,65.0,Female,Private,Hypertension,I90.3,Cardiology,2023-11-05,2023-11-13,8,No
+P00062,56.0,Female,Government,Kidney Disease,I64.5,Cardiology,2024-10-25,2024-10-30,5,No
+P00063,59.0,Male,Self-pay,Hypertension,I68.2,Surgery,2024-06-18,2024-06-23,5,No
+P00064,42.0,Female,Government,Kidney Disease,I85.4,Emergency,2023-09-09,2023-09-15,6,No
+P00065,60.0,Male,Government,Hypertension,I58.5,Cardiology,2023-11-29,2023-12-07,8,Yes
+P00066,64.0,Male,Self-pay,Hypertension,I45.8,Cardiology,2023-07-15,2023-07-25,10,Yes
+P00067,54.0,Female,Government,Hypertension,I72.7,Pulmonology,2023-04-06,2023-04-12,6,Yes
+P00068,70.0,Female,Private,Hypertension,I54.6,Orthopedics,2024-07-17,2024-07-25,8,No
+P00069,39.0,Male,Private,Heart Disease,I25.8,Orthopedics,2024-12-07,2024-12-15,8,Yes
+P00070,91.0,Female,Self-pay,COPD,I46.1,Pulmonology,2023-10-31,2023-11-05,5,Yes
+P00071,71.0,Female,Private,None,I80.4,General Medicine,2023-05-10,2023-05-13,3,No
+P00072,51.0,Male,Private,COPD,I53.2,Orthopedics,2023-09-16,2023-09-21,5,No
+P00073,46.0,Male,Private,Hypertension,I16.2,Cardiology,2024-07-30,2024-08-04,5,No
+P00074,57.0,Female,Private,Hypertension,I89.3,General Medicine,2024-01-25,2024-02-04,10,No
+P00075,59.0,Female,Private,Hypertension,I88.1,Orthopedics,2023-08-01,2023-08-07,6,No
+P00076,80.0,Male,Government,Heart Disease,I62.7,General Medicine,2024-04-26,2024-05-01,5,Yes
+P00077,59.0,Female,Government,Hypertension,I43.9,General Medicine,2023-07-22,2023-07-30,8,No
+P00078,39.0,Female,Government,Diabetes,I31.4,General Medicine,2024-08-05,2024-08-08,3,No
+P00079,55.0,Male,Private,Heart Disease,I79.7,Surgery,2024-09-04,2024-09-11,7,Yes
+P00080,71.0,Male,Private,None,I83.9,Orthopedics,2024-11-19,2024-11-25,6,No
+P00081,52.0,Male,Government,Kidney Disease,I45.2,Orthopedics,2024-03-22,2024-03-27,5,No
+P00082,71.0,Male,Private,Hypertension,I30.5,Emergency,2024-05-22,2024-05-27,5,Yes
+P00083,60.0,Female,Government,Heart Disease,I51.1,,2024-02-18,2024-02-27,9,No
+P00084,87.0,Female,Government,Diabetes,I76.5,General Medicine,2024-05-25,2024-06-01,7,No
+P00085,52.0,Female,Self-pay,Kidney Disease,I99.7,Cardiology,2024-10-07,2024-10-17,10,No
+P00086,48.0,Female,Government,Diabetes,I24.7,Orthopedics,2024-10-25,2024-10-29,4,No
+P00087,58.0,Female,Private,None,I70.3,Surgery,2023-05-29,2023-06-06,8,No
+P00088,,Female,Self-pay,Heart Disease,I63.5,Orthopedics,2024-06-03,2024-06-11,8,Yes
+P00089,58.0,Female,Government,Hypertension,I29.7,Surgery,2023-12-20,2023-12-29,9,No
+P00090,90.0,Female,Self-pay,None,I40.9,Emergency,2024-02-25,2024-02-28,3,Yes
+P00091,36.0,Female,Private,Hypertension,I93.2,Surgery,2023-02-07,2023-02-10,3,Yes
+P00092,66.0,Male,Government,Diabetes,I68.0,General Medicine,2024-02-24,2024-03-03,8,No
+P00093,81.0,Female,Private,Hypertension,I60.1,Pulmonology,2024-11-21,2024-11-30,9,No
+P00094,55.0,Female,Government,None,I14.9,Cardiology,2024-10-08,2024-10-13,5,No
+P00095,51.0,Male,Self-pay,None,I22.7,Cardiology,2023-11-03,2023-11-04,1,No
+P00096,52.0,Male,Private,Diabetes,I77.6,Surgery,2023-07-04,2023-07-08,4,Yes
+P00097,44.0,Female,Private,None,I28.3,Surgery,2023-09-18,2023-09-22,4,No
+P00098,34.0,Male,Private,COPD,I19.7,Orthopedics,2024-08-24,2024-08-27,3,Yes
+P00099,39.0,Male,Private,None,I71.1,Emergency,2024-08-08,2024-08-09,1,No
+P00100,43.0,Male,Government,Kidney Disease,I11.9,Pulmonology,2023-02-20,2023-02-25,5,No
+P00101,52.0,Female,Government,Heart Disease,I55.3,General Medicine,2024-09-27,2024-10-04,7,Yes
+P00102,54.0,Female,Private,Diabetes,I90.0,Emergency,2024-03-27,2024-04-02,6,Yes
+P00103,49.0,Female,Private,Kidney Disease,I35.2,Pulmonology,2024-01-10,2024-01-16,6,No
+P00104,12.0,Male,Government,COPD,I47.5,Pulmonology,2024-04-24,2024-05-01,7,No
+P00105,81.0,Female,Government,None,I81.5,Cardiology,2024-02-09,2024-02-13,4,Yes
+P00106,9.0,Female,Government,Hypertension,I91.5,Cardiology,2023-08-28,2023-09-02,5,No
+P00107,57.0,Male,Government,Hypertension,I91.7,Orthopedics,2023-11-06,2023-11-12,6,No
+P00108,70.0,Male,Self-pay,Diabetes,I40.8,Cardiology,2024-04-09,2024-04-16,7,No
+P00109,79.0,Female,Government,Hypertension,I63.1,Pulmonology,2024-09-22,2024-09-30,8,No
+P00110,30.0,Male,Private,None,I56.1,Orthopedics,2024-01-12,2024-01-14,2,No
+P00111,43.0,Male,Private,Diabetes,I68.1,General Medicine,2024-10-19,2024-10-23,4,No
+P00112,38.0,Male,Self-pay,None,I36.1,Pulmonology,2024-07-21,2024-07-25,4,Yes
+P00113,43.0,Male,Private,None,I10.4,Pulmonology,2023-05-29,2023-06-03,5,No
+P00114,67.0,Male,Self-pay,Diabetes,I55.3,General Medicine,2023-01-17,2023-01-24,7,Yes
+P00115,45.0,Female,Government,COPD,I56.8,General Medicine,2024-04-07,2024-04-12,5,No
+P00116,48.0,Female,Self-pay,COPD,I68.0,Cardiology,2024-05-05,2024-05-09,4,No
+P00117,38.0,Female,Private,None,I51.9,Cardiology,2023-05-10,2023-05-13,3,Yes
+P00118,47.0,Male,Self-pay,COPD,I68.8,General Medicine,2023-04-12,2023-04-19,7,No
+P00119,64.0,Female,Government,None,I65.7,Pulmonology,2024-02-28,2024-03-04,5,No
+P00120,50.0,Male,Private,Hypertension,I57.2,General Medicine,2024-04-30,2024-05-06,6,Yes
+P00121,43.0,Male,Government,None,I81.0,General Medicine,2024-07-29,2024-08-01,3,No
+P00122,64.0,Female,Self-pay,Kidney Disease,I16.4,General Medicine,2023-12-27,2024-01-04,8,Yes
+P00123,20.0,Female,Government,Kidney Disease,I81.5,Cardiology,2023-10-13,2023-10-20,7,No
+P00124,47.0,Female,Government,Hypertension,I92.8,Cardiology,2024-11-04,2024-11-11,7,No
+P00125,60.0,Female,Private,Kidney Disease,I10.2,Pulmonology,2024-08-02,2024-08-09,7,No
+P00126,46.0,Female,Private,COPD,I58.6,Surgery,2023-06-11,2023-06-15,4,No
+P00127,81.0,Female,Private,Diabetes,I30.9,Cardiology,2023-03-25,2023-04-02,8,Yes
+P00128,61.0,Male,Private,None,I24.5,Emergency,2023-10-18,2023-10-21,3,No
+P00129,71.0,Male,Private,None,I17.0,Emergency,2023-08-05,2023-08-11,6,No
+P00130,71.0,Male,Government,Kidney Disease,I26.6,Surgery,2023-08-24,2023-09-01,8,No
+P00131,57.0,Male,Self-pay,Diabetes,I12.7,Orthopedics,2023-11-17,2023-11-20,3,No
+P00132,100.0,Male,Private,Diabetes,I51.2,Pulmonology,2024-09-24,2024-10-05,11,No
+P00133,82.0,Male,Private,Kidney Disease,I61.8,Cardiology,2023-11-14,2023-11-23,9,No
+P00134,44.0,Male,Government,COPD,I34.5,Emergency,2024-10-22,2024-10-29,7,No
+P00135,73.0,Male,Government,None,I93.1,Cardiology,2024-10-05,2024-10-06,1,No
+P00136,43.0,Male,Self-pay,Hypertension,I91.9,Emergency,2024-10-04,2024-10-11,7,No
+P00137,47.0,Female,Government,Hypertension,I55.8,Cardiology,2024-04-17,2024-04-21,4,No
+P00138,84.0,Male,Self-pay,None,I88.9,Surgery,2024-04-18,2024-04-23,5,No
+P00139,87.0,Male,Self-pay,Hypertension,I34.5,General Medicine,2024-05-28,2024-05-31,3,Yes
+P00140,74.0,Female,Private,Hypertension,I74.2,Cardiology,2024-12-25,2024-12-31,6,No
+P00141,39.0,Male,Private,Heart Disease,I62.5,General Medicine,2023-02-23,2023-03-01,6,No
+P00142,51.0,Male,Government,Heart Disease,I94.9,Pulmonology,2023-12-08,2023-12-13,5,Yes
+P00143,53.0,Male,Government,Hypertension,I26.9,General Medicine,2023-03-28,2023-04-02,5,No
+P00144,44.0,Female,Government,None,I97.8,Cardiology,2024-11-17,2024-11-21,4,No
+P00145,59.0,Male,Private,None,I72.3,Emergency,2023-05-21,2023-05-26,5,Yes
+P00146,49.0,Female,Government,Hypertension,I77.0,General Medicine,2024-09-24,2024-09-29,5,Yes
+P00147,41.0,Female,Government,None,I31.7,Cardiology,2024-01-09,2024-01-10,1,No
+P00148,40.0,Male,Government,Kidney Disease,I78.3,Emergency,2024-04-25,2024-04-29,4,No
+P00149,32.0,Female,Private,None,I58.8,Surgery,2023-06-15,2023-06-17,2,No
+P00150,66.0,Male,Government,None,I80.1,General Medicine,2024-06-12,2024-06-18,6,No
+P00151,23.0,Male,Self-pay,Diabetes,I65.1,Orthopedics,2023-08-16,2023-08-23,7,No
+P00152,85.0,Male,Private,Kidney Disease,I59.1,Emergency,2023-01-29,2023-02-05,7,No
+P00153,,Male,Private,Diabetes,I70.2,General Medicine,2024-04-25,2024-05-03,8,No
+P00154,52.0,Male,Government,COPD,I87.8,Emergency,2023-10-23,2023-10-26,3,Yes
+P00155,92.0,Female,Government,Diabetes,I73.9,Surgery,2024-10-09,2024-10-16,7,No
+P00156,66.0,Male,Government,Heart Disease,I63.2,General Medicine,2023-03-29,2023-04-03,5,No
+P00157,24.0,Female,Government,COPD,I12.6,Pulmonology,2023-02-14,2023-02-20,6,No
+P00158,63.0,Male,Government,Kidney Disease,I94.1,General Medicine,2023-12-07,2023-12-15,8,Yes
+P00159,51.0,Female,Government,Hypertension,I99.7,General Medicine,2023-05-19,2023-05-23,4,Yes
+P00160,68.0,Male,Private,Heart Disease,I15.5,Orthopedics,2024-06-11,2024-06-16,5,No
+P00161,28.0,Male,Government,Heart Disease,I16.5,Emergency,2024-01-12,2024-01-18,6,No
+P00162,64.0,Female,Private,Heart Disease,I98.7,Emergency,2024-06-15,2024-06-23,8,Yes
+P00163,64.0,Male,Self-pay,Heart Disease,I47.5,Cardiology,2023-12-02,2023-12-06,4,No
+P00164,26.0,Male,Government,Kidney Disease,I15.5,General Medicine,2024-03-21,2024-03-26,5,Yes
+P00165,53.0,Male,Government,Kidney Disease,I96.2,Orthopedics,2023-05-27,2023-06-04,8,No
+P00166,85.0,Male,Private,Hypertension,I56.6,Orthopedics,2023-02-03,2023-02-09,6,No
+P00167,30.0,Male,Government,Hypertension,I77.5,Emergency,2024-10-27,2024-11-06,10,Yes
+P00168,49.0,Male,Government,None,I25.4,General Medicine,2024-12-21,2024-12-24,3,No
+P00169,61.0,Female,Government,Diabetes,I19.7,Cardiology,2024-12-31,2025-01-05,5,No
+P00170,57.0,Female,Private,Kidney Disease,I18.8,Surgery,2023-11-04,2023-11-15,11,No
+P00171,55.0,Female,Government,COPD,I25.3,Pulmonology,2023-08-31,2023-09-04,4,No
+P00172,45.0,Male,Government,Hypertension,I88.1,Cardiology,2024-02-12,2024-02-17,5,No
+P00173,61.0,Female,Government,Diabetes,I50.1,Surgery,2024-11-27,2024-12-05,8,No
+P00174,19.0,Female,Government,None,I26.6,Surgery,2023-02-26,2023-02-28,2,No
+P00175,66.0,Male,Self-pay,Heart Disease,I76.4,Pulmonology,2023-09-14,2023-09-26,12,Yes
+P00176,54.0,Female,Government,Diabetes,I92.2,General Medicine,2024-08-17,2024-08-23,6,Yes
+P00177,29.0,Female,Government,Hypertension,I13.1,Cardiology,2024-10-18,2024-10-22,4,No
+P00178,37.0,Female,Government,Diabetes,I90.8,Emergency,2023-11-06,2023-11-08,2,No
+P00179,53.0,Male,Private,Diabetes,I66.6,Surgery,2023-07-28,2023-08-04,7,No
+P00180,58.0,Male,Self-pay,Kidney Disease,I61.2,General Medicine,2024-06-11,2024-06-18,7,No
+P00181,56.0,Male,Private,Diabetes,I47.6,Pulmonology,2024-03-04,2024-03-09,5,Yes
+P00182,62.0,Male,Government,Heart Disease,I30.7,Orthopedics,2024-04-23,2024-04-28,5,No
+P00183,79.0,Female,Government,None,I37.9,Emergency,2023-02-21,2023-02-26,5,Yes
+P00184,43.0,Female,Private,Diabetes,I23.6,Cardiology,2023-09-28,2023-10-03,5,No
+P00185,47.0,Male,Government,Heart Disease,I80.4,Cardiology,2024-05-31,2024-06-09,9,No
+P00186,64.0,Female,Government,Diabetes,I22.6,Emergency,2023-12-14,2023-12-20,6,No
+P00187,44.0,Female,Private,Diabetes,I14.2,General Medicine,2024-04-30,2024-05-09,9,No
+P00188,58.0,Male,Self-pay,Heart Disease,I60.9,General Medicine,2023-11-03,2023-11-15,12,No
+P00189,42.0,Female,Government,COPD,I12.5,Emergency,2023-04-23,2023-04-29,6,No
+P00190,62.0,Female,Government,Diabetes,I70.4,Orthopedics,2024-08-15,2024-08-22,7,No
+P00191,57.0,Male,Government,Hypertension,I58.2,Pulmonology,2023-09-06,2023-09-13,7,Yes
+P00192,54.0,Male,Private,Heart Disease,I98.3,Emergency,2024-09-18,2024-09-26,8,No
+P00193,57.0,Male,Private,Heart Disease,I51.7,Surgery,2023-11-18,2023-11-22,4,No
+P00194,61.0,Female,Government,None,I97.4,General Medicine,2023-07-16,2023-07-18,2,No
+P00195,45.0,Female,Self-pay,None,I36.7,Emergency,2023-12-24,2023-12-30,6,No
+P00196,56.0,Male,Government,COPD,I60.5,Orthopedics,2023-05-30,2023-06-02,3,Yes
+P00197,82.0,Male,Private,Heart Disease,I71.3,Emergency,2024-07-05,2024-07-13,8,Yes
+P00198,52.0,Male,Government,Heart Disease,I16.8,Emergency,2023-08-27,2023-09-02,6,Yes
+P00199,74.0,Male,Government,Diabetes,I80.2,Emergency,2024-05-02,2024-05-08,6,No
+P00200,77.0,Male,Government,None,I21.9,Emergency,2023-02-08,2023-02-15,7,No
+P00201,,Male,Self-pay,None,I60.7,Emergency,2023-10-24,2023-10-25,1,No
+P00202,60.0,Male,Self-pay,Heart Disease,I92.8,Surgery,2023-05-18,2023-05-25,7,No
+P00203,60.0,Male,Private,COPD,I42.2,Cardiology,2023-12-12,2023-12-19,7,No
+P00204,62.0,Male,Self-pay,None,I64.8,Emergency,2024-02-15,2024-02-20,5,No
+P00205,41.0,Male,Private,Heart Disease,I40.7,General Medicine,2023-12-04,2023-12-08,4,No
+P00206,86.0,Female,Government,Diabetes,I25.7,Emergency,2024-02-20,2024-02-27,7,No
+P00207,45.0,Female,Government,Hypertension,I47.5,General Medicine,2023-08-13,2023-08-20,7,No
+P00208,10.0,Female,Private,Hypertension,I70.8,Pulmonology,2023-08-12,2023-08-16,4,No
+P00209,97.0,Female,Government,COPD,I56.1,Orthopedics,2023-04-25,2023-04-30,5,Yes
+P00210,53.0,Female,Private,Heart Disease,I76.7,Cardiology,2023-07-30,2023-08-03,4,No
+P00211,49.0,Male,Private,Diabetes,I63.7,Surgery,2024-07-26,2024-07-30,4,No
+P00212,52.0,Male,Government,Hypertension,I84.1,Cardiology,2023-12-19,2023-12-25,6,No
+P00213,58.0,Female,Self-pay,COPD,I46.6,Cardiology,2023-05-19,2023-05-24,5,No
+P00214,39.0,Male,Self-pay,Kidney Disease,I58.6,Cardiology,2024-11-08,2024-11-17,9,No
+P00215,56.0,Male,Self-pay,Kidney Disease,I26.3,Pulmonology,2023-01-24,2023-01-31,7,No
+P00216,71.0,Male,Private,Heart Disease,I68.5,Cardiology,2023-07-13,2023-07-17,4,No
+P00217,35.0,Female,Private,None,I12.3,Emergency,2023-04-14,2023-04-22,8,No
+P00218,44.0,Female,Private,Diabetes,I66.3,Surgery,2023-02-27,2023-03-03,4,Yes
+P00219,73.0,Female,Government,Hypertension,I96.5,Emergency,2023-05-27,2023-06-05,9,No
+P00220,52.0,Male,Government,Hypertension,I32.6,Surgery,2023-02-18,2023-02-28,10,No
+P00221,68.0,Female,Private,Kidney Disease,I29.4,Emergency,2024-07-04,2024-07-11,7,No
+P00222,57.0,Female,Government,None,I81.6,Orthopedics,2024-07-24,2024-07-29,5,No
+P00223,53.0,Male,Private,Kidney Disease,I57.1,Surgery,2023-07-15,2023-07-21,6,Yes
+P00224,75.0,Male,Private,None,I85.8,Emergency,2023-08-02,2023-08-07,5,No
+P00225,30.0,Male,Self-pay,None,I25.7,Orthopedics,2024-12-13,2024-12-17,4,No
+P00226,74.0,Female,Government,Kidney Disease,I78.5,Emergency,2024-01-04,2024-01-08,4,No
+P00227,16.0,Female,Government,None,I36.5,Emergency,2023-02-16,2023-02-21,5,No
+P00228,58.0,Male,Self-pay,Hypertension,I63.4,Cardiology,2023-12-04,2023-12-07,3,Yes
+P00229,69.0,Female,Self-pay,Kidney Disease,I72.7,Surgery,2023-12-27,2024-01-05,9,Yes
+P00230,76.0,Female,Government,Hypertension,I17.8,Cardiology,2023-03-18,2023-03-22,4,No
+P00231,67.0,Male,Government,Heart Disease,I29.0,Emergency,2024-04-11,2024-04-15,4,No
+P00232,54.0,Female,Government,COPD,I10.8,Surgery,2023-01-13,2023-01-19,6,Yes
+P00233,56.0,Male,Government,Hypertension,I65.2,Cardiology,2023-04-09,2023-04-16,7,No
+P00234,62.0,Male,Private,None,I20.5,Orthopedics,2024-04-15,2024-04-16,1,No
+P00235,37.0,Female,Government,Hypertension,I93.0,Cardiology,2024-01-24,2024-01-30,6,No
+P00236,65.0,Female,Private,None,I92.5,Surgery,2023-04-08,2023-04-15,7,No
+P00237,57.0,Female,Government,Hypertension,I44.0,Orthopedics,2024-12-01,2024-12-06,5,No
+P00238,72.0,Male,Self-pay,Heart Disease,I36.9,Cardiology,2024-12-30,2025-01-06,7,No
+P00239,72.0,Female,Government,None,I96.8,Emergency,2023-05-24,2023-06-02,9,No
+P00240,49.0,Female,Private,Diabetes,I39.1,Emergency,2024-09-20,2024-09-27,7,No
+P00241,34.0,Male,Private,None,I72.3,Emergency,2024-01-20,2024-01-24,4,No
+P00242,28.0,Male,Government,None,I19.1,Emergency,2024-01-25,2024-01-27,2,No
+P00243,83.0,Male,Private,Diabetes,I49.7,Emergency,2023-10-04,2023-10-13,9,Yes
+P00244,72.0,Female,Government,Diabetes,I21.5,Surgery,2024-09-03,2024-09-10,7,No
+P00245,78.0,Male,Private,Diabetes,I81.3,Surgery,2023-06-23,2023-06-29,6,No
+P00246,64.0,Male,Private,Heart Disease,I45.6,Emergency,2023-03-20,2023-03-23,3,No
+P00247,67.0,Female,Government,COPD,I27.4,Cardiology,2024-02-10,2024-02-15,5,No
+P00248,59.0,Male,Private,None,I93.9,Cardiology,2023-11-25,2023-11-28,3,No
+P00249,38.0,Male,Private,Heart Disease,I98.7,Orthopedics,2023-09-06,2023-09-13,7,No
+P00250,36.0,Male,Self-pay,Heart Disease,I79.2,General Medicine,2024-07-17,2024-07-21,4,Yes
+P00251,63.0,Male,Government,None,I18.6,General Medicine,2023-05-23,2023-05-26,3,No
+P00252,36.0,Female,Government,Diabetes,I86.7,General Medicine,2024-07-01,2024-07-09,8,No
+P00253,62.0,Female,Government,Kidney Disease,I78.9,General Medicine,2023-03-29,2023-04-05,7,Yes
+P00254,56.0,Male,Government,Hypertension,I92.6,Orthopedics,2023-12-06,2023-12-14,8,No
+P00255,48.0,Male,Government,COPD,I84.9,Emergency,2024-01-19,2024-01-24,5,No
+P00256,76.0,Female,Private,Diabetes,I23.4,Emergency,2023-03-29,2023-04-05,7,Yes
+P00257,76.0,Male,Government,Heart Disease,I71.5,Surgery,2024-03-24,2024-03-31,7,No
+P00258,83.0,Male,Government,Diabetes,I53.1,General Medicine,2023-06-18,2023-06-25,7,No
+P00259,71.0,Female,Private,Kidney Disease,I69.3,Pulmonology,2024-10-06,2024-10-11,5,Yes
+P00260,73.0,Male,Government,Heart Disease,I85.6,Emergency,2024-12-22,2024-12-28,6,Yes
+P00261,43.0,Female,Government,None,I78.2,Emergency,2023-07-21,2023-07-23,2,No
+P00262,35.0,Female,Government,Hypertension,I88.6,General Medicine,2023-12-23,2023-12-28,5,No
+P00263,72.0,Female,Government,None,I85.1,General Medicine,2023-11-17,2023-11-24,7,Yes
+P00264,55.0,Female,Government,Kidney Disease,I27.9,Emergency,2023-07-10,2023-07-15,5,No
+P00265,64.0,Female,Private,Heart Disease,I46.2,Emergency,2024-04-06,2024-04-11,5,No
+P00266,55.0,Female,Private,Kidney Disease,I81.8,General Medicine,2024-02-23,2024-02-28,5,No
+P00267,73.0,Female,Private,Diabetes,I38.4,Cardiology,2023-08-19,2023-08-25,6,No
+P00268,64.0,Female,Government,COPD,I24.9,Cardiology,2024-07-10,2024-07-18,8,No
+P00269,44.0,Male,Government,COPD,I64.1,General Medicine,2024-10-31,2024-11-05,5,No
+P00270,60.0,Male,Private,None,I66.1,General Medicine,2023-08-31,2023-09-03,3,Yes
+P00271,55.0,Female,Government,Kidney Disease,I88.2,Pulmonology,2023-07-31,2023-08-06,6,No
+P00272,66.0,Female,Private,None,I47.4,Surgery,2024-06-10,2024-06-17,7,No
+P00273,46.0,Female,Government,None,I45.2,General Medicine,2023-05-16,2023-05-21,5,Yes
+P00274,74.0,Female,Government,COPD,I83.4,General Medicine,2024-01-20,2024-01-26,6,No
+P00275,54.0,Male,Government,Heart Disease,I57.7,Orthopedics,2023-12-02,2023-12-11,9,No
+P00276,57.0,Male,Self-pay,Hypertension,I99.5,Pulmonology,2024-07-01,2024-07-06,5,No
+P00277,63.0,Female,Private,Heart Disease,I80.9,Cardiology,2024-05-11,2024-05-17,6,No
+P00278,,Male,Government,None,I12.1,Orthopedics,2023-06-11,2023-06-15,4,No
+P00279,41.0,Male,Government,Diabetes,I93.4,Cardiology,2023-10-08,2023-10-14,6,Yes
+P00280,52.0,Female,Government,Diabetes,I90.4,General Medicine,2023-08-28,2023-08-31,3,No
+P00281,42.0,Male,Private,Hypertension,I76.7,Cardiology,2024-12-13,2024-12-19,6,No
+P00282,48.0,Female,Government,Heart Disease,I21.1,Cardiology,2024-01-12,2024-01-19,7,No
+P00283,51.0,Female,Private,None,I28.1,Surgery,2023-01-09,2023-01-13,4,No
+P00284,71.0,Male,Government,None,I88.7,Pulmonology,2023-03-30,2023-04-01,2,No
+P00285,43.0,Female,Private,Kidney Disease,I27.3,Emergency,2023-03-28,2023-03-31,3,Yes
+P00286,7.0,Male,Self-pay,Diabetes,I94.4,Emergency,2024-09-13,2024-09-18,5,No
+P00287,53.0,Male,Self-pay,None,I73.6,Cardiology,2024-05-26,2024-05-30,4,No
+P00288,64.0,Male,Private,Heart Disease,I59.9,Emergency,2024-07-13,2024-07-18,5,No
+P00289,12.0,Female,Private,Diabetes,I43.3,Cardiology,2023-03-03,2023-03-13,10,No
+P00290,45.0,Female,Government,Kidney Disease,I61.1,General Medicine,2024-07-04,2024-07-08,4,No
+P00291,52.0,Female,Private,None,I78.5,Emergency,2024-10-11,2024-10-16,5,No
+P00292,70.0,Male,Private,None,I40.0,Emergency,2024-03-20,2024-03-26,6,Yes
+P00293,58.0,Female,Government,Heart Disease,I11.2,General Medicine,2023-06-17,2023-06-20,3,No
+P00294,45.0,Female,Private,Kidney Disease,I44.1,General Medicine,2023-01-31,2023-02-02,2,No
+P00295,29.0,Male,Self-pay,Hypertension,I73.7,Surgery,2023-02-26,2023-03-04,6,No
+P00296,36.0,Male,Private,Hypertension,I24.3,General Medicine,2023-01-03,2023-01-08,5,Yes
+P00297,64.0,Male,Private,Heart Disease,I14.8,Pulmonology,2024-11-02,2024-11-06,4,No
+P00298,77.0,Female,Private,Diabetes,I57.1,Surgery,2023-02-23,2023-03-02,7,Yes
+P00299,80.0,Female,Private,COPD,I46.4,Emergency,2024-07-20,2024-07-27,7,No
+P00300,86.0,Female,Government,Heart Disease,I57.9,Orthopedics,2023-07-20,2023-07-27,7,No
+P00301,64.0,Male,Self-pay,Diabetes,I79.5,,2024-12-11,2024-12-15,4,No
+P00302,56.0,Female,Government,Hypertension,I23.3,Surgery,2023-09-01,2023-09-11,10,No
+P00303,75.0,Male,Private,Diabetes,I39.8,Emergency,2024-01-17,2024-01-27,10,No
+P00304,51.0,Female,Government,Kidney Disease,I85.9,Cardiology,2024-11-09,2024-11-13,4,No
+P00305,44.0,Male,Government,Hypertension,I51.5,Surgery,2023-08-28,2023-09-05,8,Yes
+P00306,64.0,Female,Private,Heart Disease,I69.5,Emergency,2024-07-02,2024-07-10,8,No
+P00307,50.0,Male,Self-pay,Diabetes,I97.4,Pulmonology,2024-12-14,2024-12-21,7,No
+P00308,38.0,Male,Government,None,I60.8,Cardiology,2023-11-03,2023-11-06,3,Yes
+P00309,39.0,Male,Government,Hypertension,I41.1,Surgery,2023-05-24,2023-05-29,5,Yes
+P00310,65.0,Male,Private,Kidney Disease,I97.1,General Medicine,2023-09-23,2023-10-02,9,No
+P00311,28.0,Male,Government,None,I21.5,Cardiology,2024-04-17,2024-04-18,1,Yes
+P00312,22.0,Female,Government,Kidney Disease,I64.2,Emergency,2023-07-11,2023-07-16,5,Yes
+P00313,44.0,Female,Government,Hypertension,I73.6,Pulmonology,2024-05-05,2024-05-10,5,Yes
+P00314,100.0,Male,Self-pay,COPD,I90.8,Pulmonology,2024-01-27,2024-02-06,10,No
+P00315,50.0,Female,Self-pay,COPD,I59.4,Cardiology,2023-11-23,2023-11-30,7,No
+P00316,45.0,Male,Government,COPD,I55.9,Orthopedics,2023-06-13,2023-06-17,4,Yes
+P00317,62.0,Female,Self-pay,Diabetes,I38.9,Pulmonology,2024-02-02,2024-02-11,9,No
+P00318,29.0,Male,Government,None,I99.5,Orthopedics,2023-01-29,2023-02-03,5,No
+P00319,28.0,Male,Self-pay,None,I73.8,Emergency,2024-05-17,2024-05-18,1,Yes
+P00320,32.0,Male,Government,Kidney Disease,I88.3,Pulmonology,2023-12-15,2023-12-22,7,No
+P00321,72.0,Male,Private,Hypertension,I28.1,Pulmonology,2024-01-09,2024-01-17,8,No
+P00322,50.0,Male,Private,Heart Disease,I27.2,General Medicine,2024-03-23,2024-03-28,5,No
+P00323,70.0,Male,Self-pay,Hypertension,I88.5,Emergency,2024-08-26,2024-08-31,5,No
+P00324,68.0,Male,Private,Diabetes,I99.9,Emergency,2024-08-04,2024-08-11,7,Yes
+P00325,36.0,Female,Private,Hypertension,I73.2,Emergency,2023-03-21,2023-03-26,5,Yes
+P00326,37.0,Female,Private,Hypertension,I91.5,Surgery,2023-09-29,2023-10-04,5,Yes
+P00327,44.0,Female,Government,Diabetes,I66.6,Orthopedics,2024-02-28,2024-03-03,4,No
+P00328,53.0,Male,Government,None,I93.3,Cardiology,2023-03-17,2023-03-21,4,No
+P00329,58.0,Male,Private,Kidney Disease,I58.2,General Medicine,2024-07-14,2024-07-19,5,No
+P00330,55.0,Female,Self-pay,Hypertension,I65.2,General Medicine,2024-03-20,2024-03-27,7,Yes
+P00331,30.0,Male,Government,Hypertension,I79.4,General Medicine,2023-11-01,2023-11-07,6,Yes
+P00332,97.0,Female,Private,Kidney Disease,I64.1,Emergency,2024-11-08,2024-11-15,7,No
+P00333,48.0,Male,Government,None,I70.1,Emergency,2024-02-12,2024-02-15,3,No
+P00334,56.0,Female,Private,Kidney Disease,I58.5,Emergency,2023-02-15,2023-02-23,8,Yes
+P00335,65.0,Male,Private,None,I95.1,Cardiology,2023-12-19,2023-12-22,3,No
+P00336,91.0,Male,Private,Kidney Disease,I76.6,Orthopedics,2024-12-04,2024-12-09,5,No
+P00337,41.0,Male,Private,None,I14.8,Surgery,2024-06-13,2024-06-19,6,No
+P00338,44.0,Male,Government,Heart Disease,I31.3,Pulmonology,2023-05-10,2023-05-16,6,Yes
+P00339,52.0,Male,Government,Diabetes,I86.4,Emergency,2023-03-10,2023-03-16,6,Yes
+P00340,40.0,Female,Government,None,I11.9,General Medicine,2024-03-05,2024-03-11,6,Yes
+P00341,60.0,Female,Self-pay,Diabetes,I23.9,General Medicine,2023-10-20,2023-10-27,7,No
+P00342,78.0,Male,Government,Hypertension,I70.0,Cardiology,2024-02-17,2024-02-27,10,Yes
+P00343,44.0,Male,Self-pay,Kidney Disease,I40.0,General Medicine,2023-10-03,2023-10-10,7,No
+P00344,44.0,Male,Private,COPD,I99.1,Orthopedics,2023-08-22,2023-09-01,10,Yes
+P00345,50.0,Female,Private,Kidney Disease,I92.1,Emergency,2023-08-05,2023-08-08,3,No
+P00346,71.0,Female,Private,Diabetes,I30.1,Emergency,2024-06-02,2024-06-09,7,No
+P00347,39.0,Female,Private,None,I35.0,Emergency,2024-04-12,2024-04-19,7,Yes
+P00348,64.0,Male,Government,Kidney Disease,I25.0,Emergency,2024-05-15,2024-05-21,6,No
+P00349,69.0,Female,Private,Heart Disease,I43.1,Emergency,2024-01-31,2024-02-05,5,Yes
+P00350,63.0,Male,Private,Heart Disease,I36.4,General Medicine,2024-06-09,2024-06-16,7,Yes
+P00351,52.0,Male,Self-pay,Hypertension,I86.0,Emergency,2024-09-14,2024-09-20,6,No
+P00352,76.0,Female,Private,Kidney Disease,I54.7,Emergency,2024-04-22,2024-04-27,5,No
+P00353,46.0,Female,Private,None,I57.8,General Medicine,2024-09-15,2024-09-20,5,Yes
+P00354,63.0,Male,Private,Heart Disease,I45.4,General Medicine,2024-10-29,2024-11-01,3,Yes
+P00355,72.0,Female,Government,None,I86.6,General Medicine,2024-11-28,2024-12-08,10,Yes
+P00356,30.0,Male,Self-pay,Kidney Disease,I14.9,General Medicine,2024-08-08,2024-08-16,8,No
+P00357,44.0,Female,Government,COPD,I95.5,Surgery,2023-06-24,2023-07-04,10,No
+P00358,52.0,Male,Private,Heart Disease,I81.2,Orthopedics,2023-12-10,2023-12-18,8,No
+P00359,60.0,Female,Private,None,I57.4,General Medicine,2024-04-19,2024-04-21,2,No
+P00360,87.0,Female,Self-pay,Diabetes,I34.8,Cardiology,2024-11-28,2024-12-05,7,No
+P00361,71.0,Female,Private,Heart Disease,I62.9,Pulmonology,2024-04-13,2024-04-18,5,Yes
+P00362,84.0,Male,Private,None,I50.0,Cardiology,2023-10-08,2023-10-11,3,Yes
+P00363,55.0,Male,Government,None,I26.9,Surgery,2024-03-15,2024-03-18,3,No
+P00364,74.0,Male,Private,Kidney Disease,I11.5,General Medicine,2024-06-27,2024-07-06,9,Yes
+P00365,21.0,Male,Government,Kidney Disease,I26.1,Emergency,2024-08-25,2024-09-03,9,No
+P00366,41.0,Female,Government,COPD,I77.5,Surgery,2024-12-04,2024-12-09,5,No
+P00367,49.0,Male,Private,None,I61.0,Emergency,2023-05-15,2023-05-21,6,Yes
+P00368,10.0,Male,Government,None,I58.4,General Medicine,2024-09-30,2024-10-03,3,Yes
+P00369,46.0,Female,Private,Hypertension,I63.7,Emergency,2024-07-14,2024-07-21,7,Yes
+P00370,41.0,Female,Private,Kidney Disease,I22.8,Emergency,2024-09-12,2024-09-16,4,No
+P00371,73.0,Female,Government,Heart Disease,I23.7,Emergency,2023-07-24,2023-08-01,8,No
+P00372,43.0,Male,Private,Heart Disease,I80.7,,2024-12-05,2024-12-10,5,No
+P00373,53.0,Female,Self-pay,None,I95.7,Cardiology,2023-04-03,2023-04-07,4,No
+P00374,73.0,Female,Government,COPD,I47.4,Surgery,2023-04-13,2023-04-22,9,No
+P00375,56.0,Male,Government,Kidney Disease,I24.1,Pulmonology,2023-02-16,2023-02-21,5,Yes
+P00376,42.0,Male,Self-pay,None,I44.1,Emergency,2023-12-17,2023-12-20,3,Yes
+P00377,63.0,Male,Private,None,I63.2,Cardiology,2024-12-13,2024-12-17,4,No
+P00378,50.0,Male,Self-pay,COPD,I82.7,Emergency,2024-01-24,2024-02-02,9,No
+P00379,33.0,Female,Government,None,I71.7,Cardiology,2024-02-26,2024-02-27,1,No
+P00380,55.0,Male,Self-pay,COPD,I83.9,Emergency,2024-11-16,2024-11-22,6,No
+P00381,56.0,Female,Private,Hypertension,I71.5,General Medicine,2024-10-18,2024-10-27,9,No
+P00382,35.0,Female,Private,Hypertension,I30.8,Pulmonology,2024-05-22,2024-06-01,10,No
+P00383,20.0,Male,Self-pay,Diabetes,I38.8,General Medicine,2024-02-17,2024-02-23,6,No
+P00384,75.0,Female,Private,COPD,I50.1,Orthopedics,2024-10-31,2024-11-07,7,Yes
+P00385,54.0,Female,Government,None,I89.4,Pulmonology,2024-07-29,2024-07-31,2,Yes
+P00386,51.0,Male,Private,Heart Disease,I68.5,Surgery,2024-09-26,2024-10-03,7,No
+P00387,53.0,Male,Private,Hypertension,I10.5,Emergency,2024-10-10,2024-10-15,5,No
+P00388,59.0,Female,Private,Heart Disease,I27.6,Cardiology,2024-09-17,2024-09-22,5,Yes
+P00389,52.0,Male,Government,Heart Disease,I53.1,General Medicine,2023-02-17,2023-02-20,3,No
+P00390,47.0,Female,Government,Hypertension,I74.2,Orthopedics,2023-01-05,2023-01-11,6,No
+P00391,52.0,Female,Government,COPD,I32.9,Cardiology,2023-05-12,2023-05-21,9,Yes
+P00392,58.0,Male,Self-pay,Kidney Disease,I87.3,Emergency,2023-12-18,2023-12-23,5,No
+P00393,82.0,Male,Government,Hypertension,I48.8,Pulmonology,2024-12-29,2025-01-05,7,No
+P00394,58.0,Male,Government,Hypertension,I96.2,Orthopedics,2024-10-27,2024-10-31,4,No
+P00395,55.0,Female,Government,None,I81.7,General Medicine,2024-11-14,2024-11-17,3,No
+P00396,62.0,Female,Self-pay,Kidney Disease,I11.8,Cardiology,2024-01-26,2024-02-05,10,Yes
+P00397,45.0,Female,Private,Heart Disease,I42.2,Pulmonology,2024-12-08,2024-12-17,9,No
+P00398,52.0,Male,Government,Hypertension,I96.8,Pulmonology,2024-10-24,2024-10-28,4,No
+P00399,42.0,Female,Private,Hypertension,I58.6,Emergency,2024-12-02,2024-12-11,9,No
+P00400,69.0,Male,Government,None,I66.3,Orthopedics,2024-12-22,2024-12-26,4,No
+P00401,58.0,Female,Private,Hypertension,I34.4,Surgery,2024-11-30,2024-12-11,11,Yes
+P00402,10.0,Male,Private,Heart Disease,I43.2,Cardiology,2023-09-19,2023-09-26,7,Yes
+P00403,51.0,Male,Self-pay,Hypertension,I90.9,Pulmonology,2023-11-05,2023-11-10,5,No
+P00404,72.0,Female,Private,Heart Disease,I33.8,Cardiology,2024-06-01,2024-06-09,8,Yes
+P00405,74.0,Male,Self-pay,Hypertension,I52.5,Emergency,2024-09-25,2024-10-01,6,No
+P00406,44.0,Female,Private,Hypertension,I67.3,Orthopedics,2024-09-20,2024-09-26,6,No
+P00407,67.0,Female,Private,None,I24.6,Emergency,2023-10-17,2023-10-25,8,Yes
+P00408,63.0,Female,Government,COPD,I47.3,Emergency,2023-03-26,2023-03-30,4,No
+P00409,24.0,Female,Private,Diabetes,I95.3,Pulmonology,2024-03-10,2024-03-14,4,No
+P00410,24.0,Female,Government,Kidney Disease,I19.2,Cardiology,2023-12-06,2023-12-13,7,Yes
+P00411,54.0,Male,Private,None,I43.6,Emergency,2024-10-07,2024-10-10,3,No
+P00412,39.0,Male,Private,Hypertension,I18.9,Cardiology,2023-03-16,2023-03-21,5,No
+P00413,68.0,Female,Government,Heart Disease,I66.6,Emergency,2024-11-07,2024-11-15,8,Yes
+P00414,50.0,Female,Government,None,I47.2,Emergency,2024-10-25,2024-10-29,4,No
+P00415,93.0,Female,Private,Diabetes,I86.6,Surgery,2023-03-29,2023-04-04,6,No
+P00416,30.0,Male,Private,Hypertension,I75.2,Cardiology,2023-08-15,2023-08-23,8,No
+P00417,53.0,Female,Government,Diabetes,I80.7,General Medicine,2023-03-16,2023-03-21,5,Yes
+P00418,22.0,Female,Government,Kidney Disease,I26.3,Cardiology,2024-09-26,2024-09-30,4,Yes
+P00419,42.0,Male,Government,Hypertension,I29.9,Surgery,2023-11-20,2023-11-24,4,No
+P00420,54.0,Female,Government,Hypertension,I45.5,Cardiology,2023-12-06,2023-12-09,3,No
+P00421,68.0,Male,Government,Heart Disease,I87.1,Pulmonology,2023-05-24,2023-05-29,5,No
+P00422,38.0,Female,Government,None,I74.0,Pulmonology,2024-08-15,2024-08-22,7,No
+P00423,52.0,Female,Government,None,I70.2,Emergency,2023-08-17,2023-08-20,3,No
+P00424,89.0,Male,Government,Diabetes,I56.8,Cardiology,2023-09-02,2023-09-12,10,No
+P00425,57.0,Male,Government,Kidney Disease,I32.9,Orthopedics,2024-11-06,2024-11-10,4,No
+P00426,48.0,Female,Private,None,I39.1,Emergency,2023-08-28,2023-09-02,5,Yes
+P00427,44.0,Male,Government,COPD,I15.0,Orthopedics,2023-11-28,2023-12-06,8,Yes
+P00428,51.0,Male,Government,Hypertension,I82.2,Emergency,2024-01-23,2024-01-30,7,No
+P00429,76.0,Female,Private,None,I76.6,Emergency,2023-12-20,2023-12-25,5,No
+P00430,68.0,Female,Private,Heart Disease,I19.8,General Medicine,2023-08-05,2023-08-11,6,Yes
+P00431,54.0,Female,Government,Kidney Disease,I52.1,Surgery,2024-05-05,2024-05-09,4,No
+P00432,35.0,Male,Private,Diabetes,I85.2,Cardiology,2024-06-08,2024-06-12,4,Yes
+P00433,49.0,Male,Private,None,I86.9,General Medicine,2024-11-08,2024-11-12,4,No
+P00434,36.0,Female,Government,COPD,I38.6,General Medicine,2024-08-19,2024-08-28,9,No
+P00435,49.0,Male,Government,Kidney Disease,I68.9,General Medicine,2023-08-24,2023-08-27,3,No
+P00436,57.0,Female,Self-pay,Hypertension,I29.9,Cardiology,2024-05-02,2024-05-08,6,No
+P00437,56.0,Female,Government,Diabetes,I94.2,Orthopedics,2024-07-06,2024-07-10,4,No
+P00438,54.0,Female,Government,Kidney Disease,I15.8,Emergency,2024-05-08,2024-05-15,7,No
+P00439,40.0,Female,Government,Hypertension,I22.6,Cardiology,2024-05-03,2024-05-08,5,No
+P00440,39.0,Female,Government,Heart Disease,I10.0,Surgery,2023-05-01,2023-05-10,9,No
+P00441,42.0,Female,Private,Diabetes,I64.9,Emergency,2024-07-02,2024-07-08,6,No
+P00442,43.0,Female,Government,Kidney Disease,I81.7,Cardiology,2024-07-26,2024-08-02,7,No
+P00443,49.0,Male,Government,Hypertension,I94.1,General Medicine,2024-04-02,2024-04-08,6,No
+P00444,62.0,Female,Government,None,I88.0,Cardiology,2024-10-13,2024-10-14,1,Yes
+P00445,38.0,Female,Private,Diabetes,I38.5,Cardiology,2023-02-08,2023-02-13,5,No
+P00446,91.0,Female,Private,None,I17.2,General Medicine,2024-03-25,2024-03-29,4,Yes
+P00447,50.0,Female,Private,None,I75.8,General Medicine,2024-09-21,2024-09-23,2,Yes
+P00448,78.0,Male,Private,None,I61.5,General Medicine,2024-02-20,2024-02-23,3,No
+P00449,46.0,Male,Private,Heart Disease,I81.9,Emergency,2023-10-11,2023-10-21,10,Yes
+P00450,64.0,Male,Private,Heart Disease,I74.1,Surgery,2024-05-30,2024-06-05,6,Yes
+P00451,61.0,Female,Self-pay,None,I83.4,General Medicine,2024-01-22,2024-01-26,4,No
+P00452,54.0,Female,Government,COPD,I85.0,Surgery,2023-09-22,2023-09-29,7,Yes
+P00453,65.0,Female,Private,Heart Disease,I55.8,Surgery,2024-12-18,2024-12-23,5,No
+P00454,50.0,Female,Government,Diabetes,I32.7,Emergency,2023-08-12,2023-08-18,6,No
+P00455,91.0,Female,Self-pay,COPD,I35.3,General Medicine,2023-09-29,2023-10-04,5,Yes
+P00456,49.0,Female,Private,Diabetes,I20.7,General Medicine,2024-07-08,2024-07-14,6,No
+P00457,79.0,Male,Self-pay,None,I83.4,Surgery,2024-06-07,2024-06-15,8,Yes
+P00458,43.0,Male,Government,COPD,I79.0,Surgery,2024-02-08,2024-02-14,6,No
+P00459,26.0,Male,Government,Heart Disease,I11.0,General Medicine,2024-01-24,2024-01-27,3,No
+P00460,54.0,Male,Government,Heart Disease,I70.9,Emergency,2023-07-08,2023-07-15,7,No
+P00461,63.0,Male,Self-pay,Heart Disease,I33.9,Cardiology,2024-08-12,2024-08-22,10,No
+P00462,,Female,Government,None,I35.2,Pulmonology,2023-06-03,2023-06-07,4,No
+P00463,69.0,Male,Self-pay,Hypertension,I78.5,Pulmonology,2023-11-04,2023-11-08,4,Yes
+P00464,46.0,Male,Private,Heart Disease,I42.7,Pulmonology,2023-04-09,2023-04-14,5,No
+P00465,61.0,Female,Self-pay,Heart Disease,I12.6,Cardiology,2024-11-26,2024-12-02,6,No
+P00466,61.0,Female,Private,None,I55.5,General Medicine,2024-05-14,2024-05-18,4,No
+P00467,60.0,Female,Government,None,I31.5,Emergency,2024-09-19,2024-09-20,1,No
+P00468,45.0,Male,Private,Heart Disease,I47.4,General Medicine,2024-02-09,2024-02-13,4,Yes
+P00469,34.0,Male,Government,None,I62.2,Emergency,2023-01-24,2023-01-25,1,Yes
+P00470,34.0,Female,Government,Heart Disease,I60.1,Cardiology,2024-04-29,2024-05-08,9,No
+P00471,75.0,Female,Private,Heart Disease,I29.1,General Medicine,2024-02-04,2024-02-14,10,No
+P00472,36.0,Female,Private,None,I13.0,General Medicine,2023-11-30,2023-12-03,3,No
+P00473,39.0,Female,Government,Diabetes,I99.8,Cardiology,2024-09-03,2024-09-09,6,No
+P00474,63.0,Male,Government,COPD,I54.7,Surgery,2023-04-02,2023-04-08,6,No
+P00475,89.0,Male,Private,None,I27.5,Emergency,2024-07-01,2024-07-12,11,Yes
+P00476,100.0,Male,Private,Kidney Disease,I47.9,Emergency,2023-01-08,2023-01-14,6,No
+P00477,73.0,Male,Private,Hypertension,I92.6,Pulmonology,2023-08-14,2023-08-21,7,Yes
+P00478,70.0,Female,Self-pay,None,I97.4,Emergency,2024-06-28,2024-07-02,4,No
+P00479,26.0,Male,Private,Hypertension,I89.7,Emergency,2024-09-29,2024-10-05,6,No
+P00480,47.0,Female,Private,None,I46.4,Cardiology,2024-03-24,2024-03-30,6,No
+P00481,45.0,Female,Private,Heart Disease,I73.5,Surgery,2023-02-02,2023-02-10,8,No
+P00482,38.0,Male,Government,Diabetes,I70.2,Emergency,2023-09-14,2023-09-18,4,No
+P00483,47.0,Female,Private,None,I66.3,General Medicine,2023-02-04,2023-02-07,3,Yes
+P00484,56.0,Female,Private,Kidney Disease,I49.5,Cardiology,2023-02-13,2023-02-19,6,No
+P00485,41.0,Female,Private,Kidney Disease,I16.3,Orthopedics,2023-08-30,2023-09-04,5,No
+P00486,70.0,Male,Private,None,I11.0,General Medicine,2024-12-08,2024-12-15,7,No
+P00487,46.0,Male,Private,Diabetes,I89.5,Orthopedics,2024-10-02,2024-10-08,6,Yes
+P00488,58.0,Female,Private,COPD,I50.8,Pulmonology,2023-12-22,2023-12-27,5,No
+P00489,81.0,Female,Private,Diabetes,I15.7,General Medicine,2024-07-26,2024-08-02,7,Yes
+P00490,42.0,Male,Private,Hypertension,I45.9,Orthopedics,2024-07-21,2024-07-26,5,Yes
+P00491,57.0,Female,Government,COPD,I91.8,Emergency,2023-07-09,2023-07-13,4,No
+P00492,55.0,Female,Private,Diabetes,I78.6,Emergency,2024-11-30,2024-12-05,5,No
+P00493,80.0,Male,Government,Diabetes,I76.1,Cardiology,2023-05-13,2023-05-17,4,Yes
+P00494,76.0,Male,Private,Hypertension,I59.7,Surgery,2024-12-19,2024-12-28,9,No
+P00495,72.0,Female,Private,None,I93.7,Orthopedics,2023-03-23,2023-03-26,3,No
+P00496,58.0,Female,Self-pay,None,I17.9,Emergency,2023-02-11,2023-02-18,7,No
+P00497,54.0,Male,Government,Diabetes,I39.8,Emergency,2023-07-17,2023-07-24,7,No
+P00498,49.0,Male,Government,Kidney Disease,I23.9,Emergency,2024-04-14,2024-04-19,5,No
+P00499,38.0,Female,Government,COPD,I94.2,Surgery,2024-09-06,2024-09-14,8,No
+P00500,51.0,Female,Private,Kidney Disease,I91.6,Pulmonology,2023-11-28,2023-12-05,7,No
+P00501,59.0,Female,Self-pay,Heart Disease,I67.7,Orthopedics,2023-01-01,2023-01-04,3,No
+P00502,49.0,Female,Self-pay,Heart Disease,I48.3,Emergency,2023-11-19,2023-11-23,4,Yes
+P00503,84.0,Male,Government,Hypertension,I83.2,Cardiology,2024-04-16,2024-04-25,9,No
+P00504,48.0,Female,Private,None,I21.9,Emergency,2023-08-11,2023-08-17,6,No
+P00505,50.0,Male,Government,Hypertension,I83.1,General Medicine,2023-11-04,2023-11-12,8,Yes
+P00506,42.0,Female,Self-pay,Kidney Disease,I65.6,Orthopedics,2023-05-04,2023-05-11,7,No
+P00507,89.0,Female,Private,None,I58.0,Emergency,2023-02-12,2023-02-16,4,No
+P00508,40.0,Female,Private,Hypertension,I60.7,General Medicine,2024-08-12,2024-08-15,3,No
+P00509,54.0,Male,Private,Diabetes,I83.0,Surgery,2023-09-26,2023-10-01,5,Yes
+P00510,19.0,Male,Private,Hypertension,I72.6,General Medicine,2023-07-20,2023-07-26,6,No
+P00511,63.0,Male,Private,Kidney Disease,I97.9,Cardiology,2024-11-18,2024-11-24,6,No
+P00512,35.0,Male,Government,None,I31.5,General Medicine,2024-03-28,2024-04-01,4,No
+P00513,72.0,Male,Government,Heart Disease,I20.1,General Medicine,2023-09-06,2023-09-15,9,No
+P00514,45.0,Female,Private,Hypertension,I24.4,Surgery,2023-01-24,2023-01-31,7,No
+P00515,60.0,Female,Government,COPD,I89.2,General Medicine,2024-11-15,2024-11-23,8,Yes
+P00516,,Male,Private,Heart Disease,I99.9,Emergency,2024-04-21,2024-04-27,6,No
+P00517,71.0,Male,Self-pay,Hypertension,I23.0,Emergency,2024-10-26,2024-10-31,5,No
+P00518,70.0,Female,Self-pay,COPD,I86.8,Cardiology,2023-07-23,2023-07-27,4,No
+P00519,48.0,Male,Private,COPD,I52.7,Emergency,2023-06-10,2023-06-14,4,Yes
+P00520,61.0,Male,Self-pay,None,I45.0,General Medicine,2024-02-01,2024-02-04,3,No
+P00521,29.0,Female,Private,Heart Disease,I60.2,Cardiology,2024-01-27,2024-02-03,7,No
+P00522,43.0,Female,Private,Hypertension,I64.4,Orthopedics,2023-12-04,2023-12-11,7,No
+P00523,59.0,Female,Government,Heart Disease,I27.4,General Medicine,2024-06-20,2024-06-25,5,No
+P00524,70.0,Female,Government,Hypertension,I30.5,Cardiology,2024-06-29,2024-07-05,6,No
+P00525,69.0,Female,Government,None,I62.6,Emergency,2024-10-14,2024-10-18,4,No
+P00526,49.0,Male,Private,None,I88.9,Emergency,2024-08-03,2024-08-06,3,No
+P00527,80.0,Male,Private,None,I27.8,Pulmonology,2024-04-25,2024-04-27,2,No
+P00528,71.0,Female,Private,Heart Disease,I14.6,General Medicine,2023-01-16,2023-01-27,11,No
+P00529,60.0,Female,Private,Heart Disease,I32.7,Pulmonology,2024-05-16,2024-05-21,5,No
+P00530,48.0,Male,Government,Hypertension,I58.5,Emergency,2024-08-08,2024-08-13,5,No
+P00531,49.0,Female,Government,COPD,I15.3,Surgery,2024-02-10,2024-02-16,6,No
+P00532,70.0,Female,Self-pay,Heart Disease,I66.6,Pulmonology,2023-10-20,2023-10-29,9,No
+P00533,31.0,Male,Government,Diabetes,I92.7,Cardiology,2024-05-27,2024-05-31,4,Yes
+P00534,27.0,Female,Private,Kidney Disease,I67.0,Cardiology,2024-08-27,2024-09-01,5,No
+P00535,65.0,Male,Private,Hypertension,I30.1,Cardiology,2024-12-24,2024-12-27,3,No
+P00536,33.0,Male,Government,COPD,I30.6,Surgery,2023-02-14,2023-02-20,6,No
+P00537,79.0,Female,Private,None,I32.0,Emergency,2023-11-13,2023-11-19,6,No
+P00538,61.0,Male,Self-pay,None,I10.9,General Medicine,2023-01-13,2023-01-17,4,No
+P00539,57.0,Male,Self-pay,Heart Disease,I85.7,Surgery,2024-03-28,2024-04-05,8,Yes
+P00540,59.0,Female,Government,Hypertension,I36.0,Emergency,2023-02-26,2023-03-03,5,No
+P00541,40.0,Female,Government,Heart Disease,I21.0,Cardiology,2023-07-02,2023-07-08,6,Yes
+P00542,41.0,Female,Government,Hypertension,I68.9,Emergency,2023-02-06,2023-02-15,9,Yes
+P00543,57.0,Male,Private,Kidney Disease,I80.1,Emergency,2023-05-18,2023-05-22,4,Yes
+P00544,63.0,Male,Private,Heart Disease,I17.1,Surgery,2024-10-06,2024-10-12,6,No
+P00545,63.0,Female,Government,Hypertension,I64.9,Pulmonology,2023-09-23,2023-09-27,4,No
+P00546,65.0,Male,Government,COPD,I90.7,Surgery,2023-07-04,2023-07-09,5,No
+P00547,48.0,Male,Private,COPD,I25.3,Pulmonology,2024-02-29,2024-03-04,4,No
+P00548,62.0,Female,Private,Heart Disease,I46.4,Pulmonology,2023-11-12,2023-11-22,10,No
+P00549,41.0,Male,Private,Kidney Disease,I82.9,Orthopedics,2023-06-29,2023-07-06,7,Yes
+P00550,56.0,Male,Government,Diabetes,I27.7,Cardiology,2024-04-16,2024-04-20,4,No
+P00551,35.0,Female,Private,Hypertension,I76.4,Surgery,2024-11-25,2024-11-28,3,No
+P00552,49.0,Female,Government,None,I55.1,Orthopedics,2023-10-15,2023-10-20,5,No
+P00553,65.0,Female,Private,Hypertension,I33.9,Cardiology,2023-11-12,2023-11-17,5,No
+P00554,77.0,Male,Government,Heart Disease,I67.4,Emergency,2023-11-06,2023-11-18,12,Yes
+P00555,62.0,Male,Private,COPD,I71.8,Cardiology,2023-12-15,2023-12-25,10,No
+P00556,28.0,Female,Private,None,I76.2,Emergency,2023-02-07,2023-02-10,3,No
+P00557,75.0,Male,Self-pay,Hypertension,I86.1,Emergency,2023-02-17,2023-02-25,8,Yes
+P00558,75.0,Male,Government,Hypertension,I36.5,Emergency,2023-10-21,2023-10-27,6,Yes
+P00559,32.0,Male,Private,Heart Disease,I11.9,Surgery,2023-04-15,2023-04-22,7,Yes
+P00560,60.0,Male,Government,Heart Disease,I41.2,Cardiology,2024-09-19,2024-09-30,11,No
+P00561,24.0,Male,Self-pay,Diabetes,I59.0,Cardiology,2024-02-06,2024-02-12,6,Yes
+P00562,63.0,Female,Government,Hypertension,I49.5,Pulmonology,2024-12-31,2025-01-03,3,No
+P00563,57.0,Female,Government,Hypertension,I21.7,Cardiology,2023-11-14,2023-11-22,8,No
+P00564,40.0,Male,Private,None,I88.4,Orthopedics,2024-02-06,2024-02-10,4,Yes
+P00565,58.0,Female,Private,COPD,I18.7,Cardiology,2024-05-05,2024-05-11,6,No
+P00566,68.0,Female,Private,Diabetes,I23.5,Surgery,2023-03-14,2023-03-22,8,No
+P00567,42.0,Male,Government,COPD,I71.6,Cardiology,2023-08-02,2023-08-07,5,No
+P00568,50.0,Male,Government,COPD,I40.2,General Medicine,2023-03-21,2023-03-24,3,No
+P00569,23.0,Male,Government,Heart Disease,I22.7,Cardiology,2024-02-20,2024-02-25,5,Yes
+P00570,45.0,Female,Private,COPD,I94.0,Cardiology,2023-05-23,2023-05-27,4,No
+P00571,45.0,Male,Private,Diabetes,I78.4,Emergency,2024-08-14,2024-08-19,5,No
+P00572,57.0,Male,Government,Hypertension,I65.5,Orthopedics,2024-08-19,2024-08-23,4,Yes
+P00573,19.0,Male,Private,Kidney Disease,I80.0,Cardiology,2024-07-27,2024-08-02,6,No
+P00574,51.0,Female,Private,Hypertension,I60.5,General Medicine,2024-02-20,2024-02-25,5,No
+P00575,52.0,Male,Private,Kidney Disease,I56.6,Cardiology,2024-11-17,2024-11-21,4,Yes
+P00576,39.0,Male,Self-pay,Hypertension,I27.1,Cardiology,2024-03-01,2024-03-10,9,No
+P00577,76.0,Female,Government,COPD,I64.8,Pulmonology,2024-01-29,2024-02-07,9,No
+P00578,56.0,Female,Government,Heart Disease,I74.4,Emergency,2024-07-13,2024-07-20,7,No
+P00579,82.0,Female,Private,Hypertension,I98.1,Cardiology,2024-06-23,2024-06-29,6,No
+P00580,49.0,Male,Private,None,I21.3,Surgery,2024-11-10,2024-11-15,5,No
+P00581,80.0,Female,Private,Diabetes,I53.8,General Medicine,2024-04-25,2024-04-30,5,No
+P00582,32.0,Male,Private,None,I47.4,Cardiology,2024-12-12,2024-12-14,2,No
+P00583,44.0,Female,Private,COPD,I31.9,Cardiology,2023-10-26,2023-11-03,8,No
+P00584,69.0,Male,Government,None,I45.4,Cardiology,2023-10-15,2023-10-20,5,Yes
+P00585,34.0,Female,Self-pay,Hypertension,I94.7,Emergency,2023-06-29,2023-07-04,5,Yes
+P00586,66.0,Female,Self-pay,Kidney Disease,I20.2,General Medicine,2023-06-07,2023-06-10,3,No
+P00587,59.0,Male,Government,Hypertension,I31.3,Surgery,2023-12-20,2023-12-26,6,Yes
+P00588,60.0,Male,Government,COPD,I70.8,Emergency,2024-11-30,2024-12-05,5,No
+P00589,37.0,Female,Private,None,I67.6,General Medicine,2024-06-26,2024-07-01,5,No
+P00590,41.0,Female,Self-pay,Kidney Disease,I93.4,Emergency,2023-10-01,2023-10-10,9,No
+P00591,56.0,Male,Government,Heart Disease,I96.9,General Medicine,2024-06-16,2024-06-22,6,No
+P00592,15.0,Female,Government,None,I11.6,Cardiology,2023-04-17,2023-04-19,2,No
+P00593,48.0,Male,Private,Hypertension,I17.9,General Medicine,2023-08-11,2023-08-14,3,No
+P00594,59.0,Male,Self-pay,Diabetes,I94.9,Pulmonology,2023-07-09,2023-07-12,3,No
+P00595,43.0,Male,Self-pay,Hypertension,I45.6,General Medicine,2024-11-14,2024-11-19,5,No
+P00596,59.0,Male,Government,Kidney Disease,I52.0,Emergency,2023-09-29,2023-10-06,7,Yes
+P00597,66.0,Male,Private,Hypertension,I23.2,Surgery,2024-03-17,2024-03-23,6,Yes
+P00598,87.0,Female,Private,Diabetes,I83.4,General Medicine,2023-01-20,2023-01-28,8,No
+P00599,55.0,Female,Government,Heart Disease,I99.5,Orthopedics,2024-08-11,2024-08-21,10,Yes
+P00600,58.0,Male,Private,Hypertension,I18.8,Emergency,2024-01-29,2024-02-03,5,No
+P00601,71.0,Female,Self-pay,Kidney Disease,I97.4,Emergency,2024-10-09,2024-10-16,7,No
+P00602,72.0,Female,Private,None,I47.3,Cardiology,2023-02-10,2023-02-16,6,No
+P00603,65.0,Male,Private,Hypertension,I72.1,Pulmonology,2024-03-24,2024-03-27,3,No
+P00604,50.0,Female,Government,COPD,I18.8,General Medicine,2024-05-26,2024-05-30,4,No
+P00605,53.0,Female,Private,Diabetes,I15.6,Cardiology,2024-10-31,2024-11-08,8,No
+P00606,62.0,Female,Private,Hypertension,I19.0,General Medicine,2024-05-15,2024-05-21,6,No
+P00607,65.0,Male,Government,Diabetes,I32.0,Orthopedics,2023-04-10,2023-04-19,9,No
+P00608,33.0,Female,Private,COPD,I88.3,Cardiology,2023-07-27,2023-07-31,4,No
+P00609,76.0,Female,Private,None,I83.8,Cardiology,2023-08-07,2023-08-11,4,No
+P00610,49.0,Male,Private,Kidney Disease,I99.5,Surgery,2024-03-25,2024-03-31,6,Yes
+P00611,56.0,Female,Government,Kidney Disease,I30.0,Pulmonology,2023-03-24,2023-04-04,11,Yes
+P00612,35.0,Female,Self-pay,Kidney Disease,I70.2,Emergency,2024-10-17,2024-10-20,3,Yes
+P00613,62.0,Male,Government,Hypertension,I73.9,Orthopedics,2024-10-04,2024-10-09,5,No
+P00614,63.0,Female,Private,None,I22.9,Emergency,2024-07-06,2024-07-08,2,No
+P00615,81.0,Male,Private,Diabetes,I29.7,Surgery,2023-06-13,2023-06-18,5,No
+P00616,64.0,Male,Private,Kidney Disease,I68.0,Cardiology,2023-02-23,2023-02-26,3,No
+P00617,22.0,Female,Private,None,I66.9,Surgery,2024-03-05,2024-03-12,7,Yes
+P00618,64.0,Female,Private,Diabetes,I62.3,Emergency,2023-08-14,2023-08-18,4,Yes
+P00619,64.0,Male,Private,Hypertension,I32.6,Emergency,2024-04-13,2024-04-20,7,No
+P00620,29.0,Male,Private,Hypertension,I17.4,Cardiology,2024-04-21,2024-04-27,6,No
+P00621,52.0,Female,Government,None,I91.9,Orthopedics,2024-08-14,2024-08-20,6,No
+P00622,38.0,Female,Government,None,I85.7,Pulmonology,2023-10-13,2023-10-16,3,Yes
+P00623,57.0,Male,Private,Heart Disease,I85.2,Orthopedics,2023-01-06,2023-01-09,3,No
+P00624,62.0,Female,Government,Kidney Disease,I60.7,Pulmonology,2024-12-14,2024-12-21,7,No
+P00625,47.0,Female,Private,Hypertension,I37.2,Emergency,2023-09-02,2023-09-09,7,No
+P00626,57.0,Male,Government,None,I84.0,Orthopedics,2024-04-19,2024-04-25,6,No
+P00627,45.0,Female,Private,COPD,I91.0,Pulmonology,2023-03-14,2023-03-20,6,No
+P00628,48.0,Male,Government,Hypertension,I88.8,Surgery,2023-08-01,2023-08-05,4,No
+P00629,32.0,Female,Private,None,I96.5,Pulmonology,2023-04-24,2023-04-30,6,No
+P00630,48.0,Male,Government,Hypertension,I81.3,Cardiology,2023-12-09,2023-12-20,11,Yes
+P00631,67.0,Female,Government,None,I36.3,Emergency,2023-10-01,2023-10-07,6,No
+P00632,63.0,Male,Government,COPD,I25.7,General Medicine,2024-11-25,2024-12-02,7,No
+P00633,21.0,Male,Government,Hypertension,I18.3,Pulmonology,2024-04-13,2024-04-16,3,Yes
+P00634,67.0,Female,Private,Heart Disease,I24.2,Surgery,2023-07-29,2023-08-01,3,No
+P00635,81.0,Female,Government,Diabetes,I54.6,Surgery,2024-10-22,2024-10-31,9,Yes
+P00636,41.0,Female,Government,COPD,I52.6,Surgery,2024-11-02,2024-11-06,4,No
+P00637,77.0,Female,Government,Kidney Disease,I48.9,Cardiology,2023-11-10,2023-11-16,6,Yes
+P00638,73.0,Female,Government,Diabetes,I55.4,Surgery,2023-06-20,2023-06-26,6,No
+P00639,48.0,Male,Private,Hypertension,I95.2,Cardiology,2023-04-30,2023-05-06,6,Yes
+P00640,47.0,Male,Private,Hypertension,I14.5,Orthopedics,2023-06-01,2023-06-04,3,No
+P00641,72.0,Male,Self-pay,Kidney Disease,I73.2,Orthopedics,2023-11-24,2023-11-29,5,Yes
+P00642,83.0,Female,Government,Heart Disease,I47.9,General Medicine,2024-08-01,2024-08-10,9,No
+P00643,19.0,Male,Government,Diabetes,I96.8,Cardiology,2023-01-26,2023-01-29,3,No
+P00644,77.0,Male,Private,Hypertension,I84.8,Emergency,2023-10-12,2023-10-15,3,Yes
+P00645,41.0,Female,Self-pay,None,I60.3,Surgery,2024-09-09,2024-09-11,2,No
+P00646,72.0,Male,Private,None,I57.6,Emergency,2023-10-19,2023-10-26,7,No
+P00647,42.0,Female,Private,None,I63.7,Emergency,2024-03-10,2024-03-14,4,No
+P00648,55.0,Female,Private,Heart Disease,I77.5,Cardiology,2024-08-27,2024-09-02,6,No
+P00649,66.0,Female,Private,Hypertension,I82.2,Emergency,2024-01-26,2024-01-31,5,Yes
+P00650,40.0,Male,Government,COPD,I69.3,Cardiology,2023-01-03,2023-01-08,5,Yes
+P00651,77.0,Female,Private,Hypertension,I46.6,Cardiology,2024-12-05,2024-12-10,5,No
+P00652,59.0,Female,Self-pay,Hypertension,I56.9,Surgery,2024-03-22,2024-03-28,6,No
+P00653,52.0,Female,Private,COPD,I83.0,Pulmonology,2023-06-16,2023-06-23,7,No
+P00654,46.0,Female,Private,Diabetes,I56.6,General Medicine,2023-12-31,2024-01-05,5,Yes
+P00655,71.0,Male,Private,Hypertension,I22.9,General Medicine,2024-07-10,2024-07-18,8,No
+P00656,63.0,Female,Private,Hypertension,I56.1,Surgery,2023-12-27,2023-12-31,4,No
+P00657,64.0,Male,Government,Kidney Disease,I30.1,Emergency,2024-05-30,2024-06-06,7,Yes
+P00658,74.0,Female,Government,COPD,I78.8,General Medicine,2023-04-27,2023-05-04,7,No
+P00659,57.0,Male,Private,Kidney Disease,I98.5,Cardiology,2024-03-28,2024-04-02,5,No
+P00660,61.0,Male,Government,Diabetes,I25.3,Cardiology,2024-12-11,2024-12-17,6,Yes
+P00661,65.0,Male,Private,Hypertension,I24.1,Cardiology,2024-05-10,2024-05-15,5,No
+P00662,40.0,Female,Government,Diabetes,I25.4,Cardiology,2023-11-05,2023-11-15,10,No
+P00663,24.0,Female,Private,None,I33.5,Cardiology,2023-05-30,2023-06-03,4,No
+P00664,44.0,Male,Private,COPD,I88.3,Surgery,2023-03-11,2023-03-15,4,Yes
+P00665,59.0,Male,Private,Heart Disease,I78.0,Orthopedics,2023-04-12,2023-04-17,5,No
+P00666,36.0,Male,Government,Heart Disease,I96.1,Emergency,2023-12-30,2024-01-05,6,No
+P00667,50.0,Male,Government,Heart Disease,I69.1,Surgery,2024-05-22,2024-05-25,3,No
+P00668,48.0,Male,Private,Diabetes,I46.7,General Medicine,2023-11-16,2023-11-21,5,No
+P00669,57.0,Male,Self-pay,Kidney Disease,I18.7,Orthopedics,2024-01-12,2024-01-17,5,Yes
+P00670,55.0,Male,Private,Hypertension,I20.1,Cardiology,2024-02-15,2024-02-19,4,No
+P00671,23.0,Female,Private,Kidney Disease,I35.5,Emergency,2024-02-18,2024-02-24,6,Yes
+P00672,73.0,Male,Government,Hypertension,I44.6,Emergency,2024-11-13,2024-11-24,11,No
+P00673,38.0,Male,Government,Diabetes,I42.7,Surgery,2024-10-05,2024-10-10,5,No
+P00674,41.0,Female,Government,Diabetes,I32.6,General Medicine,2023-12-01,2023-12-08,7,Yes
+P00675,58.0,Male,Government,None,I69.3,Emergency,2024-05-24,2024-05-28,4,No
+P00676,65.0,Female,Government,None,I14.6,Pulmonology,2023-05-02,2023-05-03,1,No
+P00677,37.0,Male,Private,Hypertension,I48.2,Surgery,2023-05-18,2023-05-21,3,No
+P00678,78.0,Female,Government,Hypertension,I79.9,Surgery,2024-07-29,2024-08-06,8,No
+P00679,15.0,Female,Self-pay,Hypertension,I55.4,Emergency,2023-01-29,2023-02-03,5,No
+P00680,69.0,Female,Government,None,I90.5,Emergency,2024-03-14,2024-03-17,3,No
+P00681,53.0,Female,Private,Hypertension,I85.1,Orthopedics,2023-03-09,2023-03-18,9,No
+P00682,58.0,Female,Private,Hypertension,I64.9,Surgery,2024-03-07,2024-03-13,6,Yes
+P00683,57.0,Female,Private,Kidney Disease,I83.1,Pulmonology,2023-04-13,2023-04-22,9,No
+P00684,35.0,Female,Government,Heart Disease,I48.5,Orthopedics,2023-07-26,2023-07-29,3,No
+P00685,91.0,Female,Government,Heart Disease,I16.4,Orthopedics,2024-02-16,2024-02-23,7,No
+P00686,35.0,Female,Government,Hypertension,I44.1,Surgery,2024-06-27,2024-07-02,5,No
+P00687,75.0,Female,Private,None,I65.8,Emergency,2024-02-29,2024-03-04,4,No
+P00688,95.0,Female,Private,Diabetes,I76.2,Surgery,2023-08-07,2023-08-14,7,No
+P00689,82.0,Male,Government,None,I65.9,General Medicine,2023-03-03,2023-03-08,5,No
+P00690,64.0,Male,Government,Heart Disease,I65.6,Emergency,2023-03-07,2023-03-12,5,No
+P00691,47.0,Male,Private,Hypertension,I40.6,Emergency,2023-06-03,2023-06-11,8,Yes
+P00692,51.0,Male,Government,Kidney Disease,I92.0,Emergency,2023-10-07,2023-10-12,5,Yes
+P00693,61.0,Female,Private,None,I72.0,Cardiology,2023-03-27,2023-03-29,2,No
+P00694,55.0,Female,Self-pay,Hypertension,I21.6,Orthopedics,2023-05-24,2023-05-31,7,Yes
+P00695,37.0,Male,Government,Hypertension,I77.4,Surgery,2023-04-03,2023-04-11,8,Yes
+P00696,49.0,Male,Government,Kidney Disease,I40.6,Emergency,2023-04-20,2023-04-29,9,Yes
+P00697,23.0,Male,Government,COPD,I57.1,Emergency,2024-03-09,2024-03-13,4,No
+P00698,35.0,Female,Private,COPD,I57.4,Cardiology,2024-09-12,2024-09-16,4,Yes
+P00699,92.0,Male,Self-pay,Hypertension,I42.8,Emergency,2024-10-16,2024-10-24,8,No
+P00700,75.0,Male,Self-pay,None,I59.0,Orthopedics,2024-02-07,2024-02-12,5,No
+P00701,50.0,Female,Government,Heart Disease,I30.7,General Medicine,2024-10-21,2024-10-28,7,No
+P00702,33.0,Female,Self-pay,COPD,I62.5,General Medicine,2023-04-13,2023-04-19,6,No
+P00703,57.0,Male,Government,None,I51.7,General Medicine,2023-02-23,2023-02-27,4,No
+P00704,52.0,Female,Private,Heart Disease,I49.5,Surgery,2023-04-24,2023-04-27,3,Yes
+P00705,100.0,Female,Government,None,I97.6,Pulmonology,2023-11-24,2023-11-30,6,No
+P00706,63.0,Male,Government,Heart Disease,I46.3,Cardiology,2024-01-12,2024-01-18,6,Yes
+P00707,89.0,Female,Private,None,I81.9,General Medicine,2023-04-02,2023-04-05,3,No
+P00708,39.0,Male,Private,Kidney Disease,I43.2,Cardiology,2024-01-12,2024-01-18,6,Yes
+P00709,61.0,Female,Government,None,I96.7,Cardiology,2024-12-31,2025-01-08,8,Yes
+P00710,61.0,Male,Government,Kidney Disease,I65.3,General Medicine,2023-10-17,2023-10-25,8,No
+P00711,56.0,Female,Private,None,I40.9,Surgery,2023-09-12,2023-09-16,4,No
+P00712,42.0,Male,Private,Heart Disease,I98.6,General Medicine,2024-12-31,2025-01-04,4,No
+P00713,45.0,Male,Government,Diabetes,I40.7,Orthopedics,2024-09-12,2024-09-16,4,No
+P00714,31.0,Female,Private,Heart Disease,I89.6,Emergency,2024-02-09,2024-02-15,6,No
+P00715,84.0,Male,Private,Heart Disease,I73.5,Pulmonology,2023-05-16,2023-05-23,7,Yes
+P00716,88.0,Male,Private,None,I73.4,General Medicine,2024-03-16,2024-03-18,2,Yes
+P00717,91.0,Female,Private,Heart Disease,I31.5,General Medicine,2024-05-18,2024-05-24,6,No
+P00718,64.0,Female,Government,Diabetes,I29.0,Emergency,2023-02-06,2023-02-09,3,No
+P00719,24.0,Male,Self-pay,COPD,I66.5,Orthopedics,2024-07-28,2024-08-04,7,No
+P00720,56.0,Female,Private,Diabetes,I46.2,Pulmonology,2024-06-04,2024-06-08,4,No
+P00721,74.0,Male,Self-pay,Diabetes,I83.2,Emergency,2023-03-20,2023-03-26,6,Yes
+P00722,78.0,Male,Private,None,I25.6,Emergency,2023-04-19,2023-04-22,3,No
+P00723,55.0,Female,Government,COPD,I44.9,General Medicine,2023-12-04,2023-12-10,6,No
+P00724,63.0,Male,Government,Hypertension,I82.2,Emergency,2023-02-19,2023-02-27,8,No
+P00725,37.0,Female,Government,Hypertension,I21.6,Emergency,2023-09-03,2023-09-11,8,No
+P00726,30.0,Female,Private,None,I46.2,Cardiology,2024-05-17,2024-05-22,5,No
+P00727,84.0,Female,Government,Kidney Disease,I22.5,Surgery,2024-05-16,2024-05-24,8,No
+P00728,22.0,Female,Private,Kidney Disease,I57.9,Emergency,2024-10-07,2024-10-14,7,No
+P00729,36.0,Male,Private,Hypertension,I29.7,Surgery,2024-10-24,2024-10-29,5,No
+P00730,83.0,Female,Government,Diabetes,I26.4,Pulmonology,2024-06-19,2024-06-28,9,No
+P00731,74.0,Female,Government,COPD,I62.1,Surgery,2024-08-05,2024-08-12,7,No
+P00732,22.0,Female,Private,Hypertension,I69.2,Pulmonology,2024-02-07,2024-02-11,4,Yes
+P00733,75.0,Male,Government,None,I67.9,Pulmonology,2023-12-16,2023-12-24,8,No
+P00734,42.0,Male,Government,Hypertension,I96.1,Surgery,2023-01-19,2023-01-23,4,Yes
+P00735,60.0,Male,Government,None,I87.7,Emergency,2024-09-23,2024-09-24,1,No
+P00736,99.0,Male,Private,Diabetes,I11.3,Cardiology,2023-01-17,2023-01-23,6,No
+P00737,65.0,Female,Private,Heart Disease,I90.8,Emergency,2023-11-05,2023-11-09,4,No
+P00738,56.0,Male,Self-pay,Hypertension,I66.7,Surgery,2024-04-05,2024-04-12,7,No
+P00739,70.0,Female,Private,Diabetes,I90.6,Orthopedics,2024-05-22,2024-05-31,9,No
+P00740,57.0,Male,Government,COPD,I85.9,Orthopedics,2024-05-14,2024-05-18,4,Yes
+P00741,63.0,Female,Government,Heart Disease,I92.6,Pulmonology,2023-04-30,2023-05-05,5,No
+P00742,20.0,Female,Private,Heart Disease,I34.7,Emergency,2023-08-26,2023-08-29,3,No
+P00743,27.0,Female,Self-pay,Hypertension,I69.2,Pulmonology,2024-12-29,2025-01-03,5,No
+P00744,55.0,Female,Private,COPD,I30.9,Emergency,2024-12-08,2024-12-14,6,No
+P00745,95.0,Male,Government,Diabetes,I63.7,Emergency,2023-08-03,2023-08-13,10,No
+P00746,27.0,Male,Government,Heart Disease,I74.0,Pulmonology,2023-12-12,2023-12-17,5,No
+P00747,90.0,Male,Private,Kidney Disease,I55.0,General Medicine,2024-07-24,2024-07-31,7,Yes
+P00748,54.0,Female,Government,Hypertension,I66.7,Orthopedics,2023-04-24,2023-05-03,9,No
+P00749,52.0,Female,Private,Hypertension,I74.1,Cardiology,2023-05-01,2023-05-07,6,No
+P00750,61.0,Male,Private,COPD,I22.2,General Medicine,2023-12-09,2023-12-16,7,No
+P00751,26.0,Female,Government,Diabetes,I70.5,Emergency,2023-06-25,2023-07-04,9,Yes
+P00752,42.0,Male,Government,Heart Disease,I77.6,Pulmonology,2023-05-22,2023-05-27,5,No
+P00753,36.0,Male,Self-pay,None,I56.0,Surgery,2023-01-11,2023-01-15,4,No
+P00754,53.0,Male,Private,None,I65.0,Emergency,2023-02-07,2023-02-14,7,No
+P00755,93.0,Male,Government,Hypertension,I94.8,Orthopedics,2024-03-05,2024-03-11,6,No
+P00756,54.0,Male,Government,None,I11.4,Orthopedics,2024-09-17,2024-09-23,6,No
+P00757,51.0,Male,Government,None,I93.7,General Medicine,2024-10-26,2024-10-31,5,No
+P00758,60.0,Male,Private,Hypertension,I26.8,Orthopedics,2023-10-18,2023-10-22,4,Yes
+P00759,50.0,Male,Government,Diabetes,I79.9,Emergency,2023-11-08,2023-11-15,7,No
+P00760,86.0,Male,Private,Hypertension,I55.1,Cardiology,2024-10-28,2024-11-07,10,No
+P00761,62.0,Male,Private,Heart Disease,I84.9,General Medicine,2024-10-04,2024-10-10,6,No
+P00762,70.0,Male,Government,None,I83.2,General Medicine,2024-06-16,2024-06-19,3,No
+P00763,55.0,Male,Government,COPD,I28.6,Pulmonology,2023-03-25,2023-03-31,6,Yes
+P00764,57.0,Male,Private,Hypertension,I61.9,Surgery,2024-02-09,2024-02-14,5,No
+P00765,61.0,Female,Government,None,I63.2,Cardiology,2023-05-11,2023-05-15,4,No
+P00766,54.0,Female,Government,Hypertension,I68.7,Cardiology,2023-06-10,2023-06-17,7,No
+P00767,57.0,Female,Private,Diabetes,I83.4,Cardiology,2023-06-06,2023-06-12,6,Yes
+P00768,43.0,Male,Private,Diabetes,I85.6,Cardiology,2023-11-09,2023-11-17,8,No
+P00769,70.0,Female,Private,Kidney Disease,I15.6,Surgery,2023-11-14,2023-11-21,7,No
+P00770,23.0,Male,Government,Hypertension,I27.8,General Medicine,2024-04-05,2024-04-10,5,No
+P00771,41.0,Male,Government,Hypertension,I59.3,Orthopedics,2023-12-14,2023-12-17,3,No
+P00772,63.0,Female,Government,None,I13.9,General Medicine,2024-12-25,2024-12-29,4,No
+P00773,31.0,Male,Self-pay,COPD,I16.9,Surgery,2024-05-02,2024-05-07,5,No
+P00774,27.0,Female,Self-pay,Heart Disease,I36.3,Pulmonology,2024-08-16,2024-08-20,4,No
+P00775,76.0,Male,Private,None,I12.5,Surgery,2024-02-29,2024-03-07,7,Yes
+P00776,45.0,Male,Self-pay,COPD,I46.2,Emergency,2023-04-02,2023-04-11,9,Yes
+P00777,59.0,Male,Self-pay,Heart Disease,I17.4,Emergency,2023-11-24,2023-11-27,3,Yes
+P00778,43.0,Female,Self-pay,Diabetes,I40.9,General Medicine,2024-05-19,2024-05-26,7,No
+P00779,34.0,Male,Private,Hypertension,I18.7,Cardiology,2024-10-10,2024-10-13,3,Yes
+P00780,39.0,Female,Government,Heart Disease,I81.2,Emergency,2024-02-21,2024-02-26,5,No
+P00781,70.0,Female,Private,COPD,I31.3,Surgery,2024-03-09,2024-03-15,6,No
+P00782,48.0,Female,Self-pay,Hypertension,I93.2,Cardiology,2024-05-08,2024-05-12,4,Yes
+P00783,35.0,Female,Government,Heart Disease,I75.4,Cardiology,2024-06-30,2024-07-04,4,No
+P00784,32.0,Male,Private,Hypertension,I45.6,Emergency,2024-05-31,2024-06-04,4,No
+P00785,57.0,Male,Private,None,I67.4,Emergency,2023-11-26,2023-11-29,3,No
+P00786,77.0,Male,Government,Hypertension,I10.9,Surgery,2023-01-10,2023-01-15,5,No
+P00787,82.0,Female,Government,COPD,I93.1,Surgery,2024-11-18,2024-11-27,9,No
+P00788,55.0,Male,Government,Kidney Disease,I99.0,Cardiology,2024-01-15,2024-01-20,5,No
+P00789,37.0,Male,Private,None,I55.3,Cardiology,2024-09-20,2024-09-25,5,No
+P00790,63.0,Female,Self-pay,Diabetes,I73.9,Emergency,2023-07-20,2023-07-24,4,No
+P00791,44.0,Male,Government,Heart Disease,I34.9,General Medicine,2024-09-09,2024-09-15,6,No
+P00792,52.0,Male,Private,Hypertension,I39.8,General Medicine,2023-10-08,2023-10-13,5,Yes
+P00793,46.0,Female,Government,Heart Disease,I81.7,Cardiology,2024-03-13,2024-03-20,7,No
+P00794,58.0,Female,Private,None,I45.1,General Medicine,2024-04-22,2024-04-28,6,No
+P00795,31.0,Female,Private,None,I78.7,Emergency,2024-02-06,2024-02-10,4,Yes
+P00796,34.0,Male,Government,None,I64.1,Orthopedics,2023-07-21,2023-07-23,2,Yes
+P00797,39.0,Male,Government,None,I85.5,Pulmonology,2023-09-11,2023-09-16,5,Yes
+P00798,35.0,Male,Private,None,I19.9,General Medicine,2023-04-08,2023-04-11,3,No
+P00799,48.0,Male,Private,Heart Disease,I98.1,Pulmonology,2023-03-05,2023-03-08,3,No
+P00800,68.0,Female,Private,Hypertension,I81.0,Emergency,2024-01-26,2024-01-31,5,No
+P00801,28.0,Female,Government,Hypertension,I68.6,Surgery,2024-03-14,2024-03-18,4,No
+P00802,64.0,Female,Government,COPD,I52.9,Emergency,2023-04-16,2023-04-21,5,Yes
+P00803,34.0,Female,Self-pay,Diabetes,I75.4,Emergency,2024-05-07,2024-05-13,6,No
+P00804,53.0,Female,Private,Heart Disease,I65.8,Orthopedics,2024-01-02,2024-01-10,8,No
+P00805,49.0,Male,Private,Kidney Disease,I57.0,Surgery,2024-11-04,2024-11-13,9,No
+P00806,64.0,Female,Self-pay,Kidney Disease,I35.3,General Medicine,2023-07-26,2023-08-02,7,No
+P00807,59.0,Female,Self-pay,Hypertension,I52.9,Surgery,2023-12-10,2023-12-19,9,No
+P00808,52.0,Male,Government,Diabetes,I38.0,General Medicine,2024-12-10,2024-12-21,11,Yes
+P00809,51.0,Female,Self-pay,Kidney Disease,I58.3,Emergency,2023-01-07,2023-01-14,7,No
+P00810,43.0,Male,Private,Heart Disease,I84.5,Cardiology,2023-01-31,2023-02-06,6,Yes
+P00811,27.0,Male,Private,None,I41.2,Emergency,2023-06-30,2023-07-08,8,No
+P00812,52.0,Female,Private,None,I24.5,Orthopedics,2023-11-09,2023-11-11,2,No
+P00813,71.0,Male,Government,None,I89.6,Pulmonology,2023-03-08,2023-03-16,8,Yes
+P00814,62.0,Male,Government,Hypertension,I50.9,Emergency,2024-10-13,2024-10-17,4,Yes
+P00815,72.0,Male,Government,None,I51.3,Cardiology,2023-10-14,2023-10-21,7,No
+P00816,44.0,Female,Private,Diabetes,I70.9,Cardiology,2024-06-04,2024-06-10,6,No
+P00817,59.0,Male,Government,Heart Disease,I57.8,General Medicine,2024-05-21,2024-05-26,5,No
+P00818,87.0,Female,Government,Heart Disease,I35.7,Pulmonology,2024-02-10,2024-02-21,11,Yes
+P00819,43.0,Male,Government,Heart Disease,I20.2,General Medicine,2023-10-30,2023-11-05,6,No
+P00820,60.0,Male,Government,Kidney Disease,I69.6,Emergency,2024-05-24,2024-06-02,9,No
+P00821,74.0,Male,Government,Kidney Disease,I20.4,Pulmonology,2024-06-09,2024-06-17,8,No
+P00822,81.0,Male,Private,Kidney Disease,I79.3,Emergency,2024-11-22,2024-11-27,5,No
+P00823,88.0,Female,Private,Hypertension,I27.8,Orthopedics,2023-01-09,2023-01-18,9,No
+P00824,40.0,Female,Self-pay,None,I93.0,Surgery,2024-06-08,2024-06-10,2,No
+P00825,16.0,Male,Government,Heart Disease,I39.8,General Medicine,2024-07-19,2024-07-22,3,No
+P00826,48.0,Female,Private,Heart Disease,I99.6,Emergency,2024-04-05,2024-04-10,5,No
+P00827,54.0,Female,Private,Hypertension,I73.5,Emergency,2024-03-05,2024-03-11,6,No
+P00828,62.0,Female,Private,Hypertension,I82.0,Orthopedics,2023-06-07,2023-06-12,5,No
+P00829,82.0,Female,Self-pay,Hypertension,I60.6,Emergency,2024-02-05,2024-02-10,5,Yes
+P00830,54.0,Male,Self-pay,Hypertension,I48.1,Cardiology,2024-11-22,2024-11-25,3,No
+P00831,52.0,Female,Private,Diabetes,I59.4,Emergency,2023-10-26,2023-10-31,5,No
+P00832,43.0,Female,Private,None,I62.6,Cardiology,2023-04-24,2023-04-28,4,Yes
+P00833,49.0,Male,Self-pay,Heart Disease,I36.4,Surgery,2024-12-27,2025-01-05,9,No
+P00834,39.0,Male,Private,Hypertension,I68.4,Emergency,2023-05-27,2023-06-03,7,No
+P00835,69.0,Male,Private,Hypertension,I72.7,Surgery,2023-02-10,2023-02-18,8,No
+P00836,53.0,Male,Government,Hypertension,I48.6,General Medicine,2023-06-29,2023-07-03,4,No
+P00837,52.0,Male,Private,Hypertension,I99.9,Cardiology,2024-12-16,2024-12-22,6,No
+P00838,61.0,Male,Government,Heart Disease,I18.3,Orthopedics,2024-02-26,2024-03-04,7,No
+P00839,58.0,Male,Private,None,I51.6,Surgery,2023-09-16,2023-09-18,2,Yes
+P00840,68.0,Female,Government,COPD,I53.6,Pulmonology,2024-02-11,2024-02-20,9,Yes
+P00841,64.0,Male,Government,COPD,I69.1,Cardiology,2024-11-03,2024-11-06,3,Yes
+P00842,30.0,Female,Government,Heart Disease,I12.9,Cardiology,2023-10-29,2023-11-03,5,Yes
+P00843,48.0,Female,Private,Heart Disease,I66.5,Cardiology,2023-02-05,2023-02-10,5,No
+P00844,47.0,Male,Government,COPD,I94.1,Emergency,2023-11-12,2023-11-15,3,No
+P00845,55.0,Male,Private,Heart Disease,I40.3,Cardiology,2024-03-07,2024-03-12,5,Yes
+P00846,55.0,Female,Private,None,I22.2,General Medicine,2023-02-15,2023-02-21,6,No
+P00847,51.0,Female,Private,Heart Disease,I79.6,Orthopedics,2023-05-04,2023-05-13,9,Yes
+P00848,57.0,Male,Government,Diabetes,I37.7,Emergency,2024-11-04,2024-11-11,7,No
+P00849,52.0,Male,Private,Heart Disease,I86.7,Orthopedics,2023-04-15,2023-04-22,7,No
+P00850,58.0,Female,Private,Diabetes,I51.6,General Medicine,2024-12-11,2024-12-19,8,Yes
+P00851,51.0,Female,Self-pay,Hypertension,I18.5,Cardiology,2024-08-22,2024-08-27,5,No
+P00852,48.0,Female,Government,Diabetes,I12.9,General Medicine,2023-05-08,2023-05-13,5,No
+P00853,84.0,Female,Private,Kidney Disease,I47.3,Cardiology,2023-07-29,2023-08-05,7,No
+P00854,72.0,Female,Private,None,I27.4,Emergency,2023-02-10,2023-02-13,3,No
+P00855,56.0,Male,Private,None,I52.5,Emergency,2024-07-06,2024-07-14,8,Yes
+P00856,53.0,Female,Government,Heart Disease,I58.8,Emergency,2024-03-28,2024-04-04,7,No
+P00857,55.0,Female,Private,None,I36.2,Cardiology,2024-08-29,2024-09-03,5,No
+P00858,40.0,Female,Private,COPD,I31.3,Emergency,2023-06-30,2023-07-07,7,No
+P00859,48.0,Female,Private,None,I71.1,Orthopedics,2024-01-04,2024-01-08,4,No
+P00860,49.0,Female,Government,None,I71.0,General Medicine,2024-03-13,2024-03-18,5,No
+P00861,52.0,Female,Private,Hypertension,I42.6,Surgery,2024-04-09,2024-04-14,5,Yes
+P00862,71.0,Male,Government,Heart Disease,I34.0,Cardiology,2024-05-27,2024-06-02,6,No
+P00863,52.0,Male,Private,Hypertension,I59.7,Emergency,2024-08-25,2024-08-29,4,Yes
+P00864,34.0,Male,Self-pay,Heart Disease,I65.4,General Medicine,2023-12-23,2023-12-26,3,No
+P00865,61.0,Female,Government,None,I41.3,Surgery,2024-01-06,2024-01-12,6,No
+P00866,58.0,Female,Private,COPD,I97.2,Emergency,2024-09-08,2024-09-17,9,No
+P00867,24.0,Male,Private,Hypertension,I59.6,General Medicine,2023-03-24,2023-03-29,5,No
+P00868,64.0,Female,Private,Heart Disease,I78.6,General Medicine,2024-02-26,2024-03-01,4,No
+P00869,,Male,Government,None,I28.4,General Medicine,2024-02-12,2024-02-14,2,No
+P00870,2.0,Female,Private,None,I63.8,Emergency,2023-10-23,2023-10-29,6,No
+P00871,54.0,Female,Private,Heart Disease,I24.7,Surgery,2023-08-06,2023-08-08,2,Yes
+P00872,64.0,Female,Private,None,I62.7,General Medicine,2024-10-01,2024-10-06,5,Yes
+P00873,89.0,Male,Private,Diabetes,I13.9,Emergency,2024-05-11,2024-05-19,8,No
+P00874,95.0,Female,Private,Hypertension,I15.1,Emergency,2023-01-08,2023-01-17,9,No
+P00875,43.0,Male,Government,None,I87.6,Emergency,2024-11-29,2024-12-04,5,No
+P00876,63.0,Female,Government,Kidney Disease,I17.5,Pulmonology,2023-04-13,2023-04-19,6,Yes
+P00877,23.0,Female,Self-pay,Diabetes,I25.8,Emergency,2024-12-17,2024-12-19,2,No
+P00878,54.0,Female,Self-pay,COPD,I94.3,Cardiology,2024-10-15,2024-10-23,8,No
+P00879,73.0,Male,Private,None,I51.7,Emergency,2024-05-11,2024-05-15,4,No
+P00880,57.0,Male,Self-pay,None,I94.1,General Medicine,2023-10-28,2023-11-03,6,No
+P00881,67.0,Female,Government,Hypertension,I14.2,Surgery,2023-03-31,2023-04-08,8,No
+P00882,48.0,Female,Private,Kidney Disease,I24.7,General Medicine,2023-09-04,2023-09-08,4,Yes
+P00883,25.0,Female,Private,None,I13.2,Orthopedics,2023-12-01,2023-12-04,3,No
+P00884,32.0,Male,Government,None,I25.2,Orthopedics,2024-10-10,2024-10-16,6,No
+P00885,74.0,Female,Self-pay,None,I86.1,General Medicine,2024-01-22,2024-01-26,4,No
+P00886,71.0,Female,Government,None,I65.3,Emergency,2023-04-29,2023-05-04,5,Yes
+P00887,51.0,Female,Private,None,I83.5,,2023-11-17,2023-11-20,3,No
+P00888,75.0,Male,Government,None,I64.5,General Medicine,2024-11-26,2024-12-01,5,No
+P00889,36.0,Female,Private,Diabetes,I68.5,Cardiology,2023-10-31,2023-11-05,5,No
+P00890,39.0,Female,Private,Hypertension,I99.0,General Medicine,2023-11-13,2023-11-21,8,No
+P00891,33.0,Female,Government,Hypertension,I37.7,Emergency,2024-01-21,2024-01-30,9,Yes
+P00892,37.0,Female,Government,None,I38.0,Orthopedics,2023-07-03,2023-07-04,1,No
+P00893,23.0,Female,Self-pay,Heart Disease,I12.8,Emergency,2024-03-08,2024-03-15,7,No
+P00894,37.0,Male,Government,Heart Disease,I99.3,General Medicine,2024-07-15,2024-07-24,9,No
+P00895,61.0,Female,Government,None,I48.7,General Medicine,2024-08-14,2024-08-19,5,Yes
+P00896,82.0,Male,Private,Hypertension,I93.0,Emergency,2024-08-12,2024-08-17,5,Yes
+P00897,53.0,Male,Self-pay,Hypertension,I31.0,Cardiology,2024-04-30,2024-05-05,5,Yes
+P00898,25.0,Female,Government,None,I90.6,Emergency,2023-05-02,2023-05-04,2,Yes
+P00899,43.0,Female,Government,Kidney Disease,I98.1,General Medicine,2024-10-27,2024-11-04,8,No
+P00900,59.0,Male,Private,Diabetes,I92.8,Emergency,2024-08-23,2024-08-28,5,No
+P00901,41.0,Female,Government,Heart Disease,I71.6,Emergency,2023-05-09,2023-05-14,5,Yes
+P00902,58.0,Female,Private,None,I12.6,Surgery,2024-07-03,2024-07-06,3,No
+P00903,11.0,Female,Government,None,I93.1,General Medicine,2023-08-01,2023-08-06,5,No
+P00904,90.0,Female,Private,Hypertension,I50.1,Cardiology,2024-08-11,2024-08-15,4,Yes
+P00905,43.0,Female,Private,None,I74.4,Emergency,2024-07-11,2024-07-17,6,Yes
+P00906,46.0,Male,Private,None,I47.8,Surgery,2024-08-13,2024-08-18,5,No
+P00907,59.0,Female,Government,COPD,I98.1,General Medicine,2023-02-15,2023-02-18,3,Yes
+P00908,51.0,Female,Self-pay,Hypertension,I37.9,Emergency,2023-05-12,2023-05-21,9,No
+P00909,60.0,Male,Government,Heart Disease,I68.1,Orthopedics,2024-11-23,2024-11-28,5,No
+P00910,38.0,Male,Government,None,I99.3,General Medicine,2024-07-31,2024-08-04,4,No
+P00911,34.0,Male,Private,None,I65.6,Cardiology,2024-09-10,2024-09-14,4,Yes
+P00912,9.0,Female,Private,Heart Disease,I21.5,Orthopedics,2023-10-07,2023-10-16,9,Yes
+P00913,40.0,Male,Self-pay,Heart Disease,I23.1,Cardiology,2023-11-10,2023-11-14,4,No
+P00914,47.0,Male,Government,Heart Disease,I44.9,Cardiology,2023-02-19,2023-02-25,6,Yes
+P00915,71.0,Male,Government,None,I78.8,General Medicine,2024-02-17,2024-02-23,6,No
+P00916,63.0,Female,Private,Diabetes,I58.9,General Medicine,2023-02-24,2023-02-28,4,No
+P00917,63.0,Female,Government,Kidney Disease,I68.2,Surgery,2023-12-29,2024-01-02,4,No
+P00918,66.0,Male,Self-pay,None,I39.4,General Medicine,2023-03-31,2023-04-03,3,No
+P00919,62.0,Male,Private,Hypertension,I21.2,Surgery,2023-03-28,2023-04-01,4,No
+P00920,80.0,Female,Self-pay,Kidney Disease,I75.2,Surgery,2024-06-11,2024-06-17,6,No
+P00921,55.0,Male,Private,Heart Disease,I10.6,General Medicine,2023-12-20,2023-12-26,6,Yes
+P00922,43.0,Female,Self-pay,COPD,I87.0,General Medicine,2023-06-22,2023-06-26,4,No
+P00923,82.0,Male,Private,None,I75.5,Orthopedics,2024-03-08,2024-03-12,4,No
+P00924,,Male,Government,None,I25.4,Emergency,2023-10-28,2023-11-02,5,Yes
+P00925,87.0,Male,Self-pay,None,I92.8,Pulmonology,2023-02-06,2023-02-12,6,No
+P00926,76.0,Male,Private,COPD,I48.5,Cardiology,2023-12-25,2024-01-01,7,No
+P00927,32.0,Male,Government,Diabetes,I75.2,Emergency,2024-05-14,2024-05-19,5,Yes
+P00928,59.0,Male,Private,Kidney Disease,I33.8,Pulmonology,2023-04-22,2023-04-28,6,No
+P00929,31.0,Male,Government,Diabetes,I35.1,Emergency,2023-02-11,2023-02-17,6,Yes
+P00930,66.0,Male,Government,None,I95.4,Cardiology,2024-05-15,2024-05-20,5,No
+P00931,69.0,Male,Government,None,I74.6,Cardiology,2023-04-21,2023-04-26,5,No
+P00932,18.0,Male,Government,Diabetes,I53.6,Orthopedics,2023-01-09,2023-01-18,9,No
+P00933,43.0,Female,Private,Heart Disease,I75.2,Emergency,2023-04-28,2023-05-01,3,No
+P00934,37.0,Female,Private,Hypertension,I23.8,General Medicine,2023-07-13,2023-07-18,5,No
+P00935,60.0,Male,Private,Diabetes,I34.2,Emergency,2024-09-23,2024-09-27,4,Yes
+P00936,37.0,Female,Government,None,I38.5,Emergency,2023-03-04,2023-03-12,8,No
+P00937,,Male,Private,Kidney Disease,I63.3,Emergency,2023-02-18,2023-03-02,12,Yes
+P00938,44.0,Male,Private,Heart Disease,I87.1,Surgery,2023-09-16,2023-09-23,7,No
+P00939,22.0,Male,Private,Hypertension,I26.5,Emergency,2024-01-06,2024-01-15,9,No
+P00940,19.0,Male,Private,Hypertension,I21.1,Cardiology,2024-09-08,2024-09-11,3,Yes
+P00941,58.0,Female,Private,Hypertension,I22.1,Orthopedics,2024-09-25,2024-09-30,5,No
+P00942,66.0,Male,Government,Diabetes,I34.6,Surgery,2023-09-16,2023-09-23,7,No
+P00943,34.0,Female,Private,Kidney Disease,I90.1,Orthopedics,2023-03-11,2023-03-15,4,No
+P00944,84.0,Female,Private,Heart Disease,I26.4,Cardiology,2024-08-02,2024-08-10,8,Yes
+P00945,58.0,Female,Government,COPD,I75.1,Cardiology,2024-06-05,2024-06-13,8,No
+P00946,55.0,Male,Private,Heart Disease,I37.9,General Medicine,2024-06-09,2024-06-13,4,No
+P00947,45.0,Male,Private,Hypertension,I80.1,Cardiology,2023-02-16,2023-02-22,6,No
+P00948,,Female,Private,Diabetes,I16.3,Orthopedics,2023-08-04,2023-08-11,7,No
+P00949,67.0,Female,Private,Diabetes,I80.4,General Medicine,2024-02-23,2024-03-02,8,No
+P00950,56.0,Female,Private,Kidney Disease,I45.2,Emergency,2023-01-17,2023-01-21,4,No
+P00951,63.0,Female,Private,Hypertension,I58.4,Pulmonology,2024-10-11,2024-10-21,10,No
+P00952,14.0,Male,Private,Hypertension,I60.2,Surgery,2024-03-20,2024-03-25,5,No
+P00953,40.0,Male,Private,None,I34.9,Surgery,2023-07-04,2023-07-09,5,No
+P00954,41.0,Male,Private,Hypertension,I18.2,Cardiology,2023-09-09,2023-09-15,6,No
+P00955,55.0,Female,Private,None,I11.9,Cardiology,2024-01-29,2024-01-31,2,Yes
+P00956,48.0,Female,Private,Heart Disease,I20.4,Cardiology,2024-10-04,2024-10-12,8,No
+P00957,41.0,Female,Government,None,I20.3,Cardiology,2024-07-30,2024-08-05,6,No
+P00958,40.0,Male,Private,COPD,I44.8,Cardiology,2023-02-15,2023-02-22,7,Yes
+P00959,100.0,Female,Private,None,I13.3,Emergency,2023-05-31,2023-06-07,7,No
+P00960,43.0,Female,Government,Hypertension,I24.7,Cardiology,2023-04-23,2023-04-30,7,Yes
+P00961,66.0,Male,Private,Kidney Disease,I20.0,General Medicine,2023-07-02,2023-07-07,5,No
+P00962,92.0,Male,Self-pay,Hypertension,I89.4,Emergency,2023-04-17,2023-04-24,7,Yes
+P00963,66.0,Male,Self-pay,None,I10.2,General Medicine,2023-05-31,2023-06-04,4,No
+P00964,51.0,Female,Government,Diabetes,I83.6,Orthopedics,2023-10-13,2023-10-19,6,Yes
+P00965,31.0,Female,Private,COPD,I71.6,General Medicine,2024-10-13,2024-10-20,7,No
+P00966,67.0,Male,Private,COPD,I78.7,Surgery,2023-08-24,2023-09-01,8,No
+P00967,41.0,Female,Government,Hypertension,I99.1,Emergency,2023-01-03,2023-01-08,5,Yes
+P00968,40.0,Male,Private,Diabetes,I54.5,Pulmonology,2023-05-23,2023-05-29,6,Yes
+P00969,71.0,Female,Self-pay,Heart Disease,I38.0,General Medicine,2023-05-01,2023-05-07,6,No
+P00970,63.0,Male,Self-pay,Kidney Disease,I99.1,General Medicine,2023-03-17,2023-03-21,4,No
+P00971,77.0,Male,Private,Heart Disease,I11.9,Pulmonology,2024-03-02,2024-03-13,11,Yes
+P00972,42.0,Female,Government,Heart Disease,I62.5,Surgery,2024-10-22,2024-11-01,10,No
+P00973,56.0,Female,Private,None,I74.2,Cardiology,2024-03-09,2024-03-11,2,No
+P00974,32.0,Female,Self-pay,COPD,I39.6,Orthopedics,2023-10-06,2023-10-10,4,No
+P00975,54.0,Male,Private,Hypertension,I38.6,Emergency,2024-07-26,2024-07-31,5,No
+P00976,49.0,Male,Government,Kidney Disease,I58.2,Cardiology,2024-01-16,2024-01-21,5,No
+P00977,54.0,Male,Government,None,I13.3,Emergency,2024-07-08,2024-07-12,4,Yes
+P00978,89.0,Female,Private,Heart Disease,I14.3,Emergency,2024-08-06,2024-08-14,8,No
+P00979,29.0,Male,Private,None,I11.5,General Medicine,2024-02-12,2024-02-18,6,No
+P00980,66.0,Male,Private,Hypertension,I52.6,Pulmonology,2024-05-30,2024-06-05,6,Yes
+P00981,64.0,Female,Private,Hypertension,I14.4,Cardiology,2024-11-29,2024-12-03,4,No
+P00982,47.0,Female,Self-pay,None,I93.2,General Medicine,2023-06-14,2023-06-19,5,No
+P00983,66.0,Female,Government,None,I67.2,Emergency,2024-01-04,2024-01-08,4,No
+P00984,60.0,Female,Government,Heart Disease,I88.9,Cardiology,2023-06-06,2023-06-12,6,No
+P00985,78.0,Male,Government,Heart Disease,I21.7,Cardiology,2023-11-18,2023-11-29,11,Yes
+P00986,54.0,Female,Private,Diabetes,I68.4,Orthopedics,2023-09-20,2023-09-28,8,No
+P00987,52.0,Female,Self-pay,COPD,I56.4,Emergency,2024-09-26,2024-09-30,4,No
+P00988,80.0,Female,Self-pay,Kidney Disease,I97.6,Surgery,2023-09-27,2023-10-04,7,No
+P00989,53.0,Female,Private,None,I99.8,Cardiology,2023-04-18,2023-04-23,5,Yes
+P00990,51.0,Male,Private,COPD,I21.5,Surgery,2024-10-19,2024-10-25,6,No
+P00991,79.0,Male,Private,None,I60.6,Emergency,2023-12-03,2023-12-08,5,Yes
+P00992,46.0,Male,Government,Diabetes,I68.0,Surgery,2024-04-26,2024-05-03,7,Yes
+P00993,53.0,Female,Government,Diabetes,I56.6,Orthopedics,2023-08-07,2023-08-10,3,Yes
+P00994,30.0,Female,Private,Hypertension,I20.2,Cardiology,2024-02-19,2024-03-01,11,Yes
+P00995,47.0,Male,Private,None,I33.0,Cardiology,2024-03-14,2024-03-15,1,No
+P00996,56.0,Male,Private,COPD,I98.2,Orthopedics,2024-03-23,2024-03-30,7,No
+P00997,38.0,Male,Government,Hypertension,I19.9,General Medicine,2023-11-28,2023-12-03,5,No
+P00998,27.0,Female,Government,Diabetes,I68.2,Surgery,2023-11-21,2023-11-28,7,Yes
+P00999,39.0,Female,Private,COPD,I26.7,General Medicine,2024-08-15,2024-08-22,7,Yes
+P01000,48.0,Male,Government,Heart Disease,I58.3,Emergency,2023-07-15,2023-07-20,5,No
+P01001,41.0,Female,Private,None,I74.1,General Medicine,2024-10-26,2024-10-29,3,No
+P01002,61.0,Female,Private,None,I52.1,Orthopedics,2024-04-14,2024-04-19,5,No
+P01003,44.0,Female,Private,None,I98.6,General Medicine,2024-12-19,2024-12-24,5,No
+P01004,56.0,Female,Government,Diabetes,I93.0,General Medicine,2024-02-26,2024-03-02,5,Yes
+P01005,64.0,Female,Government,COPD,I14.4,Pulmonology,2023-08-05,2023-08-09,4,Yes
+P01006,65.0,Male,Government,Diabetes,I69.6,Orthopedics,2024-10-22,2024-10-30,8,No
+P01007,,Male,Private,Heart Disease,I94.4,Emergency,2024-02-29,2024-03-06,6,No
+P01008,62.0,Male,Private,None,I76.9,Emergency,2023-06-24,2023-06-27,3,No
+P01009,43.0,Female,Private,Hypertension,I16.9,Emergency,2024-10-13,2024-10-18,5,No
+P01010,51.0,Male,Private,Heart Disease,I26.8,Cardiology,2024-08-13,2024-08-19,6,No
+P01011,60.0,Male,Government,None,I36.1,Cardiology,2024-03-23,2024-03-26,3,Yes
+P01012,45.0,Female,Government,None,I83.6,Cardiology,2023-05-14,2023-05-19,5,No
+P01013,56.0,Male,Government,Heart Disease,I34.8,Pulmonology,2024-01-23,2024-01-31,8,No
+P01014,69.0,Female,Government,Hypertension,I84.1,Cardiology,2024-09-02,2024-09-10,8,Yes
+P01015,62.0,Male,Private,None,I36.6,Cardiology,2023-01-23,2023-01-26,3,No
+P01016,44.0,Male,Private,None,I91.7,Pulmonology,2023-07-04,2023-07-05,1,Yes
+P01017,,Female,Self-pay,Diabetes,I53.5,Surgery,2024-09-20,2024-09-27,7,No
+P01018,14.0,Male,Private,Hypertension,I78.0,Surgery,2023-06-06,2023-06-14,8,Yes
+P01019,71.0,Male,Private,Diabetes,I98.2,Emergency,2024-05-08,2024-05-14,6,Yes
+P01020,28.0,Female,Government,None,I65.8,Orthopedics,2023-07-17,2023-07-22,5,Yes
+P01021,58.0,Female,Self-pay,Diabetes,I85.4,Cardiology,2023-07-30,2023-08-08,9,No
+P01022,76.0,Male,Government,None,I89.1,General Medicine,2024-03-15,2024-03-19,4,Yes
+P01023,42.0,Female,Private,None,I75.4,General Medicine,2023-10-28,2023-11-03,6,No
+P01024,49.0,Female,Private,Diabetes,I51.6,Pulmonology,2024-01-02,2024-01-09,7,Yes
+P01025,90.0,Male,Private,Diabetes,I98.0,General Medicine,2023-08-07,2023-08-16,9,No
+P01026,59.0,Female,Private,Hypertension,I77.3,Cardiology,2023-10-12,2023-10-18,6,No
+P01027,38.0,Female,Government,Hypertension,I97.6,Emergency,2023-11-24,2023-11-27,3,Yes
+P01028,10.0,Male,Private,Diabetes,I67.2,General Medicine,2024-08-28,2024-09-04,7,No
+P01029,50.0,Female,Self-pay,None,I69.4,Cardiology,2024-02-17,2024-02-22,5,Yes
+P01030,29.0,Male,Private,COPD,I63.4,Emergency,2023-12-21,2023-12-26,5,No
+P01031,44.0,Female,Private,Hypertension,I68.7,Pulmonology,2023-05-05,2023-05-14,9,No
+P01032,54.0,Male,Government,Diabetes,I51.6,Emergency,2023-04-01,2023-04-07,6,Yes
+P01033,35.0,Female,Self-pay,None,I16.4,Pulmonology,2023-02-14,2023-02-20,6,Yes
+P01034,46.0,Male,Government,None,I44.2,Orthopedics,2024-08-20,2024-08-25,5,No
+P01035,45.0,Female,Self-pay,None,I62.7,General Medicine,2024-06-18,2024-06-23,5,No
+P01036,54.0,Female,Private,Hypertension,I38.1,Emergency,2023-10-31,2023-11-05,5,No
+P01037,53.0,Male,Government,None,I98.1,Cardiology,2024-05-21,2024-05-26,5,Yes
+P01038,21.0,Female,Private,Diabetes,I36.9,General Medicine,2024-06-10,2024-06-15,5,No
+P01039,56.0,Male,Private,COPD,I26.3,Orthopedics,2024-01-30,2024-02-03,4,No
+P01040,18.0,Female,Private,Heart Disease,I31.4,Orthopedics,2024-08-14,2024-08-20,6,No
+P01041,56.0,Female,Private,None,I33.4,Cardiology,2024-11-08,2024-11-11,3,No
+P01042,58.0,Female,Private,Heart Disease,I60.8,Surgery,2023-12-08,2023-12-12,4,Yes
+P01043,64.0,Female,Government,Kidney Disease,I47.3,Emergency,2024-08-31,2024-09-09,9,Yes
+P01044,26.0,Male,Private,Heart Disease,I24.3,Cardiology,2023-02-06,2023-02-10,4,No
+P01045,55.0,Male,Self-pay,Hypertension,I61.6,Emergency,2023-08-14,2023-08-19,5,No
+P01046,46.0,Male,Government,Kidney Disease,I46.9,Emergency,2023-01-04,2023-01-12,8,Yes
+P01047,28.0,Male,Private,None,I40.2,Emergency,2023-03-13,2023-03-14,1,Yes
+P01048,84.0,Female,Government,Kidney Disease,I12.2,Orthopedics,2023-03-20,2023-03-28,8,Yes
+P01049,40.0,Male,Government,Diabetes,I41.7,Cardiology,2023-01-18,2023-01-29,11,No
+P01050,55.0,Female,Private,Diabetes,I22.1,Emergency,2023-12-10,2023-12-16,6,No
+P01051,65.0,Male,Government,Kidney Disease,I11.5,Emergency,2023-12-08,2023-12-15,7,No
+P01052,53.0,Female,Government,Diabetes,I97.8,General Medicine,2023-01-22,2023-01-27,5,Yes
+P01053,42.0,Female,Private,Diabetes,I83.6,Emergency,2023-04-02,2023-04-06,4,Yes
+P01054,64.0,Female,Self-pay,Hypertension,I67.8,Cardiology,2024-11-26,2024-12-04,8,No
+P01055,63.0,Female,Private,Heart Disease,I84.8,General Medicine,2024-09-19,2024-09-27,8,Yes
+P01056,61.0,Female,Private,Diabetes,I11.7,Orthopedics,2023-05-31,2023-06-05,5,No
+P01057,72.0,Female,Government,Heart Disease,I46.1,Pulmonology,2023-01-16,2023-01-22,6,No
+P01058,46.0,Male,Government,Diabetes,I55.0,Cardiology,2023-05-22,2023-05-26,4,No
+P01059,52.0,Female,Government,Heart Disease,I21.4,Cardiology,2023-07-21,2023-07-28,7,No
+P01060,71.0,Male,Self-pay,Heart Disease,I96.6,Emergency,2023-04-11,2023-04-17,6,No
+P01061,19.0,Male,Private,None,I84.2,General Medicine,2023-07-24,2023-07-26,2,Yes
+P01062,41.0,Male,Private,None,I69.8,Emergency,2024-03-23,2024-03-26,3,Yes
+P01063,40.0,Female,Government,Kidney Disease,I55.6,Surgery,2024-02-25,2024-02-29,4,No
+P01064,33.0,Female,Private,Diabetes,I48.3,General Medicine,2024-01-18,2024-01-25,7,Yes
+P01065,62.0,Male,Government,Kidney Disease,I61.0,Surgery,2024-06-14,2024-06-22,8,No
+P01066,58.0,Female,Government,Kidney Disease,I22.4,Surgery,2024-12-08,2024-12-13,5,No
+P01067,64.0,Female,Government,Diabetes,I36.8,Cardiology,2024-05-22,2024-05-29,7,Yes
+P01068,,Male,Government,Hypertension,I10.7,General Medicine,2023-07-25,2023-07-30,5,Yes
+P01069,96.0,Male,Private,Heart Disease,I70.0,Pulmonology,2024-03-30,2024-04-05,6,No
+P01070,68.0,Female,Private,Heart Disease,I79.4,Pulmonology,2024-11-28,2024-12-05,7,No
+P01071,40.0,Male,Private,Diabetes,I94.3,Cardiology,2024-12-17,2024-12-20,3,No
+P01072,68.0,Female,Self-pay,COPD,I95.4,Emergency,2024-12-15,2024-12-23,8,No
+P01073,46.0,Male,Private,Diabetes,I59.0,General Medicine,2023-02-04,2023-02-12,8,No
+P01074,8.0,Male,Self-pay,None,I69.7,Emergency,2023-06-12,2023-06-16,4,No
+P01075,66.0,Male,Government,Kidney Disease,I18.2,General Medicine,2023-12-27,2024-01-02,6,No
+P01076,49.0,Female,Private,None,I94.4,Orthopedics,2023-03-11,2023-03-20,9,No
+P01077,46.0,Male,Government,Hypertension,I74.8,Emergency,2024-12-15,2024-12-19,4,No
+P01078,68.0,Female,Private,Diabetes,I30.3,Cardiology,2023-04-19,2023-04-24,5,No
+P01079,65.0,Male,Government,None,I40.1,Pulmonology,2023-06-28,2023-07-05,7,No
+P01080,22.0,Female,Private,Heart Disease,I14.1,Surgery,2024-01-19,2024-01-24,5,No
+P01081,60.0,Male,Government,Kidney Disease,I91.9,Surgery,2023-07-20,2023-07-26,6,Yes
+P01082,71.0,Male,Private,None,I34.1,General Medicine,2024-10-06,2024-10-10,4,No
+P01083,27.0,Male,Private,None,I82.8,Pulmonology,2023-12-15,2023-12-18,3,Yes
+P01084,31.0,Female,Government,None,I83.7,Surgery,2024-01-01,2024-01-08,7,No
+P01085,82.0,Male,Private,Kidney Disease,I19.9,Cardiology,2024-06-13,2024-06-22,9,Yes
+P01086,62.0,Female,Private,Heart Disease,I47.4,Emergency,2024-01-02,2024-01-07,5,Yes
+P01087,59.0,Male,Government,None,I88.8,Emergency,2024-09-25,2024-09-27,2,Yes
+P01088,58.0,Male,Self-pay,Heart Disease,I13.0,Emergency,2023-09-25,2023-09-30,5,Yes
+P01089,49.0,Male,Government,Heart Disease,I94.0,Emergency,2023-03-16,2023-03-20,4,No
+P01090,76.0,Female,Government,Kidney Disease,I19.6,General Medicine,2024-09-19,2024-09-26,7,No
+P01091,50.0,Male,Government,Diabetes,I73.8,Emergency,2023-12-25,2023-12-30,5,No
+P01092,63.0,Female,Private,Diabetes,I35.8,General Medicine,2024-01-24,2024-01-29,5,No
+P01093,73.0,Male,Government,Hypertension,I65.6,Surgery,2023-04-29,2023-05-07,8,No
+P01094,57.0,Male,Private,Kidney Disease,I17.3,Emergency,2024-08-25,2024-08-30,5,Yes
+P01095,58.0,Female,Government,Diabetes,I11.3,Pulmonology,2023-03-20,2023-03-25,5,Yes
+P01096,75.0,Male,Government,None,I47.2,General Medicine,2024-05-05,2024-05-11,6,No
+P01097,47.0,Female,Private,Hypertension,I55.3,Surgery,2023-11-06,2023-11-11,5,No
+P01098,67.0,Female,Government,Heart Disease,I99.8,Surgery,2023-02-25,2023-03-05,8,No
+P01099,49.0,Female,Private,None,I76.3,Emergency,2024-07-20,2024-07-29,9,Yes
+P01100,14.0,Male,Self-pay,Hypertension,I93.7,Orthopedics,2023-01-22,2023-01-27,5,No
+P01101,53.0,Male,Government,Diabetes,I45.9,Emergency,2023-01-20,2023-01-24,4,No
+P01102,56.0,Male,Private,Kidney Disease,I16.4,Cardiology,2023-12-23,2023-12-27,4,No
+P01103,78.0,Male,Government,Heart Disease,I85.3,General Medicine,2023-12-16,2023-12-24,8,No
+P01104,48.0,Female,Self-pay,None,I23.8,Emergency,2024-11-25,2024-11-26,1,Yes
+P01105,51.0,Male,Government,None,I43.2,Orthopedics,2024-04-23,2024-04-27,4,No
+P01106,79.0,Male,Government,None,I20.3,General Medicine,2023-10-30,2023-11-06,7,No
+P01107,65.0,Male,Government,None,I87.0,Cardiology,2024-08-05,2024-08-08,3,No
+P01108,34.0,Male,Private,Diabetes,I14.5,Surgery,2024-07-23,2024-07-30,7,Yes
+P01109,47.0,Male,Government,Heart Disease,I18.7,Cardiology,2023-10-10,2023-10-15,5,Yes
+P01110,30.0,Male,Self-pay,Hypertension,I39.1,General Medicine,2023-07-08,2023-07-13,5,No
+P01111,73.0,Male,Government,Diabetes,I43.4,Cardiology,2023-12-28,2024-01-03,6,No
+P01112,27.0,Male,Government,Diabetes,I19.3,Emergency,2024-08-07,2024-08-13,6,No
+P01113,32.0,Female,Self-pay,Diabetes,I51.9,Pulmonology,2023-12-10,2023-12-16,6,No
+P01114,46.0,Female,Private,Diabetes,I57.0,Emergency,2023-06-03,2023-06-09,6,No
+P01115,40.0,Female,Government,None,I75.9,General Medicine,2023-08-09,2023-08-15,6,No
+P01116,69.0,Male,Government,Hypertension,I19.3,Surgery,2024-08-11,2024-08-17,6,No
+P01117,50.0,Male,Self-pay,None,I87.7,General Medicine,2024-06-16,2024-06-18,2,No
+P01118,10.0,Male,Private,Heart Disease,I56.3,Surgery,2023-04-29,2023-05-04,5,No
+P01119,55.0,Male,Private,Hypertension,I19.5,General Medicine,2024-09-11,2024-09-14,3,Yes
+P01120,47.0,Female,Self-pay,None,I41.6,General Medicine,2024-11-12,2024-11-18,6,Yes
+P01121,41.0,Male,Private,Kidney Disease,I28.9,Surgery,2023-07-22,2023-07-28,6,No
+P01122,36.0,Male,Private,Hypertension,I70.1,Cardiology,2023-02-04,2023-02-08,4,No
+P01123,89.0,Male,Government,COPD,I59.6,Emergency,2024-02-16,2024-02-20,4,No
+P01124,74.0,Male,Government,Kidney Disease,I87.9,Cardiology,2023-02-16,2023-02-23,7,Yes
+P01125,35.0,Female,Government,Hypertension,I65.4,General Medicine,2024-12-17,2024-12-24,7,Yes
+P01126,50.0,Female,Self-pay,Diabetes,I10.9,General Medicine,2024-11-21,2024-11-27,6,No
+P01127,44.0,Female,Government,None,I22.3,Emergency,2023-12-16,2023-12-18,2,Yes
+P01128,60.0,Female,Self-pay,Heart Disease,I59.5,General Medicine,2023-05-27,2023-06-01,5,Yes
+P01129,45.0,Female,Private,Heart Disease,I88.5,Cardiology,2023-10-19,2023-10-29,10,Yes
+P01130,73.0,Male,Private,None,I43.9,General Medicine,2023-08-26,2023-08-31,5,No
+P01131,61.0,Female,Government,Diabetes,I15.8,Surgery,2023-07-19,2023-07-23,4,Yes
+P01132,31.0,Male,Self-pay,Hypertension,I66.8,Cardiology,2024-04-09,2024-04-15,6,Yes
+P01133,56.0,Female,Private,Kidney Disease,I43.1,Pulmonology,2023-10-13,2023-10-21,8,No
+P01134,29.0,Male,Government,Hypertension,I51.2,Surgery,2023-10-10,2023-10-14,4,No
+P01135,49.0,Male,Government,None,I14.6,Cardiology,2024-12-23,2024-12-29,6,No
+P01136,51.0,Female,Self-pay,Diabetes,I91.0,Emergency,2024-08-23,2024-08-29,6,No
+P01137,40.0,Male,Private,None,I73.4,Cardiology,2024-10-12,2024-10-15,3,No
+P01138,42.0,Female,Private,Diabetes,I81.9,Emergency,2023-07-02,2023-07-07,5,Yes
+P01139,77.0,Female,Private,Kidney Disease,I77.2,Pulmonology,2023-08-26,2023-09-04,9,No
+P01140,40.0,Female,Government,COPD,I47.1,Emergency,2023-10-22,2023-10-28,6,No
+P01141,84.0,Male,Private,None,I94.1,Emergency,2024-02-12,2024-02-18,6,No
+P01142,84.0,Female,Government,Kidney Disease,I40.0,Emergency,2024-06-03,2024-06-11,8,Yes
+P01143,52.0,Female,Private,Hypertension,I62.6,Pulmonology,2024-03-11,2024-03-18,7,No
+P01144,27.0,Female,Private,None,I49.7,Emergency,2024-08-09,2024-08-17,8,No
+P01145,46.0,Male,Self-pay,Hypertension,I26.9,Surgery,2023-01-22,2023-01-26,4,No
+P01146,55.0,Female,Government,Hypertension,I93.0,Surgery,2024-01-06,2024-01-11,5,No
+P01147,29.0,Male,Government,Heart Disease,I30.5,Emergency,2023-08-09,2023-08-17,8,No
+P01148,54.0,Female,Government,COPD,I74.6,Pulmonology,2023-02-13,2023-02-17,4,Yes
+P01149,75.0,Female,Private,Heart Disease,I25.6,General Medicine,2023-05-15,2023-05-20,5,No
+P01150,81.0,Male,Government,Hypertension,I63.0,Cardiology,2024-07-08,2024-07-15,7,No
+P01151,61.0,Female,Private,Hypertension,I49.5,Emergency,2023-01-24,2023-01-26,2,No
+P01152,49.0,Female,Government,Kidney Disease,I64.1,Emergency,2024-02-21,2024-02-27,6,No
+P01153,50.0,Female,Private,Diabetes,I73.6,Orthopedics,2024-07-13,2024-07-22,9,No
+P01154,71.0,Male,Government,Kidney Disease,I71.9,Cardiology,2023-11-15,2023-11-24,9,No
+P01155,40.0,Male,Private,None,I72.9,Emergency,2023-05-25,2023-05-29,4,No
+P01156,53.0,Female,Government,Diabetes,I73.4,Emergency,2023-12-12,2023-12-20,8,No
+P01157,60.0,Female,Self-pay,Heart Disease,I36.8,Pulmonology,2024-07-12,2024-07-19,7,No
+P01158,45.0,Male,Government,Hypertension,I20.1,Emergency,2023-03-21,2023-03-28,7,No
+P01159,55.0,Female,Private,Kidney Disease,I24.0,Pulmonology,2024-05-22,2024-05-29,7,Yes
+P01160,77.0,Female,Government,Kidney Disease,I47.1,Surgery,2023-10-29,2023-11-05,7,No
+P01161,38.0,Male,Self-pay,Hypertension,I31.2,Emergency,2024-12-02,2024-12-08,6,Yes
+P01162,39.0,Female,Private,COPD,I52.2,Cardiology,2024-04-30,2024-05-07,7,Yes
+P01163,78.0,Male,Self-pay,Heart Disease,I34.3,General Medicine,2024-07-04,2024-07-13,9,No
+P01164,45.0,Female,Private,Hypertension,I38.5,General Medicine,2023-07-17,2023-07-24,7,Yes
+P01165,60.0,Female,Private,Hypertension,I61.4,Surgery,2024-10-18,2024-10-25,7,No
+P01166,45.0,Female,Private,Heart Disease,I23.2,Pulmonology,2024-08-24,2024-08-29,5,No
+P01167,76.0,Female,Government,None,I88.7,Emergency,2023-01-03,2023-01-07,4,No
+P01168,45.0,Female,Private,Heart Disease,I10.5,Cardiology,2023-02-23,2023-03-04,9,Yes
+P01169,46.0,Male,Private,None,I40.8,Emergency,2024-01-30,2024-02-05,6,No
+P01170,40.0,Male,Private,Hypertension,I37.2,Orthopedics,2023-10-12,2023-10-16,4,No
+P01171,47.0,Female,Government,Hypertension,I81.6,General Medicine,2023-07-02,2023-07-10,8,Yes
+P01172,16.0,Female,Government,Heart Disease,I81.3,Emergency,2023-07-03,2023-07-07,4,No
+P01173,69.0,Male,Private,Hypertension,I52.1,Orthopedics,2023-09-17,2023-09-26,9,No
+P01174,61.0,Female,Government,Kidney Disease,I99.4,Emergency,2023-02-28,2023-03-04,4,No
+P01175,46.0,Female,Self-pay,Hypertension,I72.2,Surgery,2024-10-25,2024-10-30,5,No
+P01176,84.0,Male,Self-pay,Heart Disease,I32.2,Cardiology,2023-05-03,2023-05-08,5,Yes
+P01177,48.0,Male,Government,None,I34.9,General Medicine,2023-12-07,2023-12-11,4,No
+P01178,10.0,Female,Self-pay,Hypertension,I56.8,Cardiology,2024-11-11,2024-11-16,5,No
+P01179,64.0,Male,Government,COPD,I44.1,Cardiology,2023-02-15,2023-02-19,4,Yes
+P01180,79.0,Male,Government,None,I10.4,Emergency,2023-12-26,2023-12-31,5,Yes
+P01181,47.0,Male,Self-pay,Diabetes,I21.2,General Medicine,2023-07-10,2023-07-14,4,No
+P01182,57.0,Male,Private,Hypertension,I68.1,Pulmonology,2023-09-10,2023-09-16,6,No
+P01183,50.0,Female,Government,Hypertension,I49.0,Emergency,2023-10-21,2023-10-25,4,Yes
+P01184,35.0,Male,Private,None,I32.4,Emergency,2024-03-26,2024-03-30,4,Yes
+P01185,54.0,Male,Government,Kidney Disease,I90.2,Cardiology,2024-08-22,2024-08-26,4,No
+P01186,63.0,Female,Private,None,I46.3,Emergency,2024-05-30,2024-06-02,3,No
+P01187,25.0,Female,Private,Heart Disease,I43.0,Orthopedics,2024-06-13,2024-06-17,4,No
+P01188,100.0,Female,Private,Kidney Disease,I85.0,Emergency,2023-04-18,2023-04-24,6,No
+P01189,62.0,Male,Private,Hypertension,I22.2,Orthopedics,2023-11-10,2023-11-16,6,Yes
+P01190,47.0,Male,Government,Hypertension,I98.6,General Medicine,2024-04-29,2024-05-07,8,No
+P01191,22.0,Male,Government,Heart Disease,I39.8,Cardiology,2024-03-12,2024-03-19,7,No
+P01192,55.0,Male,Government,None,I86.8,Emergency,2024-08-04,2024-08-10,6,No
+P01193,60.0,Female,Self-pay,Heart Disease,I28.5,Surgery,2023-06-19,2023-06-27,8,No
+P01194,66.0,Male,Private,Heart Disease,I36.6,Cardiology,2023-09-08,2023-09-15,7,Yes
+P01195,36.0,Male,Private,Diabetes,I80.6,General Medicine,2024-04-28,2024-05-02,4,No
+P01196,58.0,Female,Private,Diabetes,I27.6,General Medicine,2023-10-17,2023-10-22,5,No
+P01197,54.0,Male,Private,COPD,I85.0,Emergency,2024-09-15,2024-09-21,6,Yes
+P01198,58.0,Female,Private,Hypertension,I60.1,General Medicine,2023-05-22,2023-05-26,4,No
+P01199,56.0,Male,Private,Heart Disease,I29.4,Emergency,2024-11-22,2024-11-25,3,No
+P01200,78.0,Male,Private,Hypertension,I23.7,Pulmonology,2023-12-21,2023-12-28,7,No
+P01201,66.0,Female,Private,Heart Disease,I83.8,Emergency,2024-04-10,2024-04-18,8,Yes
+P01202,85.0,Male,Private,Kidney Disease,I91.1,General Medicine,2024-04-06,2024-04-14,8,No
+P01203,20.0,Female,Self-pay,Diabetes,I32.6,Surgery,2024-01-28,2024-01-31,3,No
+P01204,61.0,Female,Government,Heart Disease,I75.9,General Medicine,2024-04-10,2024-04-16,6,No
+P01205,13.0,Female,Government,Diabetes,I86.5,Emergency,2023-12-12,2023-12-17,5,No
+P01206,44.0,Male,Private,Kidney Disease,I67.5,Emergency,2023-02-06,2023-02-11,5,No
+P01207,42.0,Female,Private,Diabetes,I22.2,General Medicine,2024-10-10,2024-10-15,5,No
+P01208,41.0,Male,Government,None,I77.9,Surgery,2023-03-20,2023-03-24,4,No
+P01209,68.0,Female,Government,Diabetes,I75.1,Emergency,2024-10-14,2024-10-20,6,No
+P01210,31.0,Female,Private,Hypertension,I20.6,Orthopedics,2023-07-16,2023-07-24,8,No
+P01211,13.0,Female,Government,Hypertension,I16.5,Surgery,2023-08-09,2023-08-17,8,No
+P01212,,Female,Private,Hypertension,I87.6,Orthopedics,2024-11-25,2024-11-29,4,Yes
+P01213,54.0,Female,Government,Heart Disease,I69.9,Pulmonology,2024-10-12,2024-10-17,5,No
+P01214,73.0,Male,Private,Heart Disease,I87.7,General Medicine,2024-10-12,2024-10-19,7,No
+P01215,7.0,Female,Private,Heart Disease,I66.2,Surgery,2024-05-25,2024-06-01,7,Yes
+P01216,52.0,Male,Private,None,I20.7,Surgery,2023-12-20,2023-12-24,4,Yes
+P01217,65.0,Male,Government,COPD,I69.0,Cardiology,2024-08-21,2024-08-26,5,Yes
+P01218,34.0,Female,Private,None,I81.7,Orthopedics,2024-01-20,2024-01-28,8,No
+P01219,58.0,Female,Private,Heart Disease,I24.9,Emergency,2023-06-12,2023-06-18,6,No
+P01220,37.0,Female,Private,Heart Disease,I86.4,Emergency,2024-01-07,2024-01-14,7,No
+P01221,76.0,Female,Government,COPD,I78.6,Emergency,2024-02-18,2024-02-23,5,No
+P01222,94.0,Male,Self-pay,Heart Disease,I46.0,Surgery,2023-12-09,2023-12-14,5,No
+P01223,62.0,Male,Government,Kidney Disease,I63.6,Emergency,2023-01-30,2023-02-05,6,No
+P01224,69.0,Female,Government,Hypertension,I12.5,General Medicine,2023-06-20,2023-06-26,6,No
+P01225,66.0,Male,Government,None,I93.6,Surgery,2023-07-17,2023-07-25,8,No
+P01226,44.0,Female,Private,None,I35.5,Cardiology,2023-03-08,2023-03-13,5,No
+P01227,54.0,Male,Government,None,I32.7,Surgery,2023-04-24,2023-04-28,4,No
+P01228,86.0,Female,Private,Hypertension,I18.0,General Medicine,2024-11-29,2024-12-06,7,No
+P01229,59.0,Female,Private,Kidney Disease,I43.8,Cardiology,2024-09-13,2024-09-20,7,No
+P01230,32.0,Female,Government,Heart Disease,I60.0,Emergency,2024-06-07,2024-06-12,5,No
+P01231,56.0,Male,Government,None,I84.1,General Medicine,2024-01-11,2024-01-12,1,No
+P01232,85.0,Female,Private,Diabetes,I92.1,Surgery,2024-12-27,2025-01-04,8,No
+P01233,70.0,Male,Private,None,I99.4,Surgery,2024-08-31,2024-09-06,6,Yes
+P01234,31.0,Male,Self-pay,Hypertension,I47.4,Orthopedics,2023-06-12,2023-06-17,5,No
+P01235,28.0,Female,Private,None,I26.2,General Medicine,2024-01-29,2024-02-05,7,Yes
+P01236,43.0,Female,Private,Diabetes,I56.8,General Medicine,2024-06-13,2024-06-23,10,No
+P01237,48.0,Male,Private,None,I50.8,Emergency,2024-05-11,2024-05-13,2,No
+P01238,56.0,Female,Private,Hypertension,I18.5,Emergency,2023-07-31,2023-08-03,3,Yes
+P01239,41.0,Female,Government,Kidney Disease,I68.9,Orthopedics,2023-01-13,2023-01-18,5,No
+P01240,19.0,Female,Private,Heart Disease,I95.0,Emergency,2023-04-12,2023-04-17,5,No
+P01241,64.0,Female,Government,COPD,I20.0,Surgery,2024-06-19,2024-06-26,7,Yes
+P01242,67.0,Female,Government,Heart Disease,I98.7,Cardiology,2024-09-15,2024-09-23,8,Yes
+P01243,67.0,Female,Self-pay,None,I26.8,Emergency,2023-08-01,2023-08-09,8,Yes
+P01244,61.0,Male,Government,None,I50.1,Emergency,2023-04-30,2023-05-02,2,No
+P01245,54.0,Female,Government,Heart Disease,I11.9,Emergency,2023-04-25,2023-05-01,6,No
+P01246,67.0,Female,Government,None,I10.4,General Medicine,2024-09-07,2024-09-11,4,Yes
+P01247,47.0,Female,Private,Hypertension,I43.8,Emergency,2023-10-09,2023-10-17,8,No
+P01248,63.0,Male,Government,Heart Disease,I10.5,Pulmonology,2024-06-05,2024-06-11,6,No
+P01249,54.0,Male,Private,None,I66.5,General Medicine,2024-07-05,2024-07-08,3,No
+P01250,45.0,Male,Private,Heart Disease,I77.7,Cardiology,2023-11-04,2023-11-09,5,No
+P01251,51.0,Male,Private,Kidney Disease,I31.2,General Medicine,2023-06-10,2023-06-15,5,No
+P01252,67.0,Female,Private,Hypertension,I39.4,Surgery,2023-11-07,2023-11-13,6,No
+P01253,66.0,Female,Private,Heart Disease,I82.6,General Medicine,2023-01-06,2023-01-12,6,No
+P01254,51.0,Male,Government,None,I45.0,Pulmonology,2023-07-27,2023-07-31,4,Yes
+P01255,43.0,Male,Private,None,I51.8,Surgery,2023-07-24,2023-07-28,4,No
+P01256,58.0,Male,Private,Heart Disease,I71.9,Surgery,2023-02-17,2023-02-23,6,No
+P01257,62.0,Female,Private,None,I85.6,Cardiology,2023-02-27,2023-03-01,2,No
+P01258,38.0,Female,Private,Diabetes,I19.5,Orthopedics,2024-02-28,2024-03-07,8,No
+P01259,81.0,Female,Government,Kidney Disease,I51.9,Surgery,2024-11-07,2024-11-14,7,Yes
+P01260,39.0,Male,Government,Diabetes,I99.5,Orthopedics,2024-01-05,2024-01-12,7,No
+P01261,54.0,Male,Government,COPD,I52.3,General Medicine,2024-12-21,2024-12-25,4,Yes
+P01262,54.0,Male,Government,Kidney Disease,I72.0,Pulmonology,2023-03-03,2023-03-06,3,No
+P01263,53.0,Male,Private,COPD,I51.8,Surgery,2024-08-11,2024-08-15,4,No
+P01264,66.0,Male,Government,Diabetes,I30.8,Pulmonology,2023-03-31,2023-04-08,8,No
+P01265,45.0,Male,Private,Hypertension,I45.7,Surgery,2023-06-05,2023-06-08,3,No
+P01266,42.0,Male,Government,Hypertension,I65.0,Emergency,2023-10-28,2023-11-02,5,Yes
+P01267,59.0,Male,Private,Heart Disease,I38.9,General Medicine,2023-12-01,2023-12-05,4,No
+P01268,43.0,Female,Self-pay,None,I83.2,Emergency,2023-06-01,2023-06-02,1,Yes
+P01269,51.0,Female,Government,None,I79.5,Orthopedics,2023-12-02,2023-12-07,5,No
+P01270,37.0,Male,Private,None,I39.3,General Medicine,2023-01-28,2023-02-01,4,Yes
+P01271,66.0,Female,Private,Kidney Disease,I36.6,Cardiology,2024-03-25,2024-03-30,5,No
+P01272,19.0,Female,Private,Heart Disease,I84.8,Cardiology,2023-08-03,2023-08-08,5,Yes
+P01273,82.0,Female,Private,Heart Disease,I21.8,Emergency,2023-09-19,2023-09-26,7,No
+P01274,69.0,Male,Private,None,I22.5,Emergency,2023-11-14,2023-11-20,6,No
+P01275,71.0,Male,Self-pay,Diabetes,I92.6,Pulmonology,2023-01-17,2023-01-24,7,No
+P01276,66.0,Male,Private,Heart Disease,I82.0,Cardiology,2023-06-09,2023-06-14,5,Yes
+P01277,27.0,Female,Private,Hypertension,I47.5,General Medicine,2023-06-11,2023-06-17,6,No
+P01278,72.0,Male,Government,Hypertension,I56.1,Pulmonology,2023-01-31,2023-02-07,7,No
+P01279,90.0,Female,Private,Heart Disease,I13.5,Cardiology,2024-04-26,2024-05-01,5,Yes
+P01280,64.0,Male,Private,Hypertension,I77.2,Cardiology,2023-01-16,2023-01-20,4,No
+P01281,,Male,Self-pay,COPD,I63.8,Surgery,2024-09-09,2024-09-14,5,No
+P01282,64.0,Female,Private,Heart Disease,I79.5,Orthopedics,2024-11-15,2024-11-24,9,No
+P01283,57.0,Female,Private,Heart Disease,I26.2,Emergency,2023-03-26,2023-03-31,5,No
+P01284,71.0,Female,Private,Heart Disease,I94.4,Emergency,2024-04-18,2024-04-26,8,No
+P01285,72.0,Female,Government,Diabetes,I64.5,General Medicine,2024-08-16,2024-08-20,4,No
+P01286,11.0,Female,Government,None,I33.0,Cardiology,2023-02-04,2023-02-07,3,No
+P01287,85.0,Male,Government,None,I34.9,Emergency,2023-08-08,2023-08-11,3,No
+P01288,34.0,Female,Government,COPD,I53.5,Orthopedics,2023-07-10,2023-07-19,9,Yes
+P01289,23.0,Female,Government,Hypertension,I53.8,Emergency,2024-01-10,2024-01-14,4,No
+P01290,72.0,Male,Self-pay,None,I25.8,General Medicine,2023-05-10,2023-05-17,7,No
+P01291,35.0,Female,Private,None,I74.2,Emergency,2024-06-07,2024-06-12,5,Yes
+P01292,48.0,Male,Government,Kidney Disease,I86.2,Surgery,2024-06-27,2024-07-02,5,No
+P01293,71.0,Male,Self-pay,COPD,I57.2,Cardiology,2023-06-19,2023-06-23,4,No
+P01294,62.0,Female,Government,COPD,I88.6,Pulmonology,2023-10-13,2023-10-18,5,Yes
+P01295,46.0,Male,Government,Kidney Disease,I70.7,Emergency,2023-11-04,2023-11-07,3,Yes
+P01296,55.0,Male,Self-pay,Hypertension,I18.0,General Medicine,2023-05-24,2023-06-01,8,Yes
+P01297,68.0,Female,Self-pay,Heart Disease,I30.6,Emergency,2023-07-18,2023-07-25,7,Yes
+P01298,70.0,Female,Private,Kidney Disease,I84.2,Emergency,2023-05-26,2023-06-05,10,No
+P01299,37.0,Male,Private,Diabetes,I90.9,Surgery,2024-11-07,2024-11-11,4,No
+P01300,33.0,Female,Private,None,I53.4,Orthopedics,2023-02-11,2023-02-16,5,No
+P01301,56.0,Male,Government,None,I98.7,General Medicine,2023-08-19,2023-08-23,4,No
+P01302,68.0,Female,Self-pay,Heart Disease,I95.7,Pulmonology,2024-03-18,2024-03-27,9,No
+P01303,39.0,Male,Government,Heart Disease,I42.8,Emergency,2024-11-13,2024-11-21,8,No
+P01304,93.0,Male,Government,Heart Disease,I73.3,General Medicine,2024-11-12,2024-11-20,8,Yes
+P01305,46.0,Female,Government,Hypertension,I87.8,Pulmonology,2024-11-14,2024-11-19,5,No
+P01306,48.0,Female,Self-pay,Hypertension,I25.3,Emergency,2024-11-19,2024-11-25,6,No
+P01307,46.0,Female,Private,Hypertension,I66.7,Surgery,2024-06-19,2024-06-23,4,Yes
+P01308,86.0,Female,Private,None,I37.9,Emergency,2024-10-07,2024-10-10,3,No
+P01309,71.0,Female,Government,None,I42.5,Pulmonology,2023-12-19,2023-12-23,4,No
+P01310,65.0,Female,Private,Hypertension,I91.4,General Medicine,2023-06-14,2023-06-20,6,Yes
+P01311,16.0,Male,Private,Kidney Disease,I32.7,Pulmonology,2023-12-08,2023-12-17,9,No
+P01312,49.0,Female,Private,Heart Disease,I21.6,Emergency,2024-05-24,2024-05-31,7,No
+P01313,49.0,Female,Government,Kidney Disease,I66.5,General Medicine,2023-06-22,2023-06-28,6,No
+P01314,50.0,Female,Government,Hypertension,I81.8,Cardiology,2024-09-25,2024-10-04,9,No
+P01315,49.0,Female,Self-pay,Kidney Disease,I43.2,General Medicine,2024-06-29,2024-07-05,6,No
+P01316,29.0,Female,Government,None,I47.9,Surgery,2023-03-26,2023-04-01,6,No
+P01317,36.0,Male,Private,None,I13.7,Emergency,2024-12-12,2024-12-15,3,No
+P01318,85.0,Female,Private,Diabetes,I41.0,Pulmonology,2024-05-09,2024-05-15,6,No
+P01319,30.0,Female,Private,None,I84.6,General Medicine,2024-02-01,2024-02-02,1,No
+P01320,70.0,Female,Private,Kidney Disease,I40.5,Surgery,2023-03-20,2023-03-28,8,No
+P01321,52.0,Female,Private,COPD,I26.1,Orthopedics,2024-06-03,2024-06-07,4,No
+P01322,59.0,Female,Private,Kidney Disease,I99.8,Pulmonology,2023-08-18,2023-08-23,5,No
+P01323,71.0,Female,Government,Kidney Disease,I31.0,Surgery,2024-07-26,2024-07-31,5,No
+P01324,78.0,Female,Private,Kidney Disease,I45.9,Emergency,2023-01-29,2023-02-05,7,No
+P01325,64.0,Female,Self-pay,Heart Disease,I67.4,Surgery,2024-11-21,2024-11-27,6,No
+P01326,38.0,Female,Private,None,I97.9,Emergency,2023-01-07,2023-01-11,4,No
+P01327,42.0,Female,Government,Diabetes,I18.8,Emergency,2023-06-15,2023-06-22,7,No
+P01328,86.0,Female,Private,Heart Disease,I93.7,General Medicine,2023-12-06,2023-12-12,6,Yes
+P01329,46.0,Female,Private,Kidney Disease,I99.7,Cardiology,2023-12-18,2023-12-26,8,Yes
+P01330,43.0,Male,Private,Diabetes,I43.6,Emergency,2023-12-26,2024-01-01,6,No
+P01331,65.0,Female,Government,Diabetes,I87.0,,2023-03-02,2023-03-07,5,No
+P01332,51.0,Female,Private,Heart Disease,I49.0,Pulmonology,2024-08-04,2024-08-07,3,No
+P01333,48.0,Male,Government,Heart Disease,I37.5,Cardiology,2024-11-30,2024-12-03,3,No
+P01334,47.0,Female,Government,None,I32.8,Cardiology,2024-03-31,2024-04-05,5,Yes
+P01335,65.0,Female,Self-pay,None,I49.4,Cardiology,2024-11-30,2024-12-02,2,Yes
+P01336,60.0,Female,Government,None,I53.7,Orthopedics,2024-07-15,2024-07-18,3,No
+P01337,66.0,Female,Private,Heart Disease,I28.3,Orthopedics,2024-05-17,2024-05-24,7,Yes
+P01338,98.0,Female,Self-pay,None,I94.9,Cardiology,2024-06-16,2024-06-23,7,Yes
+P01339,52.0,Female,Government,COPD,I79.3,Emergency,2023-05-19,2023-05-29,10,No
+P01340,47.0,Male,Private,Diabetes,I13.7,Cardiology,2024-07-28,2024-08-06,9,No
+P01341,64.0,Female,Private,Hypertension,I17.8,Pulmonology,2023-07-12,2023-07-15,3,No
+P01342,41.0,Female,Government,Hypertension,I16.8,Cardiology,2023-11-07,2023-11-09,2,No
+P01343,31.0,Female,Government,Kidney Disease,I75.8,Pulmonology,2024-06-04,2024-06-09,5,No
+P01344,79.0,Male,Self-pay,None,I50.1,General Medicine,2024-05-22,2024-05-26,4,Yes
+P01345,5.0,Female,Private,Hypertension,I47.0,Orthopedics,2024-11-06,2024-11-09,3,No
+P01346,60.0,Female,Government,Kidney Disease,I61.0,Cardiology,2024-09-05,2024-09-14,9,Yes
+P01347,54.0,Male,Government,None,I90.4,Emergency,2024-10-31,2024-11-03,3,No
+P01348,39.0,Male,Private,Heart Disease,I34.7,Emergency,2023-01-11,2023-01-17,6,No
+P01349,62.0,Male,Government,Heart Disease,I91.1,Cardiology,2024-05-15,2024-05-20,5,Yes
+P01350,63.0,Female,Self-pay,Hypertension,I98.6,Emergency,2023-10-21,2023-10-25,4,Yes
+P01351,59.0,Male,Government,None,I21.8,Pulmonology,2023-07-25,2023-07-27,2,Yes
+P01352,5.0,Male,Private,None,I33.1,General Medicine,2023-03-11,2023-03-18,7,Yes
+P01353,36.0,Male,Government,Diabetes,I74.3,General Medicine,2023-11-22,2023-11-27,5,Yes
+P01354,65.0,Female,Private,Heart Disease,I69.3,Orthopedics,2023-02-27,2023-03-11,12,No
+P01355,80.0,Male,Private,Heart Disease,I94.7,Cardiology,2024-03-27,2024-04-06,10,Yes
+P01356,50.0,Female,Private,None,I17.1,General Medicine,2024-02-24,2024-02-27,3,No
+P01357,56.0,Female,Private,Diabetes,I23.3,Cardiology,2023-01-04,2023-01-08,4,No
+P01358,74.0,Male,Private,Hypertension,I82.8,Cardiology,2024-10-26,2024-10-31,5,No
+P01359,48.0,Male,Government,Kidney Disease,I40.7,General Medicine,2023-12-20,2023-12-27,7,No
+P01360,58.0,Female,Government,None,I38.2,Emergency,2023-06-28,2023-06-30,2,No
+P01361,17.0,Male,Government,Kidney Disease,I48.2,Cardiology,2024-02-25,2024-03-02,6,No
+P01362,31.0,Male,Government,Kidney Disease,I61.6,Pulmonology,2024-04-16,2024-04-22,6,No
+P01363,45.0,Male,Private,Kidney Disease,I77.3,Emergency,2024-12-30,2025-01-05,6,Yes
+P01364,65.0,Female,Government,None,I80.6,Emergency,2023-11-11,2023-11-17,6,Yes
+P01365,74.0,Female,Private,None,I89.6,Cardiology,2023-08-11,2023-08-18,7,No
+P01366,51.0,Female,Private,None,I13.3,Emergency,2024-11-14,2024-11-15,1,Yes
+P01367,55.0,Female,Government,Hypertension,I35.2,Emergency,2024-04-24,2024-05-01,7,Yes
+P01368,,Female,Government,None,I77.0,General Medicine,2023-03-08,2023-03-11,3,Yes
+P01369,58.0,Male,Self-pay,Heart Disease,I55.3,General Medicine,2023-08-07,2023-08-11,4,No
+P01370,33.0,Male,Self-pay,Kidney Disease,I53.2,Emergency,2023-04-14,2023-04-18,4,No
+P01371,49.0,Male,Private,None,I62.2,Surgery,2024-10-05,2024-10-09,4,No
+P01372,47.0,Female,Self-pay,Hypertension,I28.7,Cardiology,2023-02-10,2023-02-13,3,Yes
+P01373,34.0,Male,Private,Hypertension,I56.7,General Medicine,2023-07-06,2023-07-11,5,No
+P01374,86.0,Female,Private,Kidney Disease,I20.5,Cardiology,2023-05-19,2023-05-26,7,No
+P01375,65.0,Male,Self-pay,None,I35.5,Emergency,2023-03-27,2023-03-31,4,No
+P01376,73.0,Female,Government,None,I56.4,Emergency,2023-10-14,2023-10-21,7,No
+P01377,46.0,Male,Private,Hypertension,I99.4,Emergency,2024-03-19,2024-03-23,4,No
+P01378,25.0,Female,Government,Kidney Disease,I14.2,Pulmonology,2024-10-01,2024-10-06,5,Yes
+P01379,60.0,Male,Government,Kidney Disease,I98.4,General Medicine,2023-12-10,2023-12-16,6,No
+P01380,66.0,Male,Government,Diabetes,I54.4,Surgery,2024-05-15,2024-05-23,8,Yes
+P01381,25.0,Female,Government,None,I75.1,Cardiology,2023-05-12,2023-05-15,3,No
+P01382,55.0,Male,Private,None,I21.1,Cardiology,2023-01-14,2023-01-19,5,No
+P01383,40.0,Male,Government,None,I68.5,Pulmonology,2023-04-19,2023-04-22,3,No
+P01384,22.0,Female,Self-pay,Heart Disease,I21.0,Surgery,2024-12-03,2024-12-06,3,Yes
+P01385,67.0,Male,Government,COPD,I35.7,General Medicine,2023-07-10,2023-07-17,7,No
+P01386,57.0,Female,Private,COPD,I20.2,Orthopedics,2023-09-27,2023-10-05,8,Yes
+P01387,33.0,Female,Government,Diabetes,I33.5,General Medicine,2023-08-22,2023-08-26,4,Yes
+P01388,49.0,Female,Government,Heart Disease,I64.4,Pulmonology,2023-09-04,2023-09-11,7,No
+P01389,79.0,Male,Government,Diabetes,I18.7,Emergency,2023-03-03,2023-03-10,7,No
+P01390,59.0,Female,Government,Diabetes,I96.1,Emergency,2024-01-06,2024-01-16,10,No
+P01391,39.0,Female,Government,Heart Disease,I55.7,Emergency,2023-11-04,2023-11-10,6,No
+P01392,49.0,Male,Government,Diabetes,I55.6,Surgery,2024-04-17,2024-04-23,6,No
+P01393,68.0,Male,Self-pay,COPD,I29.2,General Medicine,2024-01-30,2024-02-08,9,No
+P01394,59.0,Male,Self-pay,Hypertension,I61.5,Cardiology,2024-11-08,2024-11-14,6,No
+P01395,36.0,Male,Private,COPD,I44.5,Emergency,2024-05-24,2024-05-28,4,No
+P01396,63.0,Female,Private,COPD,I73.6,Surgery,2023-06-13,2023-06-22,9,No
+P01397,70.0,Male,Self-pay,Hypertension,I87.4,Cardiology,2024-06-15,2024-06-18,3,No
+P01398,62.0,Male,Private,Heart Disease,I90.4,General Medicine,2024-03-15,2024-03-23,8,No
+P01399,36.0,Male,Private,Hypertension,I26.5,Surgery,2024-04-29,2024-05-05,6,Yes
+P01400,86.0,Male,Private,Heart Disease,I50.7,Pulmonology,2024-07-22,2024-08-01,10,No
+P01401,75.0,Female,Self-pay,None,I83.3,General Medicine,2024-09-16,2024-09-18,2,Yes
+P01402,54.0,Male,Private,COPD,I22.6,General Medicine,2024-09-30,2024-10-07,7,No
+P01403,52.0,Female,Self-pay,Hypertension,I18.7,Emergency,2023-07-17,2023-07-26,9,No
+P01404,45.0,Female,Private,Heart Disease,I91.0,Emergency,2024-09-27,2024-10-02,5,No
+P01405,38.0,Male,Self-pay,Hypertension,I78.3,Pulmonology,2024-10-23,2024-10-28,5,Yes
+P01406,51.0,Male,Private,None,I77.8,Emergency,2024-01-21,2024-01-25,4,No
+P01407,45.0,Male,Private,Diabetes,I93.6,Cardiology,2024-04-21,2024-04-26,5,No
+P01408,46.0,Male,Private,Kidney Disease,I50.1,Orthopedics,2024-04-11,2024-04-18,7,Yes
+P01409,53.0,Male,Private,None,I25.0,Pulmonology,2024-07-19,2024-07-20,1,No
+P01410,33.0,Male,Private,Kidney Disease,I51.6,Cardiology,2024-09-19,2024-09-24,5,No
+P01411,45.0,Female,Government,None,I17.2,Surgery,2023-03-11,2023-03-15,4,Yes
+P01412,62.0,Female,Private,Kidney Disease,I55.5,Cardiology,2023-12-18,2023-12-22,4,No
+P01413,31.0,Female,Government,Kidney Disease,I29.8,Pulmonology,2023-08-01,2023-08-03,2,No
+P01414,69.0,Male,Private,Hypertension,I81.0,Cardiology,2024-12-15,2024-12-26,11,Yes
+P01415,39.0,Male,Private,None,I74.5,Emergency,2024-10-11,2024-10-14,3,No
+P01416,38.0,Female,Government,Hypertension,I80.1,Cardiology,2024-08-26,2024-09-05,10,Yes
+P01417,53.0,Male,Private,None,I75.2,Emergency,2023-06-05,2023-06-09,4,No
+P01418,72.0,Male,Government,COPD,I30.3,General Medicine,2023-09-20,2023-09-27,7,No
+P01419,63.0,Male,Private,Diabetes,I87.8,General Medicine,2023-07-29,2023-08-04,6,Yes
+P01420,40.0,Female,Self-pay,Heart Disease,I82.4,Pulmonology,2024-11-21,2024-11-24,3,Yes
+P01421,84.0,Male,Government,Heart Disease,I42.3,Surgery,2023-11-14,2023-11-19,5,Yes
+P01422,81.0,Male,Self-pay,Kidney Disease,I51.7,Orthopedics,2024-09-08,2024-09-14,6,No
+P01423,31.0,Female,Government,Hypertension,I41.1,General Medicine,2023-01-01,2023-01-07,6,No
+P01424,62.0,Female,Self-pay,Heart Disease,I58.9,Orthopedics,2023-04-10,2023-04-15,5,Yes
+P01425,58.0,Male,Self-pay,Diabetes,I63.0,Emergency,2023-02-05,2023-02-11,6,No
+P01426,90.0,Female,Self-pay,None,I36.1,Orthopedics,2024-11-29,2024-12-02,3,No
+P01427,61.0,Male,Private,Hypertension,I68.9,General Medicine,2023-10-07,2023-10-13,6,Yes
+P01428,24.0,Female,Private,Diabetes,I96.6,Cardiology,2024-05-24,2024-05-30,6,No
+P01429,68.0,Male,Self-pay,Hypertension,I45.4,General Medicine,2023-07-27,2023-08-02,6,No
+P01430,88.0,Female,Private,Kidney Disease,I10.0,Pulmonology,2024-03-21,2024-03-27,6,No
+P01431,45.0,Female,Government,Heart Disease,I21.9,Emergency,2024-04-28,2024-05-03,5,No
+P01432,84.0,Female,Government,Heart Disease,I91.5,Emergency,2024-08-17,2024-08-27,10,No
+P01433,49.0,Male,Government,None,I73.8,Emergency,2024-03-18,2024-03-24,6,Yes
+P01434,48.0,Female,Government,COPD,I79.2,Pulmonology,2023-12-18,2023-12-22,4,No
+P01435,72.0,Female,Government,None,I30.9,Cardiology,2023-07-30,2023-08-03,4,No
+P01436,30.0,Female,Self-pay,COPD,I76.1,Surgery,2023-09-18,2023-09-24,6,No
+P01437,100.0,Male,Government,Kidney Disease,I24.5,General Medicine,2024-01-18,2024-01-25,7,No
+P01438,55.0,Male,Government,Hypertension,I98.1,Emergency,2024-10-21,2024-10-24,3,No
+P01439,58.0,Male,Private,None,I74.1,Surgery,2023-03-15,2023-03-17,2,No
+P01440,56.0,Male,Private,Hypertension,I34.0,Cardiology,2023-10-30,2023-11-03,4,Yes
+P01441,50.0,Male,Private,None,I64.5,General Medicine,2023-01-11,2023-01-13,2,No
+P01442,89.0,Male,Private,Hypertension,I71.9,General Medicine,2024-11-26,2024-12-05,9,No
+P01443,41.0,Male,Government,None,I59.8,General Medicine,2024-03-08,2024-03-12,4,No
+P01444,84.0,Female,Government,Diabetes,I14.7,General Medicine,2023-03-30,2023-04-03,4,No
+P01445,49.0,Female,Government,None,I68.6,General Medicine,2023-09-05,2023-09-09,4,No
+P01446,41.0,Female,Government,COPD,I88.6,Cardiology,2024-12-01,2024-12-09,8,Yes
+P01447,67.0,Female,Private,COPD,I69.4,General Medicine,2024-02-02,2024-02-07,5,No
+P01448,44.0,Male,Private,COPD,I32.7,Emergency,2023-06-16,2023-06-21,5,Yes
+P01449,51.0,Female,Self-pay,Diabetes,I71.7,Emergency,2024-02-01,2024-02-15,14,No
+P01450,63.0,Female,Private,Heart Disease,I53.9,Pulmonology,2023-08-23,2023-08-28,5,No
+P01451,90.0,Male,Private,Diabetes,I87.9,Cardiology,2024-05-23,2024-05-28,5,No
+P01452,24.0,Female,Government,Hypertension,I23.6,Surgery,2023-10-13,2023-10-19,6,No
+P01453,29.0,Male,Self-pay,Hypertension,I70.6,Surgery,2023-09-07,2023-09-13,6,No
+P01454,44.0,Male,Government,Hypertension,I67.8,Emergency,2023-09-27,2023-10-04,7,No
+P01455,50.0,Female,Private,Diabetes,I35.2,Emergency,2024-12-19,2024-12-28,9,No
+P01456,61.0,Male,Government,Heart Disease,I77.0,Emergency,2023-05-21,2023-05-29,8,No
+P01457,56.0,Male,Government,COPD,I37.1,Cardiology,2024-07-20,2024-07-23,3,No
+P01458,22.0,Male,Private,COPD,I18.7,Surgery,2023-03-16,2023-03-23,7,No
+P01459,58.0,Female,Private,Heart Disease,I43.6,Cardiology,2024-03-18,2024-03-22,4,Yes
+P01460,37.0,Male,Government,Kidney Disease,I67.9,Pulmonology,2023-08-19,2023-08-27,8,No
+P01461,68.0,Female,Self-pay,Hypertension,I91.2,Emergency,2024-06-17,2024-06-20,3,Yes
+P01462,91.0,Male,Private,Diabetes,I28.0,Emergency,2024-02-07,2024-02-16,9,Yes
+P01463,48.0,Male,Government,Hypertension,I49.7,Surgery,2024-01-31,2024-02-06,6,No
+P01464,16.0,Female,Government,Hypertension,I83.2,Surgery,2023-04-04,2023-04-13,9,No
+P01465,52.0,Female,Private,Hypertension,I44.4,General Medicine,2023-08-22,2023-08-27,5,No
+P01466,100.0,Female,Private,Heart Disease,I52.8,General Medicine,2023-10-13,2023-10-17,4,Yes
+P01467,31.0,Female,Self-pay,Diabetes,I98.4,Emergency,2024-12-03,2024-12-10,7,No
+P01468,69.0,Female,Government,Heart Disease,I47.3,Emergency,2024-10-10,2024-10-16,6,No
+P01469,37.0,Female,Private,COPD,I44.9,Surgery,2023-12-16,2023-12-23,7,Yes
+P01470,79.0,Female,Government,None,I10.1,Emergency,2023-09-18,2023-09-21,3,No
+P01471,45.0,Female,Private,Hypertension,I35.4,Cardiology,2024-03-13,2024-03-21,8,No
+P01472,53.0,Male,Private,Diabetes,I25.5,General Medicine,2023-02-25,2023-03-04,7,Yes
+P01473,,Female,Private,Diabetes,I97.6,Emergency,2024-11-07,2024-11-13,6,No
+P01474,63.0,Female,Private,Kidney Disease,I39.3,General Medicine,2024-08-07,2024-08-10,3,No
+P01475,59.0,Male,Private,Hypertension,I38.2,Pulmonology,2024-01-28,2024-02-06,9,Yes
+P01476,62.0,Male,Government,None,I44.7,Cardiology,2023-09-10,2023-09-14,4,No
+P01477,48.0,Male,Private,Heart Disease,I23.0,Emergency,2023-11-12,2023-11-18,6,No
+P01478,35.0,Male,Private,None,I62.7,Surgery,2024-01-29,2024-02-03,5,No
+P01479,50.0,Female,Private,Hypertension,I65.8,Emergency,2023-01-22,2023-01-28,6,No
+P01480,64.0,Female,Private,Hypertension,I86.6,Cardiology,2024-02-18,2024-02-23,5,Yes
+P01481,57.0,Male,Private,Heart Disease,I86.7,Orthopedics,2024-12-03,2024-12-10,7,No
+P01482,55.0,Male,Government,Kidney Disease,I54.5,Emergency,2024-05-17,2024-05-30,13,No
+P01483,56.0,Male,Private,Heart Disease,I43.7,Cardiology,2023-08-13,2023-08-20,7,No
+P01484,84.0,Female,Government,None,I56.0,General Medicine,2023-04-03,2023-04-09,6,No
+P01485,22.0,Female,Private,COPD,I42.7,Cardiology,2023-05-26,2023-06-02,7,No
+P01486,34.0,Male,Private,COPD,I39.1,General Medicine,2024-08-09,2024-08-13,4,No
+P01487,56.0,Female,Private,COPD,I64.2,Emergency,2023-07-20,2023-07-31,11,No
+P01488,65.0,Male,Government,COPD,I69.8,General Medicine,2023-07-03,2023-07-08,5,Yes
+P01489,38.0,Male,Self-pay,None,I75.0,Surgery,2023-02-28,2023-03-03,3,No
+P01490,42.0,Female,Private,Hypertension,I57.9,Pulmonology,2024-04-18,2024-04-23,5,Yes
+P01491,73.0,Male,Government,None,I18.6,Cardiology,2023-10-22,2023-10-24,2,No
+P01492,71.0,Male,Government,Kidney Disease,I77.7,Orthopedics,2024-06-16,2024-06-22,6,No
+P01493,66.0,Female,Government,COPD,I62.2,Surgery,2024-05-26,2024-06-03,8,Yes
+P01494,86.0,Female,Government,Diabetes,I62.6,Emergency,2024-01-18,2024-01-27,9,Yes
+P01495,48.0,Male,Government,None,I67.9,Pulmonology,2023-05-24,2023-05-28,4,No
+P01496,52.0,Male,Private,Kidney Disease,I72.6,Surgery,2024-04-21,2024-04-26,5,No
+P01497,70.0,Female,Private,Diabetes,I91.1,Emergency,2023-02-24,2023-03-02,6,No
+P01498,49.0,Female,Private,Heart Disease,I75.8,Surgery,2024-05-05,2024-05-11,6,Yes
+P01499,53.0,Female,Private,Diabetes,I81.4,Cardiology,2024-06-05,2024-06-14,9,Yes
+P01500,36.0,Male,Government,COPD,I89.5,Emergency,2023-02-22,2023-02-27,5,No
+P01501,30.0,Female,Private,COPD,I95.8,General Medicine,2024-08-02,2024-08-08,6,No
+P01502,66.0,Female,Private,Hypertension,I91.4,Cardiology,2023-07-21,2023-07-28,7,Yes
+P01503,74.0,Male,Private,None,I34.6,Surgery,2024-03-03,2024-03-05,2,No
+P01504,62.0,Female,Self-pay,Heart Disease,I18.2,Pulmonology,2023-09-29,2023-10-03,4,No
+P01505,58.0,Female,Private,Hypertension,I24.1,General Medicine,2023-12-17,2023-12-23,6,No
+P01506,18.0,Female,Private,Hypertension,I52.5,Surgery,2024-11-14,2024-11-17,3,No
+P01507,51.0,Male,Government,None,I38.0,Surgery,2023-10-06,2023-10-13,7,No
+P01508,40.0,Female,Private,None,I48.4,Cardiology,2023-06-01,2023-06-06,5,No
+P01509,49.0,Female,Government,Heart Disease,I22.8,Surgery,2024-02-27,2024-03-05,7,No
+P01510,45.0,Male,Private,COPD,I94.1,General Medicine,2023-02-28,2023-03-05,5,No
+P01511,77.0,Male,Private,None,I25.4,Emergency,2024-05-18,2024-05-22,4,No
+P01512,36.0,Male,Private,Heart Disease,I31.5,Cardiology,2023-12-01,2023-12-09,8,No
+P01513,40.0,Male,Government,Heart Disease,I64.7,,2024-12-15,2024-12-23,8,No
+P01514,65.0,Male,Private,None,I56.5,General Medicine,2023-03-31,2023-04-05,5,Yes
+P01515,75.0,Male,Government,None,I88.0,Pulmonology,2023-07-16,2023-07-23,7,No
+P01516,56.0,Female,Private,Heart Disease,I77.1,Pulmonology,2023-10-19,2023-10-24,5,Yes
+P01517,48.0,Male,Government,COPD,I73.9,Emergency,2023-10-18,2023-10-26,8,Yes
+P01518,59.0,Female,Government,Kidney Disease,I75.4,Emergency,2024-12-23,2024-12-31,8,No
+P01519,52.0,Female,Government,Hypertension,I36.3,Surgery,2024-12-21,2024-12-27,6,Yes
+P01520,50.0,Male,Private,Kidney Disease,I29.1,Emergency,2023-12-07,2023-12-15,8,No
+P01521,95.0,Male,Private,Hypertension,I95.8,General Medicine,2023-11-06,2023-11-14,8,No
+P01522,22.0,Male,Private,Heart Disease,I18.0,Cardiology,2023-09-16,2023-09-18,2,No
+P01523,37.0,Female,Government,None,I67.2,Pulmonology,2024-12-25,2024-12-26,1,No
+P01524,0.0,Female,Government,Diabetes,I31.4,Emergency,2024-05-13,2024-05-18,5,No
+P01525,,Male,Government,COPD,I45.3,General Medicine,2024-03-03,2024-03-08,5,Yes
+P01526,45.0,Male,Government,Kidney Disease,I23.7,General Medicine,2024-05-28,2024-06-03,6,Yes
+P01527,26.0,Female,Government,Heart Disease,I60.8,Orthopedics,2024-09-19,2024-09-29,10,No
+P01528,65.0,Female,Private,None,I85.8,Emergency,2024-04-12,2024-04-18,6,Yes
+P01529,34.0,Female,Government,COPD,I63.7,Orthopedics,2024-09-15,2024-09-19,4,No
+P01530,35.0,Male,Private,None,I14.3,General Medicine,2024-08-16,2024-08-18,2,Yes
+P01531,42.0,Male,Self-pay,Kidney Disease,I60.0,Surgery,2023-03-19,2023-03-24,5,No
+P01532,29.0,Female,Private,COPD,I91.4,General Medicine,2024-11-10,2024-11-16,6,Yes
+P01533,60.0,Female,Private,Diabetes,I40.6,Surgery,2023-12-03,2023-12-10,7,Yes
+P01534,48.0,Male,Private,Heart Disease,I71.0,Cardiology,2023-09-22,2023-09-25,3,Yes
+P01535,78.0,Male,Private,Hypertension,I56.1,General Medicine,2023-10-23,2023-11-03,11,No
+P01536,52.0,Male,Self-pay,None,I10.3,Cardiology,2023-10-04,2023-10-10,6,No
+P01537,68.0,Male,Government,None,I69.8,Cardiology,2024-11-15,2024-11-19,4,No
+P01538,26.0,Male,Private,None,I79.4,General Medicine,2024-09-27,2024-09-29,2,No
+P01539,43.0,Male,Private,Heart Disease,I98.8,Emergency,2024-10-08,2024-10-14,6,No
+P01540,54.0,Female,Private,COPD,I61.3,Cardiology,2024-09-27,2024-10-05,8,No
+P01541,41.0,Male,Self-pay,Heart Disease,I94.7,Surgery,2024-04-13,2024-04-17,4,No
+P01542,13.0,Male,Government,Diabetes,I55.0,Orthopedics,2024-01-17,2024-01-22,5,No
+P01543,70.0,Female,Self-pay,Diabetes,I22.9,Surgery,2023-04-30,2023-05-07,7,No
+P01544,80.0,Female,Government,Diabetes,I14.5,Emergency,2024-07-03,2024-07-10,7,No
+P01545,71.0,Male,Private,None,I27.4,Pulmonology,2023-06-06,2023-06-10,4,Yes
+P01546,52.0,Female,Private,COPD,I48.6,Cardiology,2023-10-19,2023-10-28,9,No
+P01547,31.0,Female,Government,None,I56.1,Cardiology,2023-09-28,2023-10-02,4,No
+P01548,60.0,Female,Government,Diabetes,I16.4,Emergency,2024-07-17,2024-07-20,3,No
+P01549,64.0,Female,Self-pay,None,I79.4,Orthopedics,2024-11-04,2024-11-10,6,Yes
+P01550,53.0,Male,Self-pay,Kidney Disease,I94.5,Emergency,2023-02-23,2023-03-01,6,Yes
+P01551,60.0,Male,Self-pay,Diabetes,I56.6,Surgery,2023-09-28,2023-10-06,8,Yes
+P01552,88.0,Male,Private,Heart Disease,I82.1,General Medicine,2023-01-18,2023-01-22,4,No
+P01553,51.0,Female,Government,Hypertension,I40.6,Cardiology,2024-06-19,2024-06-24,5,No
+P01554,44.0,Female,Government,Heart Disease,I65.3,General Medicine,2024-02-02,2024-02-07,5,Yes
+P01555,44.0,Male,Government,None,I46.4,Emergency,2023-05-08,2023-05-12,4,No
+P01556,62.0,Male,Private,Hypertension,I42.2,Surgery,2024-10-18,2024-10-24,6,No
+P01557,32.0,Female,Private,Heart Disease,I15.1,General Medicine,2023-05-17,2023-05-20,3,No
+P01558,40.0,Male,Private,Diabetes,I99.0,Emergency,2023-12-16,2023-12-20,4,Yes
+P01559,75.0,Female,Self-pay,Heart Disease,I62.6,General Medicine,2024-11-27,2024-12-05,8,Yes
+P01560,66.0,Male,Private,Heart Disease,I95.3,Surgery,2023-10-08,2023-10-18,10,No
+P01561,40.0,Male,Government,None,I68.8,Emergency,2024-02-28,2024-03-05,6,Yes
+P01562,52.0,Male,Government,COPD,I77.1,General Medicine,2023-12-23,2023-12-28,5,No
+P01563,31.0,Female,Government,None,I44.2,Surgery,2024-03-24,2024-03-26,2,No
+P01564,71.0,Female,Private,None,I75.2,Cardiology,2024-01-15,2024-01-17,2,No
+P01565,58.0,Female,Government,Hypertension,I12.1,Surgery,2023-04-20,2023-04-24,4,Yes
+P01566,0.0,Female,Government,Hypertension,I88.9,Pulmonology,2024-06-26,2024-07-03,7,No
+P01567,45.0,Male,Self-pay,Heart Disease,I98.8,Emergency,2023-12-16,2023-12-22,6,Yes
+P01568,42.0,Male,Government,Heart Disease,I44.9,Emergency,2024-02-16,2024-02-23,7,No
+P01569,73.0,Male,Private,Hypertension,I41.5,Cardiology,2023-12-11,2023-12-15,4,No
+P01570,38.0,Female,Private,Hypertension,I98.1,Cardiology,2023-05-21,2023-05-28,7,Yes
+P01571,79.0,Male,Self-pay,Diabetes,I97.8,Surgery,2023-05-19,2023-05-25,6,Yes
+P01572,21.0,Male,Private,Hypertension,I25.4,General Medicine,2024-04-05,2024-04-08,3,No
+P01573,71.0,Female,Private,Heart Disease,I86.8,General Medicine,2023-09-04,2023-09-11,7,Yes
+P01574,44.0,Female,Government,Diabetes,I72.3,Pulmonology,2023-12-05,2023-12-14,9,Yes
+P01575,57.0,Female,Private,Hypertension,I55.7,Surgery,2023-06-18,2023-06-26,8,Yes
+P01576,84.0,Male,Private,Heart Disease,I30.3,General Medicine,2023-07-03,2023-07-06,3,Yes
+P01577,17.0,Male,Government,Heart Disease,I27.0,Cardiology,2023-07-29,2023-08-04,6,No
+P01578,41.0,Female,Private,Hypertension,I30.7,Emergency,2023-06-25,2023-06-30,5,No
+P01579,63.0,Female,Private,None,I37.1,Cardiology,2023-04-22,2023-04-29,7,No
+P01580,39.0,Female,Government,None,I77.9,Pulmonology,2024-08-22,2024-08-24,2,No
+P01581,50.0,Female,Government,Hypertension,I67.6,Cardiology,2024-03-31,2024-04-06,6,Yes
+P01582,83.0,Female,Government,Diabetes,I61.4,Emergency,2024-07-02,2024-07-07,5,No
+P01583,33.0,Female,Private,Diabetes,I99.8,Orthopedics,2023-04-26,2023-05-01,5,No
+P01584,69.0,Female,Government,Diabetes,I33.8,Pulmonology,2023-05-10,2023-05-16,6,Yes
+P01585,40.0,Female,Private,COPD,I20.5,Surgery,2023-04-06,2023-04-11,5,Yes
+P01586,66.0,Male,Private,None,I36.2,Pulmonology,2023-08-14,2023-08-21,7,No
+P01587,77.0,Male,Private,Hypertension,I20.5,Surgery,2024-11-28,2024-12-05,7,Yes
+P01588,66.0,Female,Government,None,I98.0,Pulmonology,2023-02-01,2023-02-09,8,Yes
+P01589,82.0,Female,Private,Hypertension,I71.1,Surgery,2024-07-05,2024-07-12,7,No
+P01590,38.0,Female,Private,Diabetes,I55.5,Emergency,2023-04-28,2023-05-01,3,No
+P01591,56.0,Male,Private,COPD,I28.9,General Medicine,2024-07-06,2024-07-08,2,No
+P01592,23.0,Male,Private,None,I74.9,Pulmonology,2023-11-18,2023-11-24,6,No
+P01593,42.0,Male,Government,Diabetes,I43.3,Emergency,2024-10-13,2024-10-20,7,No
+P01594,64.0,Female,Private,Hypertension,I40.6,Cardiology,2023-10-03,2023-10-09,6,No
+P01595,68.0,Male,Private,Heart Disease,I83.6,General Medicine,2024-07-19,2024-07-28,9,No
+P01596,83.0,Male,Private,None,I81.7,General Medicine,2023-01-18,2023-01-27,9,No
+P01597,68.0,Female,Government,Diabetes,I17.4,Pulmonology,2023-05-06,2023-05-14,8,No
+P01598,37.0,Female,Self-pay,Hypertension,I43.4,Orthopedics,2024-10-21,2024-10-30,9,Yes
+P01599,73.0,Female,Government,Kidney Disease,I34.8,General Medicine,2024-02-14,2024-02-20,6,Yes
+P01600,57.0,Female,Government,Heart Disease,I31.8,Surgery,2024-11-16,2024-11-24,8,No
+P01601,29.0,Male,Self-pay,None,I26.5,General Medicine,2024-06-25,2024-06-29,4,No
+P01602,48.0,Male,Government,Diabetes,I59.4,Orthopedics,2024-10-08,2024-10-12,4,No
+P01603,51.0,Female,Self-pay,Diabetes,I61.3,General Medicine,2024-01-13,2024-01-21,8,No
+P01604,44.0,Female,Self-pay,Diabetes,I20.7,Emergency,2024-02-26,2024-03-05,8,No
+P01605,64.0,Female,Government,None,I12.3,General Medicine,2024-01-13,2024-01-18,5,Yes
+P01606,69.0,Female,Private,Hypertension,I27.7,General Medicine,2024-12-14,2024-12-18,4,Yes
+P01607,57.0,Female,Private,None,I40.3,Orthopedics,2023-08-02,2023-08-05,3,No
+P01608,33.0,Female,Government,None,I25.6,General Medicine,2023-05-25,2023-05-26,1,No
+P01609,65.0,Male,Government,None,I25.8,Cardiology,2023-07-23,2023-07-27,4,Yes
+P01610,49.0,Female,Private,Hypertension,I38.0,Pulmonology,2023-02-05,2023-02-08,3,No
+P01611,23.0,Female,Government,None,I51.6,Cardiology,2024-05-27,2024-05-31,4,No
+P01612,45.0,Female,Private,None,I36.0,Orthopedics,2023-01-31,2023-02-06,6,No
+P01613,52.0,Female,Government,COPD,I11.3,General Medicine,2023-12-08,2023-12-15,7,No
+P01614,36.0,Male,Self-pay,Diabetes,I63.0,Pulmonology,2024-11-27,2024-12-02,5,Yes
+P01615,55.0,Male,Private,Heart Disease,I19.1,Pulmonology,2024-10-16,2024-10-22,6,No
+P01616,22.0,Male,Private,COPD,I13.9,Cardiology,2024-02-22,2024-02-29,7,Yes
+P01617,81.0,Male,Government,Diabetes,I40.7,Emergency,2023-12-12,2023-12-20,8,No
+P01618,88.0,Female,Self-pay,Heart Disease,I76.8,Emergency,2023-02-13,2023-02-18,5,No
+P01619,52.0,Male,Government,Kidney Disease,I65.0,Surgery,2023-04-09,2023-04-16,7,Yes
+P01620,41.0,Male,Private,Heart Disease,I17.8,Pulmonology,2024-01-05,2024-01-13,8,No
+P01621,19.0,Female,Private,Heart Disease,I68.1,Emergency,2023-08-06,2023-08-14,8,Yes
+P01622,44.0,Female,Private,None,I75.8,Emergency,2024-08-08,2024-08-11,3,Yes
+P01623,44.0,Female,Government,Diabetes,I36.8,Pulmonology,2023-10-25,2023-10-29,4,No
+P01624,97.0,Female,Private,COPD,I67.3,Emergency,2023-09-01,2023-09-11,10,No
+P01625,49.0,Female,Private,Diabetes,I39.5,General Medicine,2023-05-08,2023-05-11,3,Yes
+P01626,45.0,Female,Government,Diabetes,I57.9,General Medicine,2023-03-08,2023-03-11,3,No
+P01627,41.0,Male,Self-pay,None,I84.2,Emergency,2024-09-04,2024-09-08,4,No
+P01628,62.0,Female,Government,Kidney Disease,I94.4,Pulmonology,2024-10-19,2024-10-29,10,No
+P01629,59.0,Female,Self-pay,COPD,I76.4,Cardiology,2024-01-10,2024-01-15,5,No
+P01630,27.0,Male,Government,Heart Disease,I74.4,Surgery,2023-07-19,2023-07-29,10,No
+P01631,56.0,Female,Government,Heart Disease,I28.6,Emergency,2024-07-27,2024-07-31,4,No
+P01632,81.0,Male,Government,Heart Disease,I91.1,Surgery,2024-03-03,2024-03-09,6,No
+P01633,74.0,Female,Private,None,I39.8,General Medicine,2023-11-30,2023-12-08,8,No
+P01634,68.0,Male,Self-pay,Diabetes,I81.0,Pulmonology,2023-10-19,2023-10-24,5,No
+P01635,55.0,Female,Private,Diabetes,I98.9,General Medicine,2023-12-16,2023-12-21,5,Yes
+P01636,59.0,Male,Government,COPD,I28.6,General Medicine,2023-04-06,2023-04-13,7,No
+P01637,46.0,Male,Private,None,I11.8,Surgery,2024-03-12,2024-03-18,6,Yes
+P01638,34.0,Female,Government,Heart Disease,I53.1,Emergency,2023-07-16,2023-07-24,8,No
+P01639,17.0,Female,Government,None,I44.0,Pulmonology,2023-06-18,2023-06-20,2,No
+P01640,56.0,Female,Private,Kidney Disease,I59.1,Orthopedics,2023-04-30,2023-05-05,5,No
+P01641,58.0,Male,Government,None,I52.0,Cardiology,2023-03-09,2023-03-11,2,No
+P01642,38.0,Male,Government,Diabetes,I51.0,Surgery,2023-07-01,2023-07-06,5,No
+P01643,53.0,Female,Government,Hypertension,I16.5,Emergency,2023-10-14,2023-10-23,9,Yes
+P01644,77.0,Female,Private,Diabetes,I67.2,General Medicine,2024-02-26,2024-02-29,3,No
+P01645,59.0,Female,Private,None,I90.7,Orthopedics,2023-02-18,2023-02-20,2,No
+P01646,38.0,Male,Government,Diabetes,I77.8,Emergency,2023-07-19,2023-07-29,10,Yes
+P01647,48.0,Male,Self-pay,Kidney Disease,I31.3,Emergency,2024-02-15,2024-02-18,3,Yes
+P01648,61.0,Male,Government,None,I31.1,Cardiology,2023-06-17,2023-06-20,3,Yes
+P01649,92.0,Male,Government,Hypertension,I26.7,Surgery,2024-08-10,2024-08-17,7,No
+P01650,71.0,Male,Self-pay,COPD,I49.4,General Medicine,2023-06-22,2023-06-29,7,No
+P01651,24.0,Male,Government,None,I22.6,Emergency,2023-02-24,2023-02-25,1,Yes
+P01652,55.0,Male,Government,Diabetes,I28.7,General Medicine,2024-05-26,2024-06-04,9,No
+P01653,52.0,Male,Private,Diabetes,I72.9,Surgery,2023-07-06,2023-07-11,5,Yes
+P01654,94.0,Female,Private,COPD,I72.9,Surgery,2024-03-12,2024-03-17,5,No
+P01655,49.0,Male,Private,COPD,I79.5,Emergency,2023-12-13,2023-12-20,7,Yes
+P01656,60.0,Male,Government,Hypertension,I91.6,Emergency,2023-05-02,2023-05-06,4,No
+P01657,46.0,Female,Private,Kidney Disease,I28.0,Emergency,2023-01-03,2023-01-07,4,No
+P01658,45.0,Male,Private,Kidney Disease,I96.2,Cardiology,2024-02-07,2024-02-13,6,No
+P01659,55.0,Male,Self-pay,None,I97.4,Emergency,2023-06-03,2023-06-06,3,No
+P01660,56.0,Male,Self-pay,Diabetes,I82.6,Orthopedics,2024-08-31,2024-09-06,6,No
+P01661,86.0,Female,Private,Hypertension,I79.4,Pulmonology,2023-01-17,2023-01-24,7,No
+P01662,61.0,Female,Government,None,I98.3,General Medicine,2024-07-09,2024-07-16,7,No
+P01663,27.0,Male,Self-pay,Hypertension,I48.9,Emergency,2024-09-16,2024-09-22,6,No
+P01664,58.0,Male,Government,COPD,I68.0,General Medicine,2024-03-27,2024-03-31,4,Yes
+P01665,35.0,Female,Private,COPD,I79.2,Cardiology,2024-09-22,2024-09-25,3,No
+P01666,69.0,Female,Government,Hypertension,I69.7,General Medicine,2024-05-19,2024-05-23,4,No
+P01667,54.0,Female,Government,Hypertension,I29.2,Emergency,2024-08-13,2024-08-21,8,Yes
+P01668,100.0,Female,Private,COPD,I61.2,General Medicine,2023-09-01,2023-09-06,5,No
+P01669,45.0,Female,Self-pay,None,I59.6,General Medicine,2023-12-06,2023-12-09,3,No
+P01670,20.0,Male,Private,COPD,I53.5,Emergency,2023-07-06,2023-07-14,8,No
+P01671,65.0,Male,Private,None,I47.2,General Medicine,2024-10-11,2024-10-13,2,No
+P01672,50.0,Female,Government,None,I38.3,Surgery,2024-08-09,2024-08-12,3,No
+P01673,49.0,Male,Government,Heart Disease,I78.5,General Medicine,2024-05-09,2024-05-17,8,Yes
+P01674,54.0,Female,Private,None,I38.3,Emergency,2024-09-14,2024-09-20,6,No
+P01675,50.0,Female,Government,Hypertension,I60.5,Emergency,2024-10-23,2024-10-30,7,No
+P01676,59.0,Female,Private,Hypertension,I72.4,Pulmonology,2023-08-18,2023-08-25,7,Yes
+P01677,24.0,Female,Self-pay,None,I19.1,Orthopedics,2024-09-05,2024-09-07,2,No
+P01678,60.0,Female,Government,Heart Disease,I14.1,Pulmonology,2023-08-04,2023-08-09,5,No
+P01679,60.0,Male,Government,Heart Disease,I37.2,Emergency,2023-08-08,2023-08-13,5,No
+P01680,66.0,Female,Private,Kidney Disease,I50.0,Cardiology,2024-09-27,2024-10-05,8,Yes
+P01681,34.0,Female,Private,None,I21.0,General Medicine,2023-07-01,2023-07-09,8,No
+P01682,,Male,Government,COPD,I17.9,General Medicine,2023-05-15,2023-05-20,5,No
+P01683,44.0,Male,Government,Hypertension,I54.6,Cardiology,2023-05-21,2023-05-29,8,No
+P01684,76.0,Female,Private,None,I84.8,Emergency,2024-04-05,2024-04-11,6,No
+P01685,54.0,Male,Government,COPD,I95.4,Surgery,2023-12-14,2023-12-21,7,No
+P01686,70.0,Female,Government,None,I46.2,Surgery,2023-11-08,2023-11-15,7,No
+P01687,55.0,Female,Private,Kidney Disease,I27.0,Pulmonology,2023-02-13,2023-02-17,4,Yes
+P01688,71.0,Female,Self-pay,Diabetes,I40.2,General Medicine,2023-04-29,2023-05-07,8,No
+P01689,40.0,Male,Private,Diabetes,I36.6,Surgery,2023-07-06,2023-07-11,5,No
+P01690,45.0,Female,Government,Kidney Disease,I89.7,Cardiology,2024-12-07,2024-12-14,7,No
+P01691,59.0,Female,Private,None,I92.6,Cardiology,2023-01-07,2023-01-11,4,Yes
+P01692,51.0,Female,Self-pay,Heart Disease,I18.8,Emergency,2023-06-27,2023-07-02,5,No
+P01693,63.0,Male,Government,Diabetes,I87.2,Pulmonology,2024-10-22,2024-10-28,6,Yes
+P01694,62.0,Male,Private,Diabetes,I41.6,Emergency,2023-06-13,2023-06-19,6,Yes
+P01695,54.0,Female,Government,Kidney Disease,I21.7,Cardiology,2023-07-05,2023-07-13,8,No
+P01696,20.0,Female,Private,Hypertension,I71.2,Emergency,2024-08-07,2024-08-19,12,No
+P01697,41.0,Female,Government,Hypertension,I68.6,Pulmonology,2024-07-21,2024-07-24,3,Yes
+P01698,29.0,Female,Government,None,I92.7,Cardiology,2024-04-13,2024-04-18,5,No
+P01699,20.0,Female,Self-pay,Hypertension,I33.0,Emergency,2023-06-26,2023-07-04,8,Yes
+P01700,35.0,Male,Private,Heart Disease,I22.6,Pulmonology,2024-11-04,2024-11-08,4,No
+P01701,14.0,Female,Private,None,I51.5,General Medicine,2023-09-08,2023-09-12,4,No
+P01702,50.0,Male,Self-pay,Heart Disease,I25.7,General Medicine,2024-04-19,2024-04-22,3,No
+P01703,57.0,Female,Private,None,I83.5,Emergency,2023-09-17,2023-09-19,2,No
+P01704,64.0,Female,Private,None,I87.9,Surgery,2023-07-11,2023-07-14,3,No
+P01705,98.0,Male,Government,Hypertension,I77.7,General Medicine,2023-08-08,2023-08-12,4,No
+P01706,68.0,Female,Government,None,I41.2,Cardiology,2024-11-22,2024-11-24,2,No
+P01707,38.0,Male,Government,None,I80.3,Cardiology,2023-02-15,2023-02-20,5,Yes
+P01708,74.0,Female,Self-pay,COPD,I74.9,Surgery,2024-12-01,2024-12-07,6,Yes
+P01709,52.0,Male,Government,Heart Disease,I91.8,Emergency,2023-03-04,2023-03-14,10,No
+P01710,93.0,Female,Private,Diabetes,I48.3,Orthopedics,2024-10-22,2024-10-29,7,Yes
+P01711,68.0,Male,Government,Kidney Disease,I30.3,Pulmonology,2024-08-07,2024-08-13,6,No
+P01712,68.0,Male,Government,None,I85.5,General Medicine,2023-04-05,2023-04-08,3,No
+P01713,36.0,Female,Private,Hypertension,I35.0,Surgery,2024-04-26,2024-05-06,10,Yes
+P01714,53.0,Female,Private,Kidney Disease,I91.2,General Medicine,2023-04-29,2023-05-07,8,Yes
+P01715,46.0,Female,Government,COPD,I94.2,Cardiology,2024-09-12,2024-09-17,5,No
+P01716,68.0,Male,Private,None,I15.1,General Medicine,2023-02-02,2023-02-04,2,No
+P01717,68.0,Female,Government,None,I35.9,General Medicine,2023-08-08,2023-08-15,7,Yes
+P01718,62.0,Male,Government,Hypertension,I68.4,General Medicine,2023-04-17,2023-04-27,10,Yes
+P01719,79.0,Male,Private,Hypertension,I60.8,Cardiology,2023-12-12,2023-12-18,6,No
+P01720,99.0,Male,Government,Kidney Disease,I12.9,Emergency,2024-01-11,2024-01-18,7,No
+P01721,61.0,Female,Government,Hypertension,I10.3,General Medicine,2024-08-05,2024-08-10,5,No
+P01722,67.0,Female,Private,Diabetes,I68.1,Cardiology,2023-07-15,2023-07-22,7,No
+P01723,64.0,Male,Private,None,I37.0,Emergency,2023-03-18,2023-03-24,6,No
+P01724,33.0,Female,Self-pay,Kidney Disease,I56.9,Cardiology,2023-08-25,2023-09-01,7,No
+P01725,29.0,Female,Private,Hypertension,I20.6,Emergency,2024-08-27,2024-09-05,9,Yes
+P01726,37.0,Male,Government,None,I53.5,Emergency,2023-06-12,2023-06-16,4,No
+P01727,52.0,Male,Government,Heart Disease,I41.0,Cardiology,2024-09-22,2024-10-01,9,No
+P01728,63.0,Female,Government,COPD,I64.4,General Medicine,2024-01-15,2024-01-25,10,No
+P01729,65.0,Male,Private,Heart Disease,I41.4,Surgery,2023-04-19,2023-04-26,7,Yes
+P01730,50.0,Male,Private,Diabetes,I25.8,Cardiology,2023-08-01,2023-08-07,6,Yes
+P01731,68.0,Female,Private,Kidney Disease,I21.7,Cardiology,2024-06-12,2024-06-18,6,Yes
+P01732,35.0,Female,Private,Diabetes,I85.0,Pulmonology,2023-04-21,2023-04-24,3,No
+P01733,62.0,Male,Private,COPD,I41.0,Surgery,2023-08-23,2023-08-28,5,No
+P01734,59.0,Male,Self-pay,None,I72.4,Emergency,2024-02-15,2024-02-20,5,Yes
+P01735,68.0,Female,Private,COPD,I77.5,Surgery,2024-12-21,2024-12-26,5,No
+P01736,37.0,Male,Private,Heart Disease,I95.3,General Medicine,2023-06-10,2023-06-18,8,No
+P01737,31.0,Male,Private,Kidney Disease,I29.1,Emergency,2023-03-07,2023-03-14,7,No
+P01738,50.0,Male,Private,None,I61.6,Emergency,2023-11-15,2023-11-18,3,No
+P01739,68.0,Male,Private,Kidney Disease,I72.7,Cardiology,2023-09-16,2023-09-24,8,Yes
+P01740,33.0,Male,Government,Hypertension,I82.4,Surgery,2023-11-19,2023-11-25,6,Yes
+P01741,64.0,Female,Private,Hypertension,I74.0,Pulmonology,2023-11-01,2023-11-07,6,No
+P01742,79.0,Female,Government,COPD,I73.3,General Medicine,2023-07-23,2023-07-29,6,No
+P01743,7.0,Male,Government,Hypertension,I23.6,Orthopedics,2023-04-12,2023-04-18,6,Yes
+P01744,79.0,Female,Government,Heart Disease,I32.5,Surgery,2023-08-04,2023-08-11,7,No
+P01745,34.0,Female,Government,None,I88.7,Pulmonology,2023-03-10,2023-03-13,3,No
+P01746,63.0,Male,Self-pay,Hypertension,I13.3,Surgery,2024-06-11,2024-06-19,8,No
+P01747,99.0,Male,Private,None,I94.0,General Medicine,2024-11-07,2024-11-12,5,No
+P01748,45.0,Female,Self-pay,None,I40.5,General Medicine,2024-09-21,2024-09-22,1,No
+P01749,72.0,Female,Private,Diabetes,I24.1,Orthopedics,2023-01-23,2023-02-02,10,No
+P01750,38.0,Female,Self-pay,COPD,I19.8,Orthopedics,2023-09-24,2023-09-27,3,No
+P01751,37.0,Male,Self-pay,Kidney Disease,I75.3,Surgery,2024-03-26,2024-04-01,6,No
+P01752,77.0,Female,Private,Diabetes,I79.0,Emergency,2023-11-24,2023-12-01,7,No
+P01753,72.0,Female,Private,Diabetes,I86.6,Cardiology,2024-10-25,2024-10-31,6,No
+P01754,45.0,Female,Government,Heart Disease,I31.9,General Medicine,2024-07-27,2024-08-04,8,No
+P01755,63.0,Male,Self-pay,Hypertension,I71.0,Emergency,2024-08-25,2024-09-01,7,No
+P01756,69.0,Female,Government,Kidney Disease,I55.6,Cardiology,2024-07-19,2024-07-24,5,No
+P01757,55.0,Female,Government,Hypertension,I52.6,Emergency,2024-04-16,2024-04-21,5,No
+P01758,88.0,Female,Private,Hypertension,I87.6,General Medicine,2023-10-17,2023-10-22,5,No
+P01759,54.0,Female,Self-pay,Kidney Disease,I44.7,Surgery,2023-06-05,2023-06-15,10,Yes
+P01760,23.0,Male,Private,None,I55.9,General Medicine,2024-10-07,2024-10-12,5,No
+P01761,11.0,Female,Government,None,I38.4,Surgery,2024-06-29,2024-07-04,5,No
+P01762,54.0,Male,Self-pay,Kidney Disease,I29.8,Surgery,2024-08-12,2024-08-18,6,Yes
+P01763,38.0,Male,Private,None,I24.9,Pulmonology,2023-09-12,2023-09-15,3,No
+P01764,54.0,Female,Self-pay,None,I62.1,Emergency,2024-05-01,2024-05-03,2,No
+P01765,24.0,Female,Private,Heart Disease,I81.8,Cardiology,2023-12-07,2023-12-13,6,No
+P01766,65.0,Male,Self-pay,None,I73.2,Emergency,2024-09-23,2024-09-26,3,Yes
+P01767,60.0,Male,Private,Diabetes,I82.6,Emergency,2023-03-06,2023-03-10,4,No
+P01768,99.0,Female,Private,COPD,I99.4,General Medicine,2024-08-09,2024-08-15,6,No
+P01769,46.0,Female,Government,None,I69.8,Cardiology,2023-10-06,2023-10-08,2,Yes
+P01770,72.0,Female,Government,None,I89.2,Orthopedics,2024-10-03,2024-10-06,3,No
+P01771,100.0,Female,Government,None,I99.9,Emergency,2024-09-25,2024-10-03,8,No
+P01772,61.0,Female,Government,None,I51.5,General Medicine,2023-11-18,2023-11-19,1,No
+P01773,33.0,Male,Government,Heart Disease,I97.7,Orthopedics,2023-09-10,2023-09-15,5,No
+P01774,64.0,Male,Private,Diabetes,I97.0,Emergency,2024-09-02,2024-09-09,7,No
+P01775,63.0,Male,Private,Kidney Disease,I92.2,Cardiology,2024-08-16,2024-08-23,7,Yes
+P01776,45.0,Female,Private,Hypertension,I93.9,Emergency,2023-05-20,2023-05-26,6,Yes
+P01777,81.0,Male,Self-pay,None,I97.4,Pulmonology,2024-07-24,2024-07-29,5,No
+P01778,74.0,Male,Private,Heart Disease,I49.5,Emergency,2024-01-08,2024-01-16,8,No
+P01779,48.0,Male,Government,None,I50.3,Emergency,2024-06-02,2024-06-08,6,No
+P01780,72.0,Female,Private,None,I58.2,Pulmonology,2023-07-08,2023-07-12,4,No
+P01781,34.0,Male,Government,Hypertension,I54.3,Orthopedics,2023-01-10,2023-01-19,9,No
+P01782,64.0,Male,Private,Heart Disease,I67.6,Orthopedics,2024-05-04,2024-05-12,8,No
+P01783,74.0,Female,Government,Kidney Disease,I23.1,Cardiology,2024-12-27,2025-01-06,10,No
+P01784,76.0,Female,Government,Heart Disease,I76.6,Orthopedics,2023-01-07,2023-01-14,7,No
+P01785,69.0,Male,Government,Kidney Disease,I73.8,Cardiology,2023-03-23,2023-04-01,9,Yes
+P01786,59.0,Male,Government,Diabetes,I44.7,Cardiology,2024-02-23,2024-03-02,8,No
+P01787,53.0,Male,Private,Diabetes,I31.0,Emergency,2023-09-15,2023-09-20,5,Yes
+P01788,70.0,Male,Private,Hypertension,I59.8,Cardiology,2024-07-21,2024-07-25,4,No
+P01789,82.0,Female,Self-pay,Heart Disease,I26.1,General Medicine,2024-12-12,2024-12-25,13,No
+P01790,43.0,Male,Government,None,I16.0,General Medicine,2024-03-15,2024-03-17,2,Yes
+P01791,32.0,Male,Government,None,I19.1,Cardiology,2023-07-18,2023-07-19,1,Yes
+P01792,48.0,Female,Government,Hypertension,I72.9,General Medicine,2023-03-28,2023-04-05,8,No
+P01793,71.0,Male,Government,Hypertension,I96.2,Surgery,2023-02-01,2023-02-07,6,Yes
+P01794,68.0,Female,Government,None,I55.0,General Medicine,2023-03-04,2023-03-06,2,No
+P01795,56.0,Female,Government,Heart Disease,I91.3,Cardiology,2024-09-15,2024-09-21,6,No
+P01796,16.0,Female,Government,Heart Disease,I39.5,Pulmonology,2023-11-09,2023-11-14,5,Yes
+P01797,57.0,Female,Government,COPD,I60.7,Surgery,2023-10-21,2023-10-30,9,No
+P01798,49.0,Female,Private,Heart Disease,I95.5,Emergency,2024-03-13,2024-03-19,6,Yes
+P01799,47.0,Female,Government,COPD,I89.3,Surgery,2024-07-19,2024-07-29,10,Yes
+P01800,17.0,Female,Government,Heart Disease,I92.9,Cardiology,2024-07-03,2024-07-09,6,No
+P01801,76.0,Female,Government,None,I82.9,Emergency,2024-08-23,2024-08-25,2,No
+P01802,78.0,Female,Government,Heart Disease,I50.7,Surgery,2023-05-17,2023-05-28,11,No
+P01803,79.0,Female,Private,Heart Disease,I21.9,Surgery,2024-01-26,2024-01-29,3,No
+P01804,29.0,Male,Government,Heart Disease,I67.2,Surgery,2023-09-01,2023-09-10,9,No
+P01805,65.0,Female,Government,COPD,I60.2,Orthopedics,2024-08-03,2024-08-12,9,Yes
+P01806,87.0,Female,Government,Hypertension,I37.2,Cardiology,2023-02-15,2023-02-19,4,No
+P01807,47.0,Female,Private,Hypertension,I59.7,Surgery,2023-04-28,2023-05-03,5,Yes
+P01808,90.0,Female,Self-pay,None,I96.7,General Medicine,2023-05-05,2023-05-12,7,Yes
+P01809,76.0,Male,Government,Heart Disease,I40.8,Emergency,2023-11-23,2023-11-30,7,No
+P01810,75.0,Female,Private,COPD,I63.8,General Medicine,2023-07-19,2023-07-24,5,No
+P01811,38.0,Male,Government,Diabetes,I10.3,General Medicine,2023-01-18,2023-01-29,11,No
+P01812,53.0,Male,Government,Heart Disease,I52.9,Emergency,2023-03-18,2023-03-27,9,No
+P01813,69.0,Male,Self-pay,Kidney Disease,I44.1,Cardiology,2024-10-24,2024-10-30,6,No
+P01814,29.0,Female,Government,None,I38.4,Cardiology,2024-04-02,2024-04-05,3,No
+P01815,66.0,Female,Government,None,I70.0,Surgery,2023-01-16,2023-01-24,8,No
+P01816,53.0,Male,Private,Hypertension,I58.8,General Medicine,2024-08-01,2024-08-04,3,No
+P01817,61.0,Female,Government,COPD,I81.8,Surgery,2024-10-12,2024-10-17,5,No
+P01818,40.0,Female,Government,Hypertension,I56.0,Emergency,2024-08-28,2024-09-03,6,No
+P01819,79.0,Female,Self-pay,Diabetes,I86.3,Cardiology,2023-03-31,2023-04-09,9,Yes
+P01820,44.0,Male,Government,Hypertension,I83.8,Pulmonology,2023-07-11,2023-07-17,6,No
+P01821,100.0,Female,Government,None,I83.5,Orthopedics,2023-03-16,2023-03-22,6,No
+P01822,73.0,Female,Private,COPD,I47.1,General Medicine,2023-05-22,2023-05-29,7,No
+P01823,71.0,Male,Government,None,I92.8,Cardiology,2023-04-05,2023-04-12,7,No
+P01824,47.0,Male,Private,Diabetes,I71.5,Surgery,2023-03-18,2023-03-24,6,No
+P01825,33.0,Female,Private,Hypertension,I44.2,Cardiology,2024-07-20,2024-07-28,8,No
+P01826,90.0,Female,Private,None,I26.0,Pulmonology,2023-05-25,2023-05-28,3,Yes
+P01827,46.0,Male,Government,None,I16.1,General Medicine,2023-08-13,2023-08-18,5,No
+P01828,40.0,Female,Government,Heart Disease,I27.4,Pulmonology,2024-04-26,2024-04-29,3,No
+P01829,49.0,Female,Self-pay,None,I45.0,Cardiology,2024-05-12,2024-05-18,6,No
+P01830,59.0,Male,Government,Hypertension,I40.1,Cardiology,2024-03-05,2024-03-09,4,Yes
+P01831,34.0,Female,Government,Diabetes,I18.0,Pulmonology,2024-07-29,2024-08-03,5,No
+P01832,51.0,Male,Private,Diabetes,I32.7,Pulmonology,2023-04-22,2023-04-26,4,No
+P01833,61.0,Male,Government,Diabetes,I56.3,Orthopedics,2024-03-27,2024-03-30,3,Yes
+P01834,40.0,Male,Private,Kidney Disease,I50.0,Cardiology,2024-05-10,2024-05-19,9,Yes
+P01835,56.0,Male,Government,None,I81.5,General Medicine,2023-08-21,2023-08-23,2,No
+P01836,64.0,Male,Government,Hypertension,I62.5,Cardiology,2023-09-21,2023-09-26,5,Yes
+P01837,50.0,Female,Private,Hypertension,I75.2,Orthopedics,2023-07-27,2023-08-03,7,No
+P01838,57.0,Female,Government,Diabetes,I43.5,Cardiology,2023-12-27,2024-01-02,6,No
+P01839,47.0,Female,Private,None,I37.5,Surgery,2024-06-20,2024-06-25,5,No
+P01840,70.0,Female,Private,Diabetes,I44.8,Surgery,2024-03-15,2024-03-18,3,No
+P01841,66.0,Female,Private,Heart Disease,I79.8,Emergency,2023-11-07,2023-11-12,5,No
+P01842,26.0,Female,Government,Hypertension,I48.6,Orthopedics,2024-07-07,2024-07-16,9,Yes
+P01843,43.0,Male,Private,Diabetes,I56.7,General Medicine,2023-12-27,2024-01-06,10,Yes
+P01844,82.0,Female,Government,Diabetes,I14.8,Orthopedics,2023-11-29,2023-12-05,6,Yes
+P01845,81.0,Female,Government,Hypertension,I39.1,Orthopedics,2023-04-13,2023-04-20,7,No
+P01846,45.0,Female,Government,Diabetes,I47.7,General Medicine,2023-02-25,2023-03-02,5,No
+P01847,62.0,Male,Government,None,I50.4,General Medicine,2023-03-27,2023-04-02,6,No
+P01848,35.0,Female,Private,None,I82.5,Pulmonology,2023-03-02,2023-03-07,5,Yes
+P01849,60.0,Female,Private,Heart Disease,I53.3,Pulmonology,2023-07-07,2023-07-12,5,No
+P01850,30.0,Female,Government,Kidney Disease,I89.5,Cardiology,2023-10-17,2023-10-20,3,Yes
+P01851,23.0,Male,Private,Diabetes,I86.8,Cardiology,2023-12-29,2024-01-07,9,No
+P01852,40.0,Male,Private,None,I18.0,Cardiology,2024-02-07,2024-02-11,4,Yes
+P01853,29.0,Male,Government,Heart Disease,I84.1,Cardiology,2023-12-23,2024-01-03,11,Yes
+P01854,51.0,Male,Government,None,I46.1,Cardiology,2023-11-04,2023-11-10,6,No
+P01855,61.0,Female,Private,Hypertension,I32.8,Emergency,2023-09-07,2023-09-10,3,No
+P01856,33.0,Male,Private,Diabetes,I62.7,Surgery,2024-08-14,2024-08-19,5,Yes
+P01857,50.0,Female,Self-pay,COPD,I19.8,Emergency,2024-03-25,2024-03-30,5,No
+P01858,51.0,Male,Government,Heart Disease,I97.2,General Medicine,2023-08-12,2023-08-17,5,No
+P01859,37.0,Female,Self-pay,Kidney Disease,I38.0,Cardiology,2024-05-17,2024-05-25,8,No
+P01860,64.0,Male,Private,Heart Disease,I54.0,Cardiology,2023-08-06,2023-08-11,5,No
+P01861,79.0,Male,Private,COPD,I42.2,General Medicine,2024-10-04,2024-10-13,9,Yes
+P01862,44.0,Male,Government,Heart Disease,I22.1,Cardiology,2023-02-02,2023-02-06,4,No
+P01863,60.0,Female,Private,Heart Disease,I91.8,Surgery,2024-02-28,2024-03-06,7,No
+P01864,67.0,Female,Private,Kidney Disease,I38.2,General Medicine,2023-01-07,2023-01-11,4,Yes
+P01865,73.0,Female,Government,None,I82.8,Pulmonology,2024-07-10,2024-07-15,5,No
+P01866,59.0,Male,Government,Hypertension,I64.4,Cardiology,2023-02-17,2023-02-22,5,Yes
+P01867,81.0,Female,Private,Diabetes,I98.2,Surgery,2023-12-29,2024-01-06,8,No
+P01868,61.0,Male,Private,Hypertension,I10.7,Cardiology,2023-12-19,2023-12-26,7,No
+P01869,83.0,Male,Private,Hypertension,I31.1,General Medicine,2024-09-14,2024-09-21,7,No
+P01870,67.0,Female,Government,COPD,I72.0,General Medicine,2024-08-02,2024-08-11,9,Yes
+P01871,64.0,Male,Government,Kidney Disease,I80.1,General Medicine,2023-11-17,2023-11-25,8,No
+P01872,71.0,Male,Government,Kidney Disease,I76.0,General Medicine,2023-12-14,2023-12-22,8,No
+P01873,36.0,Female,Self-pay,Diabetes,I58.9,Orthopedics,2024-06-04,2024-06-09,5,No
+P01874,53.0,Female,Private,None,I16.1,Orthopedics,2023-05-22,2023-05-27,5,Yes
+P01875,53.0,Male,Government,Hypertension,I78.2,General Medicine,2023-08-23,2023-08-31,8,Yes
+P01876,54.0,Male,Private,None,I93.3,General Medicine,2024-06-21,2024-06-28,7,No
+P01877,34.0,Female,Government,Hypertension,I99.0,General Medicine,2024-10-04,2024-10-12,8,No
+P01878,54.0,Female,Private,Hypertension,I29.3,Pulmonology,2023-05-14,2023-05-19,5,No
+P01879,68.0,Male,Self-pay,Heart Disease,I34.0,Pulmonology,2023-05-14,2023-05-20,6,No
+P01880,49.0,Male,Private,Diabetes,I17.5,General Medicine,2024-09-01,2024-09-05,4,Yes
+P01881,23.0,Male,Self-pay,Diabetes,I78.3,Cardiology,2023-03-14,2023-03-17,3,No
+P01882,61.0,Male,Government,None,I19.7,Emergency,2024-09-14,2024-09-15,1,Yes
+P01883,52.0,Female,Private,None,I13.4,Emergency,2024-07-08,2024-07-15,7,No
+P01884,82.0,Male,Government,None,I35.1,Emergency,2023-01-15,2023-01-24,9,No
+P01885,49.0,Male,Government,None,I60.7,Orthopedics,2023-02-11,2023-02-12,1,No
+P01886,40.0,Male,Government,Kidney Disease,I56.0,Emergency,2023-10-21,2023-10-26,5,No
+P01887,63.0,Male,Self-pay,Kidney Disease,I35.4,General Medicine,2023-07-13,2023-07-23,10,No
+P01888,56.0,Male,Government,Heart Disease,I34.2,Pulmonology,2024-01-30,2024-02-04,5,Yes
+P01889,37.0,Male,Private,Heart Disease,I62.2,Orthopedics,2023-12-18,2023-12-22,4,No
+P01890,46.0,Female,Private,COPD,I75.0,Surgery,2024-05-19,2024-05-25,6,No
+P01891,45.0,Male,Government,Kidney Disease,I91.3,General Medicine,2024-12-29,2025-01-04,6,Yes
+P01892,42.0,Male,Private,Kidney Disease,I40.2,General Medicine,2023-10-16,2023-10-24,8,No
+P01893,38.0,Male,Private,COPD,I38.3,Emergency,2023-07-27,2023-08-02,6,No
+P01894,32.0,Male,Government,Kidney Disease,I95.8,Surgery,2023-01-29,2023-02-02,4,No
+P01895,60.0,Male,Government,None,I82.4,Surgery,2024-04-09,2024-04-15,6,No
+P01896,36.0,Female,Government,None,I91.5,Orthopedics,2024-01-05,2024-01-08,3,No
+P01897,34.0,Female,Private,Kidney Disease,I86.8,Emergency,2023-03-07,2023-03-12,5,No
+P01898,69.0,Male,Private,Diabetes,I99.0,Surgery,2024-09-25,2024-10-03,8,No
+P01899,59.0,Male,Government,Hypertension,I51.5,Surgery,2024-02-11,2024-02-16,5,No
+P01900,43.0,Female,Private,None,I45.2,Emergency,2024-08-25,2024-08-31,6,No
+P01901,46.0,Female,Private,None,I43.8,General Medicine,2023-09-11,2023-09-12,1,No
+P01902,61.0,Male,Government,None,I37.0,Surgery,2024-02-27,2024-02-28,1,Yes
+P01903,55.0,Female,Government,Diabetes,I78.1,Surgery,2024-06-27,2024-07-06,9,No
+P01904,35.0,Male,Private,COPD,I21.8,Emergency,2023-06-10,2023-06-16,6,Yes
+P01905,89.0,Female,Private,None,I74.7,Emergency,2024-11-27,2024-11-29,2,No
+P01906,36.0,Female,Government,Heart Disease,I92.0,General Medicine,2024-02-25,2024-02-27,2,No
+P01907,48.0,Male,Private,COPD,I83.6,,2023-11-28,2023-12-03,5,No
+P01908,46.0,Male,Private,None,I90.5,Pulmonology,2024-03-25,2024-04-01,7,No
+P01909,24.0,Male,Government,Hypertension,I15.0,Cardiology,2023-06-05,2023-06-09,4,No
+P01910,87.0,Male,Private,COPD,I34.1,Emergency,2024-09-10,2024-09-17,7,No
+P01911,34.0,Male,Self-pay,None,I77.1,Surgery,2023-06-18,2023-06-21,3,No
+P01912,52.0,Female,Private,Heart Disease,I60.2,Orthopedics,2023-01-28,2023-02-03,6,No
+P01913,45.0,Female,Government,Kidney Disease,I57.9,Emergency,2024-11-06,2024-11-11,5,No
+P01914,46.0,Male,Government,None,I39.9,Emergency,2024-06-18,2024-06-25,7,No
+P01915,63.0,Female,Government,None,I38.5,Emergency,2023-08-21,2023-08-22,1,No
+P01916,50.0,Male,Private,None,I80.7,Cardiology,2023-07-11,2023-07-16,5,No
+P01917,79.0,Female,Government,None,I35.6,Cardiology,2023-01-15,2023-01-17,2,No
+P01918,62.0,Female,Self-pay,None,I38.8,General Medicine,2024-10-09,2024-10-10,1,No
+P01919,70.0,Female,Government,Hypertension,I43.8,Pulmonology,2024-02-17,2024-02-25,8,No
+P01920,58.0,Male,Private,None,I37.2,Cardiology,2023-06-15,2023-06-21,6,No
+P01921,15.0,Female,Private,None,I54.8,Orthopedics,2024-08-02,2024-08-05,3,Yes
+P01922,62.0,Female,Private,Hypertension,I55.6,Cardiology,2023-07-07,2023-07-13,6,No
+P01923,54.0,Male,Government,None,I41.7,Pulmonology,2023-09-08,2023-09-16,8,Yes
+P01924,50.0,Male,Government,COPD,I23.3,Cardiology,2024-11-16,2024-11-22,6,No
+P01925,48.0,Female,Government,Heart Disease,I11.1,Emergency,2024-01-30,2024-02-05,6,Yes
+P01926,45.0,Male,Private,Hypertension,I70.5,Emergency,2023-11-18,2023-11-23,5,No
+P01927,40.0,Male,Government,None,I90.1,Emergency,2024-03-14,2024-03-17,3,No
+P01928,60.0,Female,Government,Heart Disease,I44.0,Surgery,2024-11-17,2024-11-24,7,Yes
+P01929,57.0,Male,Private,COPD,I55.2,Cardiology,2023-01-01,2023-01-12,11,No
+P01930,66.0,Female,Government,Diabetes,I93.7,Cardiology,2024-11-08,2024-11-15,7,Yes
+P01931,53.0,Female,Government,Kidney Disease,I89.6,Surgery,2024-08-03,2024-08-08,5,No
+P01932,46.0,Female,Private,Heart Disease,I72.7,Emergency,2024-09-08,2024-09-12,4,No
+P01933,46.0,Male,Government,COPD,I53.9,Orthopedics,2024-07-01,2024-07-05,4,No
+P01934,78.0,Male,Government,Heart Disease,I90.9,Orthopedics,2024-12-16,2024-12-24,8,No
+P01935,60.0,Female,Private,Heart Disease,I13.8,General Medicine,2024-08-15,2024-08-20,5,No
+P01936,23.0,Male,Private,Diabetes,I13.5,Surgery,2024-01-23,2024-02-04,12,Yes
+P01937,18.0,Female,Private,Diabetes,I16.0,Cardiology,2024-07-28,2024-08-02,5,No
+P01938,90.0,Female,Government,Heart Disease,I67.9,Surgery,2023-11-13,2023-11-18,5,No
+P01939,34.0,Male,Private,Hypertension,I14.4,Pulmonology,2023-02-03,2023-02-10,7,Yes
+P01940,60.0,Male,Private,Hypertension,I59.4,Surgery,2024-09-23,2024-09-25,2,Yes
+P01941,36.0,Female,Government,Kidney Disease,I82.6,Emergency,2023-07-30,2023-08-04,5,Yes
+P01942,55.0,Male,Private,Diabetes,I77.2,Surgery,2024-11-21,2024-11-26,5,Yes
+P01943,47.0,Female,Government,None,I89.8,Pulmonology,2023-12-10,2023-12-13,3,No
+P01944,67.0,Female,Private,None,I43.4,General Medicine,2023-11-11,2023-11-18,7,No
+P01945,67.0,Male,Private,Hypertension,I87.9,Emergency,2024-09-14,2024-09-20,6,Yes
+P01946,48.0,Male,Government,Heart Disease,I44.6,Emergency,2024-06-22,2024-06-26,4,No
+P01947,79.0,Male,Private,Hypertension,I74.6,Cardiology,2024-05-03,2024-05-10,7,No
+P01948,,Female,Government,None,I84.4,Cardiology,2023-06-11,2023-06-15,4,Yes
+P01949,58.0,Female,Private,Hypertension,I24.7,General Medicine,2024-05-05,2024-05-12,7,No
+P01950,82.0,Male,Government,None,I57.5,Surgery,2024-08-22,2024-08-28,6,Yes
+P01951,57.0,Male,Private,Hypertension,I48.6,Orthopedics,2023-06-01,2023-06-06,5,No
+P01952,53.0,Male,Self-pay,None,I23.2,General Medicine,2023-07-28,2023-08-03,6,No
+P01953,64.0,Female,Government,Hypertension,I34.5,,2024-10-05,2024-10-15,10,No
+P01954,55.0,Female,Self-pay,Diabetes,I83.9,Emergency,2023-03-12,2023-03-18,6,Yes
+P01955,50.0,Male,Private,Kidney Disease,I20.1,Emergency,2024-07-09,2024-07-12,3,No
+P01956,58.0,Female,Private,Kidney Disease,I95.2,Cardiology,2023-09-12,2023-09-17,5,Yes
+P01957,69.0,Male,Government,Diabetes,I39.7,General Medicine,2024-03-01,2024-03-08,7,No
+P01958,28.0,Male,Government,None,I14.8,Pulmonology,2024-10-28,2024-10-31,3,No
+P01959,57.0,Female,Private,Hypertension,I16.2,Pulmonology,2024-10-31,2024-11-08,8,Yes
+P01960,51.0,Female,Private,Heart Disease,I14.4,Emergency,2023-11-23,2023-11-29,6,Yes
+P01961,59.0,Female,Self-pay,Heart Disease,I81.9,Orthopedics,2024-03-08,2024-03-13,5,No
+P01962,43.0,Female,Government,None,I35.3,Cardiology,2023-06-06,2023-06-14,8,No
+P01963,50.0,Male,Private,None,I37.3,Pulmonology,2023-08-24,2023-08-29,5,Yes
+P01964,60.0,Male,Government,Diabetes,I64.7,Emergency,2023-01-11,2023-01-14,3,No
+P01965,75.0,Female,Private,None,I41.0,Cardiology,2024-10-19,2024-10-26,7,No
+P01966,41.0,Male,Private,Hypertension,I43.7,Cardiology,2023-01-30,2023-02-03,4,Yes
+P01967,46.0,Male,Private,Heart Disease,I18.9,Pulmonology,2023-01-17,2023-01-23,6,Yes
+P01968,25.0,Female,Private,Diabetes,I57.0,Surgery,2024-02-28,2024-03-01,2,No
+P01969,50.0,Male,Government,Diabetes,I70.7,Emergency,2023-09-24,2023-09-30,6,No
+P01970,41.0,Female,Private,Heart Disease,I59.5,General Medicine,2023-08-21,2023-08-29,8,No
+P01971,51.0,Female,Government,Kidney Disease,I18.2,Cardiology,2024-09-05,2024-09-10,5,Yes
+P01972,55.0,Male,Private,COPD,I42.8,General Medicine,2023-05-31,2023-06-05,5,No
+P01973,71.0,Male,Government,Diabetes,I33.1,Cardiology,2023-03-30,2023-04-07,8,No
+P01974,72.0,Female,Private,Kidney Disease,I98.8,Emergency,2024-09-20,2024-09-27,7,Yes
+P01975,72.0,Male,Self-pay,None,I72.4,General Medicine,2024-10-06,2024-10-11,5,No
+P01976,32.0,Female,Government,Heart Disease,I55.2,General Medicine,2023-04-23,2023-04-25,2,No
+P01977,57.0,Female,Private,Heart Disease,I38.8,Surgery,2023-06-17,2023-06-25,8,Yes
+P01978,70.0,Male,Private,Hypertension,I97.4,General Medicine,2024-10-23,2024-10-29,6,No
+P01979,44.0,Female,Private,COPD,I35.3,Orthopedics,2023-10-29,2023-11-01,3,No
+P01980,50.0,Male,Government,COPD,I86.9,Orthopedics,2023-01-13,2023-01-19,6,Yes
+P01981,23.0,Female,Government,Kidney Disease,I74.5,Cardiology,2023-11-17,2023-11-22,5,Yes
+P01982,60.0,Female,Self-pay,Kidney Disease,I91.3,Cardiology,2024-09-04,2024-09-12,8,No
+P01983,51.0,Male,Government,Heart Disease,I31.2,Orthopedics,2024-08-03,2024-08-13,10,Yes
+P01984,50.0,Male,Private,None,I27.0,General Medicine,2024-08-09,2024-08-14,5,No
+P01985,43.0,Male,Private,None,I62.3,Cardiology,2024-08-28,2024-08-29,1,No
+P01986,76.0,Male,Private,COPD,I29.6,Cardiology,2024-09-29,2024-10-05,6,No
+P01987,57.0,Male,Private,Kidney Disease,I43.9,Surgery,2024-10-23,2024-10-30,7,No
+P01988,60.0,Female,Private,COPD,I15.0,Emergency,2024-07-01,2024-07-07,6,No
+P01989,67.0,Male,Government,Heart Disease,I29.1,Orthopedics,2023-06-27,2023-07-02,5,No
+P01990,67.0,Female,Self-pay,Hypertension,I78.2,Pulmonology,2024-07-10,2024-07-19,9,No
+P01991,39.0,Female,Private,Hypertension,I77.5,Emergency,2024-07-04,2024-07-12,8,Yes
+P01992,57.0,Male,Government,Diabetes,I59.2,Surgery,2024-05-29,2024-06-06,8,No
+P01993,74.0,Female,Government,COPD,I59.6,Emergency,2024-02-13,2024-02-18,5,No
+P01994,33.0,Male,Private,Heart Disease,I33.1,General Medicine,2024-03-22,2024-03-24,2,No
+P01995,52.0,Male,Government,Diabetes,I30.9,Emergency,2023-08-11,2023-08-16,5,No
+P01996,62.0,Female,Self-pay,Hypertension,I99.1,Cardiology,2024-09-21,2024-09-27,6,No
+P01997,55.0,Female,Self-pay,Heart Disease,I98.8,Cardiology,2023-06-14,2023-06-20,6,No
+P01998,54.0,Male,Private,Kidney Disease,I62.0,General Medicine,2023-06-22,2023-06-28,6,No
+P01999,76.0,Male,Private,Kidney Disease,I79.6,Emergency,2023-04-09,2023-04-16,7,Yes
+P02000,31.0,Male,Private,COPD,I40.8,General Medicine,2023-12-30,2024-01-05,6,No

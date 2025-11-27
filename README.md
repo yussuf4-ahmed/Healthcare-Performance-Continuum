@@ -48,7 +48,7 @@ The project followed an end-to-end data analytics workflow:
 
 ## Dashboard 1: Overview Dashboard
 
-![Overview Dashboard](/projects/Overview%20Dashboard.jpg)
+![Overview Dashboard](Dashboard%20Screenshots/Overview%20Dashboard.jpg)
 
 ### Business Questions, Insights & Recommendations
 
@@ -90,7 +90,7 @@ The project followed an end-to-end data analytics workflow:
 
 ## Dashboard 2: Readmission Dashboard
 
-![Readmission Dashboard](/projects/Readmission%20Dashboard.jpg)
+![Readmission Dashboard](Dashboard%20Screenshots/Readmission%20Dashboard.jpg)
 
 ### Business Questions, Insights & Recommendations
 
@@ -149,7 +149,7 @@ The project followed an end-to-end data analytics workflow:
 
 ## Dashboard 3: Operations Dashboard
 
-![Operations Dashboard](/projects/Operations%20Dashboard.jpg)
+![Operations Dashboard](Dashboard%20Screenshots/Operations%20Dashboard.jpg)
 
 ### Business Questions, Insights & Recommendations
 
